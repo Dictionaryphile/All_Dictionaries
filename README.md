@@ -1,7 +1,5 @@
 
----
-
-
+试试页面内 Ctrl + F 。  
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
 
@@ -50,15 +48,14 @@
 - [Wikipedia](https://www.wikipedia.org/)
 - [RHUD](http://www.dictionary.com/)
   - https://www.infoplease.com/
-
 - [CED](https://www.collinsdictionary.com/)
 - [Urban Dictionary](http://www.urbandictionary.com/)
-- [OALD](http://www.oxfordlearnersdictionaries.com/)
+- [OALD::Oxford Advanced Learner’s Dictionary](http://www.oxfordlearnersdictionaries.com/)
 - [LDOCE](http://www.ldoceonline.com/)
   - [Longman Dictionaries Online U.S.A.](http://longmandictionariesusa.com/)
   - [Longman Global](http://global.longmandictionaries.com/)
-- [MWALED](http://www.learnersdictionary.com/)
-- [MED](http://www.macmillandictionary.com/)
+- [MWALED::Merriam-Webster Advanced Learner’s English Dictionary](http://www.learnersdictionary.com/)
+- [MED::Macmillan English Dictionary for Advanced Learners](http://www.macmillandictionary.com/)
 - [CALD](http://dictionary.cambridge.org/)
 - [WNWCD](http://websters.yourdictionary.com/)
 - [TFD](http://www.thefreedictionary.com/)
@@ -90,14 +87,19 @@
 - [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
 - [Easybib](http://www.easybib.com/cite/results?source=website&query=test)
 - [音标反查](http://forum.putclub.com/soundict/)
-- [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
-- [COCA](https://corpus.byu.edu/coca/)
 - [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
 - [国家数据](http://data.stats.gov.cn/)
 
+## 语料库
+- [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
+- [COCA](https://corpus.byu.edu/coca/)
+- [COCA Frequency list](https://www.wordandphrase.info/frequencyList.asp)
+- [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
+
+
 ## 付费
-- [OED](http://www.oed.com/)
-- [MWU](http://unabridged.merriam-webster.com/)
+- [OED:: Oxford English Dictionary](http://www.oed.com/)
+- [MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
 - [WB:: World Book](http://worldbookonline.com/)
 - https://www.britannica.com/
 - http://japanknowledge.com/
