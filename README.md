@@ -23,6 +23,7 @@
   - [教育部國語辭典簡編本](http://dict.concised.moe.edu.tw/jbdic/)
 
 ## 在线翻译
+注：输入单个英语词典，以下站点也可以当在线词典使用。  
 - [Google Translate](https://translate.google.com/)
 - [百度翻译::金山词霸](http://fanyi.baidu.com/)
 - [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
