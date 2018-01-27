@@ -73,7 +73,6 @@
 - [Wordnik](https://www.wordnik.com/)
 - [Lingvo Live](https://www.lingvolive.com/)
 - [Lingea dictionaries](https://www.dict.com/)
-- [COCA](http://corpus.byu.edu/coca/)
 - [Online Etymology Dictionary](http://www.etymonline.com/)
 - http://dictionary.reverso.net/
 - https://glosbe.com/tmem/
