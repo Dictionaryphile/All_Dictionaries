@@ -92,6 +92,8 @@
 - [音标反查](http://forum.putclub.com/soundict/)
 - [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
 - [国家数据](http://data.stats.gov.cn/)
+- [英孚在线翻译](http://center.ef.com.cn/dict/)
+
 
 ## 语料库
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
@@ -104,6 +106,7 @@
 - [OED:: Oxford English Dictionary](http://www.oed.com/)
 - [MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
 - [WB:: World Book](http://worldbookonline.com/)
+- [Macquarie Dictionary](https://www.macquariedictionary.com.au/)
 - https://www.britannica.com/
 - http://japanknowledge.com/
 - [Credo Reference](http://search.credoreference.com/)
