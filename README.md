@@ -2,7 +2,7 @@
 - https prefered.
 
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
-- [有道词典](https://youdao.com/)
+
 
 感谢词典服务提供商为我们提供词典查询服务。  
 
@@ -43,11 +43,11 @@
 
 - [Online Etymology Dictionary](http://www.etymonline.com/)
 - [http://cn.bing.com/dict/ =](http://dict.sogou.com/)
-- http://www.youdict.com/
-- http://dict.hjenglish.com/
-- http://dict.cn/
-- http://www.iciba.com/
-- http://dict.youdao.com/
+- [优词词典](http://www.youdict.com/)
+- [沪江小D](http://dict.hjenglish.com/)
+- [海词词典](http://dict.cn/)
+- [金山词霸](http://www.iciba.com/)
+- [有道词典](https://youdao.com/)
 - [德语助手](https://www.godic.net/)
 - [法语助手](https://www.frdic.com/)
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
