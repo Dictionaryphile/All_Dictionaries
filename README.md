@@ -80,7 +80,7 @@
 - https://bab.la/
 - https://www.translated.net/en/translation-api
 - http://www.wordreference.com/definition/
-- http://visual.merriam-webster.com/
+- [Merriam-Webster Visual Dictionary Online)(http://visual.merriam-webster.com/)
 
 - http://dictionary.goo.ne.jp/
 - [LINE Dict](http://www.linedict.com/)
@@ -88,7 +88,7 @@
 ## 其他
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
 - [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
-- [Easybib](http://www.easybib.com/cite/results?source=website&query=test)
+- [EasyBib](http://www.easybib.com/cite/results?source=website&query=test)
 - [音标反查](http://forum.putclub.com/soundict/)
 - [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
 - [国家数据](http://data.stats.gov.cn/)
