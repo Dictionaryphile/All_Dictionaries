@@ -22,9 +22,6 @@
 - [汉典](http://www.zdic.net/)
 - [国学大师](http://www.guoxuedashi.com/)
 - [萌典](https://www.moedict.tw/)
-- [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
-  - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
-  - [教育部國語辭典簡編本](http://dict.concised.moe.edu.tw/jbdic/)
 
 ## 在线翻译
 注：输入单个英语词汇，以下站点也可以当在线词典使用。  
@@ -34,9 +31,13 @@
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
 
 ## 官方
+- [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
+  - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
+  - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
 - [辞源（第三版）::付费](http://ciyuan.cp.com.cn/)
 - [大辞海::付费](http://www.dacihai.com.cn/)
 - [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
+- [中华语文知识库](http://www.zhonghuayuwen.org/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 
 ## 其他
