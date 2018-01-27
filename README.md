@@ -29,10 +29,9 @@
 ## 在线翻译
 注：输入单个英语词汇，以下站点也可以当在线词典使用。  
 - [Google Translate](https://translate.google.com/)
-- [百度翻译::金山词霸::柯林斯、牛津高阶](http://fanyi.baidu.com/)
+- [百度翻译::金山词霸::柯林斯、牛津高阶](http://fanyi.baidu.com/#en/zh/welcome)
 - [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
--
 
 ## 官方
 - [辞源（第三版）::付费](http://ciyuan.cp.com.cn/)
