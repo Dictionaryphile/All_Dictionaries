@@ -7,7 +7,7 @@
 
 感谢词典服务提供商为我们提供词典查询服务。  
 
-##
+## 国内免费
 - [有道词典](https://youdao.com/)
 - [金山词霸](http://www.iciba.com/)
 - [必应词典](http://cn.bing.com/dict/)
@@ -16,8 +16,6 @@
 - [海词词典](http://dict.cn/)
 - [德语助手](https://www.godic.net/)
 - [法语助手](https://www.frdic.com/)
-- [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
-
 - [汉典](http://www.zdic.net/)
 - [国学大师](http://www.guoxuedashi.com/)
 
@@ -30,8 +28,11 @@
 ## 官方
 - [术语在线](http://www.termonline.cn/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
+- [辞源（第三版）](http://ciyuan.cp.com.cn/)
+- [大辞海](http://www.dacihai.com.cn/)
 
 ## 免费
+- [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
 - [Wikipedia](https://www.wikipedia.org/)
 - [RHUD](http://www.dictionary.com/)
   - https://www.infoplease.com/
@@ -78,8 +79,12 @@
 - http://dictionary.goo.ne.jp/
 
 
+## 其他
+- [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
+- [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
+- [](http://www.easybib.com/cite/results?source=website&query=test)
 
-
+## app
 
 ## 付费
 - [OED](http://www.oed.com/)
