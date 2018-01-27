@@ -5,7 +5,7 @@
 感谢词典服务提供商为我们提供词典查询服务。  
 
 ## 国内免费
-- [有道词典::21 世纪大英汉词典](https://youdao.com/)
+- [有道词典::21 世纪大英汉词典](http://youdao.com/)
 - [金山词霸::柯林斯 COBUILD 高阶英汉双解学习词典](http://www.iciba.com/)
 - [必应词典::牛津高阶英汉双解词典（第 8 版）](http://cn.bing.com/dict/)
 - [沪江小D::新世纪英汉大词典](http://dict.hjenglish.com/)
