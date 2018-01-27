@@ -2,7 +2,6 @@
 试试页面内 Ctrl + F 。  
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
-
 感谢词典服务提供商为我们提供词典查询服务。  
 
 ## 国内免费
@@ -43,7 +42,7 @@
 - [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
 
 ## 高排名站点
-- [ODE](https://en.oxforddictionaries.com/)
+- [ODE::Oxford Dictionary of English / NOAD](https://en.oxforddictionaries.com/)
 - [MWCD::Merriam-Webster’s Collegiate Dictionary](https://www.merriam-webster.com/)
 - [Wikipedia](https://www.wikipedia.org/)
 - [Wiktionary, the free dictionary](https://www.wiktionary.org/)
@@ -66,7 +65,7 @@
 
 ## 免费
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
-- [AHD](https://www.ahdictionary.com/)
+- [AHD::The American Heritage Dictionary of the English Language](https://www.ahdictionary.com/)
   - http://americanheritage.yourdictionary.com/
 - [Wordnik](https://www.wordnik.com/)
 - [Lingvo Live](https://www.lingvolive.com/)
