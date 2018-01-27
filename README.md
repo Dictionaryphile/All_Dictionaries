@@ -41,6 +41,8 @@
 - [搜文解字](http://words.sinica.edu.tw/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
 - [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
+- [搜韵网](https://sou-yun.com/)
+- [古诗文网](http://www.gushiwen.org/)
 
 ## 高排名站点
 - [ODE::Oxford Dictionary of English / NOAD](https://en.oxforddictionaries.com/)
@@ -82,6 +84,7 @@
 - http://visual.merriam-webster.com/
 
 - http://dictionary.goo.ne.jp/
+- [LINE Dict](http://www.linedict.com/)
 
 ## 其他
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
