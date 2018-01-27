@@ -77,9 +77,12 @@
 - [Macquarie Dictionary](https://www.macquariedictionary.com.au/)
 - [Encyclopædia Britannica](https://www.britannica.com/)
 - [JapanKnowledge::日本大百科全書](http://japanknowledge.com/)
+- [Oxford Reference](http://www.oxfordreference.com/)
+- [Oxford Classical Dictionary](http://classics.oxfordre.com/)
 - [Credo Reference](http://search.credoreference.com/)
 - [Go Grolier](http://go.grolier.com/)
 - [CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
+- [方正阿帕比中国工具书资源全文数据库](http://www.apabi.cn/solution/source/4/)
 
 ## 免费
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
@@ -106,6 +109,8 @@
 - [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [LINE Dict](http://www.linedict.com/)
+- [Australian National Dictionary](http://australiannationaldictionary.com.au/)
+- [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
 
 ## 其他
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
@@ -130,7 +135,7 @@
 - [殆知阁](http://www.daizhige.org/)
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
 - [COCA](https://corpus.byu.edu/coca/)
-- [COCA Frequency list](https://www.wordandphrase.info/frequencyList.asp)
+- [COCA Frequency list::查看 60000 单词词频排名](https://www.wordandphrase.info/frequencyList.asp)
 - [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
 
 
