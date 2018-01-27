@@ -123,6 +123,7 @@
 - [Mobile Systems](https://www.mobisystems.com/dictionaries/)
 
 ## 技术服务
+- [IDM](http://www.idmgroup.com/use-cases.htm)
 - [PubFactory](http://www.pubfactory.com/pubfactory/case-studies.html)
 
 -EOF-
