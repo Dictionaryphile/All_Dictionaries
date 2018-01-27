@@ -46,6 +46,7 @@
 - [ODE](https://en.oxforddictionaries.com/)
 - [MWCD](https://www.merriam-webster.com/)
 - [Wikipedia](https://www.wikipedia.org/)
+- [Wiktionary, the free dictionary](https://www.wiktionary.org/)
 - [RHUD](http://www.dictionary.com/)
   - https://www.infoplease.com/
 - [CED](https://www.collinsdictionary.com/)
@@ -81,6 +82,7 @@
 
 - http://dictionary.goo.ne.jp/
 
+- [KDictionaries(42 Languages)](http://kdictionaries-online.com/)
 
 ## 其他
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
@@ -122,5 +124,6 @@
 ## 技术服务
 - [IDM](http://www.idmgroup.com/use-cases.htm)
 - [PubFactory](http://www.pubfactory.com/pubfactory/case-studies.html)
+- [TLex Suite: Dictionary Compilation Software](http://tshwanedje.com/tshwanelex/)
 
 -EOF-
