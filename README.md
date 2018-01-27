@@ -1,9 +1,7 @@
-##宇宙最全在线词典网站导航
+## 宇宙最全在线词典网站导航
 
 说明：  
-- 试试页面内 Ctrl + F 。  
-- 为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，“::”后点明典型词典。
-- [讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
+试试页面内 Ctrl + F 。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，“::”后点明典型词典。[讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
 
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
