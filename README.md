@@ -80,7 +80,7 @@
 - https://bab.la/
 - https://www.translated.net/en/translation-api
 - http://www.wordreference.com/definition/
-- [Merriam-Webster Visual Dictionary Online)(http://visual.merriam-webster.com/)
+- [Merriam-Webster Visual Dictionary Online](http://visual.merriam-webster.com/)
 
 - http://dictionary.goo.ne.jp/
 - [LINE Dict](http://www.linedict.com/)
