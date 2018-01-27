@@ -1,14 +1,16 @@
+##宇宙最全在线词典网站导航
 
-试试页面内 Ctrl + F 。  
-为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。  
-[讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
+说明：  
+- 试试页面内 Ctrl + F 。  
+- 为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，“::”后点明典型词典。
+- [讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
 
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
 感谢词典服务提供商为我们提供词典查询服务。  
 
 ## 国内免费（部分有收费业务）
-- [有道词典::21 世纪大英汉词典](http://youdao.com/)
+- [有道词典::21 世纪大英汉词典 软件端（桌面、移动 app）可使用朗文词典](http://youdao.com/)
 - [金山词霸::柯林斯 COBUILD 高阶英汉双解学习词典](http://www.iciba.com/)
 - [必应词典::牛津高阶英汉双解词典（第 8 版）](http://cn.bing.com/dict/)
 - [沪江小D::新世纪英汉大词典](http://dict.hjenglish.com/)
