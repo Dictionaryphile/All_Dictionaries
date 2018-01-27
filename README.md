@@ -89,10 +89,12 @@
 - [Lingvo Live](https://www.lingvolive.com/)
 - [Lingea dictionaries](https://www.dict.com/)
 - [Online Etymology Dictionary](http://www.etymonline.com/)
-- http://dictionary.reverso.net/
+- [Reverso](http://dictionary.reverso.net/)
 - [Glosbe](https://glosbe.com/)
 - [Linguee](https://www.linguee.com/)
 - [Linggle](http://linggle.com/)
+- [LEXILOGOS](http://www.lexilogos.com/)
+- [LAROUSSE](http://www.larousse.fr/)
 - [PONS Online Dictionary](https://pons.com/)
 - [bab.la Online dictionary for 28 languages](https://bab.la)
 - [WordReference](http://www.wordreference.com/definition/)
