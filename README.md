@@ -7,6 +7,26 @@
 
 感谢词典服务提供商为我们提供词典查询服务。  
 
+##
+- [有道词典](https://youdao.com/)
+- [金山词霸](http://www.iciba.com/)
+- [必应词典](http://cn.bing.com/dict/)
+- [优词词典](http://www.youdict.com/)
+- [沪江小D](http://dict.hjenglish.com/)
+- [海词词典](http://dict.cn/)
+- [德语助手](https://www.godic.net/)
+- [法语助手](https://www.frdic.com/)
+- [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
+
+- [汉典](http://www.zdic.net/)
+- [国学大师](http://www.guoxuedashi.com/)
+
+- [萌典](https://www.moedict.tw/)
+
+- [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
+  - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
+  - [教育部國語辭典簡編本](http://dict.concised.moe.edu.tw/jbdic/)
+
 ## 官方
 - [术语在线](http://www.termonline.cn/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
@@ -43,15 +63,6 @@
 - [CALD](http://dictionary.cambridge.org/)
 
 - [Online Etymology Dictionary](http://www.etymonline.com/)
-- [http://cn.bing.com/dict/ =](http://dict.sogou.com/)
-- [优词词典](http://www.youdict.com/)
-- [沪江小D](http://dict.hjenglish.com/)
-- [海词词典](http://dict.cn/)
-- [金山词霸](http://www.iciba.com/)
-- [有道词典](https://youdao.com/)
-- [德语助手](https://www.godic.net/)
-- [法语助手](https://www.frdic.com/)
-- [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
 
 - http://dictionary.reverso.net/
 - https://glosbe.com/tmem/
@@ -62,14 +73,7 @@
 
 - http://visual.merriam-webster.com/
 
-- [汉典](http://www.zdic.net/)
-- [国学大师](http://www.guoxuedashi.com/)
 
-- [萌典](https://www.moedict.tw/)
-
-- [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
-  - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
-  - [教育部國語辭典簡編本](http://dict.concised.moe.edu.tw/jbdic/)
 
 - http://dictionary.goo.ne.jp/
 
