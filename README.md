@@ -95,7 +95,7 @@
 - [PONS Online Dictionary](https://pons.com/)
 - https://bab.la/
 - https://www.translated.net/en/translation-api
-- http://www.wordreference.com/definition/
+- [WordReference](http://www.wordreference.com/definition/)
 - [Merriam-Webster Visual Dictionary Online](http://visual.merriam-webster.com/)
 
 - http://dictionary.goo.ne.jp/
