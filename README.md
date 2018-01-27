@@ -69,6 +69,16 @@
 - [TFD::Random House Kernerman Webster’s College Dictionary](http://www.thefreedictionary.com/)
 - [Vocabulary.com](http://www.vocabulary.com/)
 
+## 付费
+- [OED:: Oxford English Dictionary](http://www.oed.com/)
+- [MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
+- [WB:: World Book](http://worldbookonline.com/)
+- [Macquarie Dictionary](https://www.macquariedictionary.com.au/)
+- https://www.britannica.com/
+- http://japanknowledge.com/
+- [Credo Reference](http://search.credoreference.com/)
+- [Go Grolier](http://go.grolier.com/)
+- [CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
 
 ## 免费
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
@@ -108,7 +118,7 @@
 - [词博词典](http://www.cibo.cn/)
 - [YouGlish:: Youtube 视频搜索](https://youglish.com/)
 - [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
-
+- [政府部門常用辭彙](http://www.csb.gov.hk/hkgcsb/glossary/glossary_tc.php)
 
 ## 语料库
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
@@ -117,16 +127,6 @@
 - [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
 
 
-## 付费
-- [OED:: Oxford English Dictionary](http://www.oed.com/)
-- [MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
-- [WB:: World Book](http://worldbookonline.com/)
-- [Macquarie Dictionary](https://www.macquariedictionary.com.au/)
-- https://www.britannica.com/
-- http://japanknowledge.com/
-- [Credo Reference](http://search.credoreference.com/)
-- [Go Grolier](http://go.grolier.com/)
-- [CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
 
 
 ## 博客
