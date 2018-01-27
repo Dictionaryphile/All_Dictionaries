@@ -14,6 +14,7 @@
 - [优词词典](http://www.youdict.com/)
 - [沪江小D](http://dict.hjenglish.com/)
 - [海词词典](http://dict.cn/)
+- [译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
 - [德语助手](https://www.godic.net/)
 - [法语助手](https://www.frdic.com/)
 - [汉典](http://www.zdic.net/)
@@ -24,6 +25,13 @@
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
   - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
   - [教育部國語辭典簡編本](http://dict.concised.moe.edu.tw/jbdic/)
+
+## 在线翻译
+- [Google Translate](https://translate.google.com/)
+- [百度翻译](http://fanyi.baidu.com/)
+- [搜狗翻译](http://fanyi.sogou.com/)
+- [腾讯翻译君](http://fanyi.qq.com/)
+-
 
 ## 官方
 - [术语在线](http://www.termonline.cn/)
@@ -82,9 +90,12 @@
 ## 其他
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
 - [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
-- [](http://www.easybib.com/cite/results?source=website&query=test)
-
-## app
+- [Easybib](http://www.easybib.com/cite/results?source=website&query=test)
+- [音标反查](http://forum.putclub.com/soundict/)
+- [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
+- [COCA](https://corpus.byu.edu/coca/)
+- [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
+- [国家数据](http://data.stats.gov.cn/)
 
 ## 付费
 - [OED](http://www.oed.com/)
@@ -92,7 +103,7 @@
 
 - http://japanknowledge.com/
 - [Credo Reference](http://search.credoreference.com/)
-- go.grolier.com
+- [Go Grolier](http://go.grolier.com/)
 - [CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
 
 
@@ -100,5 +111,14 @@
 - http://www.omniglot.com/
 - https://separatedbyacommonlanguage.blogspot.com/
 
+
+## app
+- [海笛](http://cidian.dict.cn/center.html)
+- [卡西欧权威辞典](http://www.casio.com.cn/e-edu/books.html)
+- [物書堂](https://www.monokakido.jp/)
+- [Mobile Systems](https://www.mobisystems.com/dictionaries/)
+
+## 技术服务
+- [](http://www.pubfactory.com/pubfactory/case-studies.html)
 
 -EOF-
