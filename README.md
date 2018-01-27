@@ -1,5 +1,7 @@
 
 试试页面内 Ctrl + F 。  
+为节省篇幅，就不介绍各个站点了，可以点击进去自行查看。  
+
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
 感谢词典服务提供商为我们提供词典查询服务。  
@@ -13,6 +15,7 @@
 - [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
 - [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
 - [优词词典](http://www.youdict.com/)
+- [人人词典](https://www.91dict.com/)
 - [德语助手](https://www.godic.net/)
 - [法语助手](https://www.frdic.com/)
 - [汉典](http://www.zdic.net/)
@@ -75,8 +78,10 @@
 - [Lingea dictionaries](https://www.dict.com/)
 - [Online Etymology Dictionary](http://www.etymonline.com/)
 - http://dictionary.reverso.net/
-- https://glosbe.com/tmem/
-- https://pons.com/
+- [Glosbe](https://glosbe.com/)
+- [Linguee](https://www.linguee.com/)
+- [Linggle](http://linggle.com/)
+- [PONS Online Dictionary](https://pons.com/)
 - https://bab.la/
 - https://www.translated.net/en/translation-api
 - http://www.wordreference.com/definition/
@@ -100,7 +105,7 @@
 - [句酷](http://www.jukuu.com/)
 - [查查在线词典](http://www.ichacha.net/)
 - [词博词典](http://www.cibo.cn/)
-
+- [YouGlish:: Youtube 视频搜索](https://youglish.com/)
 
 ## 语料库
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
