@@ -44,22 +44,23 @@
 
 ## 高排名站点
 - [ODE](https://en.oxforddictionaries.com/)
-- [MWCD](https://www.merriam-webster.com/)
+- [MWCD::Merriam-Webster’s Collegiate Dictionary](https://www.merriam-webster.com/)
 - [Wikipedia](https://www.wikipedia.org/)
 - [Wiktionary, the free dictionary](https://www.wiktionary.org/)
-- [RHUD](http://www.dictionary.com/)
+- [RHUD::Random House Webster’s Unabridged Dictionary](http://www.dictionary.com/)
   - https://www.infoplease.com/
-- [CED](https://www.collinsdictionary.com/)
+- [CED::[CCALD] Collins COBUILD Advanced Learner’s Dictionary](https://www.collinsdictionary.com/)
 - [Urban Dictionary](http://www.urbandictionary.com/)
 - [OALD::Oxford Advanced Learner’s Dictionary](http://www.oxfordlearnersdictionaries.com/)
-- [LDOCE](http://www.ldoceonline.com/)
+- [LDOCE::Longman Dictionary of Contemporary English](http://www.ldoceonline.com/)
   - [Longman Dictionaries Online U.S.A.](http://longmandictionariesusa.com/)
   - [Longman Global](http://global.longmandictionaries.com/)
 - [MWALED::Merriam-Webster Advanced Learner’s English Dictionary](http://www.learnersdictionary.com/)
 - [MED::Macmillan English Dictionary for Advanced Learners](http://www.macmillandictionary.com/)
-- [CALD](http://dictionary.cambridge.org/)
-- [WNWCD](http://websters.yourdictionary.com/)
-- [TFD](http://www.thefreedictionary.com/)
+- [CALD::Cambridge Advanced Learner’s Dictionary](http://dictionary.cambridge.org/)
+- [剑桥高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
+- [WNWCD::Webster’s New World College Dictionary](http://websters.yourdictionary.com/)
+- [TFD::Random House Kernerman Webster’s College Dictionary](http://www.thefreedictionary.com/)
 - [Vocabulary.com](http://www.vocabulary.com/)
 
 
@@ -81,8 +82,6 @@
 - http://visual.merriam-webster.com/
 
 - http://dictionary.goo.ne.jp/
-
-- [KDictionaries(42 Languages)](http://kdictionaries-online.com/)
 
 ## 其他
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
