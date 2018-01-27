@@ -8,39 +8,37 @@
 感谢词典服务提供商为我们提供词典查询服务。  
 
 ## 国内免费
-- [有道词典](https://youdao.com/)
-- [金山词霸](http://www.iciba.com/)
-- [必应词典](http://cn.bing.com/dict/)
-- [优词词典](http://www.youdict.com/)
-- [沪江小D](http://dict.hjenglish.com/)
+- [有道词典::21 世纪大英汉词典](https://youdao.com/)
+- [金山词霸::柯林斯 COBUILD 高阶英汉双解学习词典](http://www.iciba.com/)
+- [必应词典::牛津高阶英汉双解词典（第 8 版）](http://cn.bing.com/dict/)
+- [沪江小D::新世纪英汉大词典](http://dict.hjenglish.com/)
 - [海词词典](http://dict.cn/)
 - [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
 - [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
+- [优词词典](http://www.youdict.com/)
 - [德语助手](https://www.godic.net/)
 - [法语助手](https://www.frdic.com/)
 - [汉典](http://www.zdic.net/)
 - [国学大师](http://www.guoxuedashi.com/)
-
 - [萌典](https://www.moedict.tw/)
-
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
   - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
   - [教育部國語辭典簡編本](http://dict.concised.moe.edu.tw/jbdic/)
 
 ## 在线翻译
 - [Google Translate](https://translate.google.com/)
-- [百度翻译](http://fanyi.baidu.com/)
-- [搜狗翻译](http://fanyi.sogou.com/)
-- [腾讯翻译君](http://fanyi.qq.com/)
+- [百度翻译::金山词霸](http://fanyi.baidu.com/)
+- [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
+- [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
 -
 
 ## 官方
 - [术语在线](http://www.termonline.cn/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
-- [辞源（第三版）](http://ciyuan.cp.com.cn/)
-- [大辞海](http://www.dacihai.com.cn/)
+- [辞源（第三版）::付费](http://ciyuan.cp.com.cn/)
+- [大辞海::付费](http://www.dacihai.com.cn/)
 
-##
+## 其他
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [搜文解字](http://words.sinica.edu.tw/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
@@ -82,10 +80,7 @@
 - https://bab.la/
 - https://www.translated.net/en/translation-api
 - http://www.wordreference.com/definition/
-
 - http://visual.merriam-webster.com/
-
-
 
 - http://dictionary.goo.ne.jp/
 
