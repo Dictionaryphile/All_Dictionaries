@@ -127,6 +127,7 @@
 
 
 ## 语料库
+- [殆知阁](http://www.daizhige.org/)
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
 - [COCA](https://corpus.byu.edu/coca/)
 - [COCA Frequency list](https://www.wordandphrase.info/frequencyList.asp)
@@ -145,6 +146,8 @@
 - [卡西欧权威辞典](http://www.casio.com.cn/e-edu/books.html)
 - [物書堂](https://www.monokakido.jp/)
 - [Mobile Systems](https://www.mobisystems.com/dictionaries/)
+- [WordWeb](https://wordweb.info/)
+
 
 ## 技术服务
 - [IDM](http://www.idmgroup.com/use-cases.htm)
