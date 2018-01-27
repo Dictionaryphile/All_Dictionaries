@@ -1,6 +1,6 @@
 ## 宇宙最全在线词典网站导航
 
-说明：  
+**说明**：  
 试试页面内 Ctrl + F 。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，“::”后点明典型词典。[讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
 
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
@@ -8,7 +8,7 @@
 感谢词典服务提供商为我们提供词典查询服务。  
 
 ## 国内免费（部分有收费业务）
-- [有道词典::21 世纪大英汉词典 软件端（桌面、移动 app）可使用朗文词典](http://youdao.com/)
+- [有道词典::21 世纪大英汉词典 软件端可使用《朗文当代高级英语辞典（英英·英汉双解）》（第 5 版）](http://youdao.com/)
 - [金山词霸::柯林斯 COBUILD 高阶英汉双解学习词典](http://www.iciba.com/)
 - [必应词典::牛津高阶英汉双解词典（第 8 版）](http://cn.bing.com/dict/)
 - [沪江小D::新世纪英汉大词典](http://dict.hjenglish.com/)
@@ -29,16 +29,16 @@
 ## 在线翻译
 注：输入单个英语词汇，以下站点也可以当在线词典使用。  
 - [Google Translate](https://translate.google.com/)
-- [百度翻译::金山词霸](http://fanyi.baidu.com/)
+- [百度翻译::金山词霸::柯林斯、牛津高阶](http://fanyi.baidu.com/)
 - [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
 -
 
 ## 官方
-- [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
-- [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 - [辞源（第三版）::付费](http://ciyuan.cp.com.cn/)
 - [大辞海::付费](http://www.dacihai.com.cn/)
+- [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
+- [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 
 ## 其他
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
@@ -70,7 +70,7 @@
 - [TFD::Random House Kernerman Webster’s College Dictionary](http://www.thefreedictionary.com/)
 - [Vocabulary.com](http://www.vocabulary.com/)
 
-## 付费
+## 付费（部分可免费试用）
 - [OED:: Oxford English Dictionary](http://www.oed.com/)
 - [MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
 - [WB:: World Book Encyclopedia / Dictionary](http://worldbookonline.com/)
@@ -136,9 +136,11 @@
 
 
 
-## 博客
+## 一些博客
 - http://www.omniglot.com/
 - https://separatedbyacommonlanguage.blogspot.com/
+- [Jeremy Butterfield Editorial](https://jeremybutterfield.wordpress.com/)
+- [Mike Swan](https://mikeswan.net/)
 
 
 ## app
