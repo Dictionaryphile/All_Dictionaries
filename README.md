@@ -1,6 +1,7 @@
 
 试试页面内 Ctrl + F 。  
-为节省篇幅，就不介绍各个站点了，可以点击进去自行查看。  
+为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。  
+[讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
 
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
@@ -93,13 +94,14 @@
 - [Linguee](https://www.linguee.com/)
 - [Linggle](http://linggle.com/)
 - [PONS Online Dictionary](https://pons.com/)
-- https://bab.la/
-- https://www.translated.net/en/translation-api
+- [bab.la Online dictionary for 28 languages](https://bab.la)
 - [WordReference](http://www.wordreference.com/definition/)
 - [Merriam-Webster Visual Dictionary Online](http://visual.merriam-webster.com/)
-
-- http://dictionary.goo.ne.jp/
-- [DLPO](https://www.priberam.pt/DLPO/)
+- [Yahoo!辞書](https://dic.yahoo.co.jp/)
+    - https://kotobank.jp/langdictionary/
+- [goo辞書](http://dictionary.goo.ne.jp/)
+- [Weblio辞書](https://www.weblio.jp/)
+- [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [LINE Dict](http://www.linedict.com/)
 
@@ -119,6 +121,8 @@
 - [YouGlish:: Youtube 视频搜索](https://youglish.com/)
 - [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
 - [政府部門常用辭彙](http://www.csb.gov.hk/hkgcsb/glossary/glossary_tc.php)
+- https://www.translated.net/en/translation-api
+
 
 ## 语料库
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
