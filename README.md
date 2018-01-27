@@ -83,6 +83,8 @@
 - [Merriam-Webster Visual Dictionary Online](http://visual.merriam-webster.com/)
 
 - http://dictionary.goo.ne.jp/
+- [DLPO](https://www.priberam.pt/DLPO/)
+- [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [LINE Dict](http://www.linedict.com/)
 
 ## 其他
