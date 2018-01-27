@@ -48,6 +48,7 @@
 - [古诗文网](http://www.gushiwen.org/)
 
 ## 高排名站点
+- [OneLook Dictionary Search](https://www.onelook.com/)
 - [ODE::Oxford Dictionary of English / NOAD](https://en.oxforddictionaries.com/)
 - [MWCD::Merriam-Webster’s Collegiate Dictionary](https://www.merriam-webster.com/)
 - [Wikipedia](https://www.wikipedia.org/)
@@ -106,6 +107,8 @@
 - [查查在线词典](http://www.ichacha.net/)
 - [词博词典](http://www.cibo.cn/)
 - [YouGlish:: Youtube 视频搜索](https://youglish.com/)
+- [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
+
 
 ## 语料库
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
