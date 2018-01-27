@@ -30,7 +30,7 @@
 -
 
 ## 官方
-- [术语在线](http://www.termonline.cn/)
+- [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 - [辞源（第三版）::付费](http://ciyuan.cp.com.cn/)
 - [大辞海::付费](http://www.dacihai.com.cn/)
