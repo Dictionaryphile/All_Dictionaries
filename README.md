@@ -14,7 +14,8 @@
 - [优词词典](http://www.youdict.com/)
 - [沪江小D](http://dict.hjenglish.com/)
 - [海词词典](http://dict.cn/)
-- [译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
+- [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
+- [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
 - [德语助手](https://www.godic.net/)
 - [法语助手](https://www.frdic.com/)
 - [汉典](http://www.zdic.net/)
@@ -39,40 +40,42 @@
 - [辞源（第三版）](http://ciyuan.cp.com.cn/)
 - [大辞海](http://www.dacihai.com.cn/)
 
-## 免费
-- [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
+##
+- [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
+- [搜文解字](http://words.sinica.edu.tw/)
+- [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
+- [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
+
+## 高排名站点
+- [ODE](https://en.oxforddictionaries.com/)
+- [MWCD](https://www.merriam-webster.com/)
 - [Wikipedia](https://www.wikipedia.org/)
 - [RHUD](http://www.dictionary.com/)
   - https://www.infoplease.com/
-- [AHD](https://www.ahdictionary.com/)
-  - http://americanheritage.yourdictionary.com/
-- [ODE](https://en.oxforddictionaries.com/)
-- [MWCD](https://www.merriam-webster.com/)
-- https://www.britannica.com/
 
-- [WNWCD](http://websters.yourdictionary.com/)
 - [CED](https://www.collinsdictionary.com/)
-- [WB](http://worldbookonline.com/)
-- [TFD](http://www.thefreedictionary.com/)
-- [Vocabulary.com](http://www.vocabulary.com/)
-- [Wordnik](https://www.wordnik.com/)
-
-- [Lingvo Live](https://www.lingvolive.com/)
-- [Lingea dictionaries](https://www.dict.com/)
 - [Urban Dictionary](http://www.urbandictionary.com/)
-
-- [COCA](http://corpus.byu.edu/coca/)
-
 - [OALD](http://www.oxfordlearnersdictionaries.com/)
 - [LDOCE](http://www.ldoceonline.com/)
   - [Longman Dictionaries Online U.S.A.](http://longmandictionariesusa.com/)
-  - http://global.longmandictionaries.com/
+  - [Longman Global](http://global.longmandictionaries.com/)
 - [MWALED](http://www.learnersdictionary.com/)
 - [MED](http://www.macmillandictionary.com/)
 - [CALD](http://dictionary.cambridge.org/)
+- [WNWCD](http://websters.yourdictionary.com/)
+- [TFD](http://www.thefreedictionary.com/)
+- [Vocabulary.com](http://www.vocabulary.com/)
 
+
+## 免费
+- [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
+- [AHD](https://www.ahdictionary.com/)
+  - http://americanheritage.yourdictionary.com/
+- [Wordnik](https://www.wordnik.com/)
+- [Lingvo Live](https://www.lingvolive.com/)
+- [Lingea dictionaries](https://www.dict.com/)
+- [COCA](http://corpus.byu.edu/coca/)
 - [Online Etymology Dictionary](http://www.etymonline.com/)
-
 - http://dictionary.reverso.net/
 - https://glosbe.com/tmem/
 - https://pons.com/
@@ -100,7 +103,8 @@
 ## 付费
 - [OED](http://www.oed.com/)
 - [MWU](http://unabridged.merriam-webster.com/)
-
+- [WB:: World Book](http://worldbookonline.com/)
+- https://www.britannica.com/
 - http://japanknowledge.com/
 - [Credo Reference](http://search.credoreference.com/)
 - [Go Grolier](http://go.grolier.com/)
