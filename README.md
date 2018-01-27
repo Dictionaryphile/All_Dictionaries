@@ -4,7 +4,7 @@
 
 感谢词典服务提供商为我们提供词典查询服务。  
 
-## 国内免费
+## 国内免费（部分有收费业务）
 - [有道词典::21 世纪大英汉词典](http://youdao.com/)
 - [金山词霸::柯林斯 COBUILD 高阶英汉双解学习词典](http://www.iciba.com/)
 - [必应词典::牛津高阶英汉双解词典（第 8 版）](http://cn.bing.com/dict/)
@@ -86,6 +86,7 @@
 - [LINE Dict](http://www.linedict.com/)
 
 ## 其他
+- [顏氏美語網路辭典](http://www.onlinedict.com/)
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
 - [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
 - [EasyBib](http://www.easybib.com/cite/results?source=website&query=test)
@@ -93,6 +94,10 @@
 - [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
 - [国家数据](http://data.stats.gov.cn/)
 - [英孚在线翻译](http://center.ef.com.cn/dict/)
+- [Interglot](http://www.interglot.com/dictionary)
+- [句酷](http://www.jukuu.com/)
+- [查查在线词典](http://www.ichacha.net/)
+- [词博词典](http://www.cibo.cn/)
 
 
 ## 语料库
