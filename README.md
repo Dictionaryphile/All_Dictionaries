@@ -73,10 +73,10 @@
 ## 付费
 - [OED:: Oxford English Dictionary](http://www.oed.com/)
 - [MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
-- [WB:: World Book](http://worldbookonline.com/)
+- [WB:: World Book Encyclopedia / Dictionary](http://worldbookonline.com/)
 - [Macquarie Dictionary](https://www.macquariedictionary.com.au/)
-- https://www.britannica.com/
-- http://japanknowledge.com/
+- [Encyclopædia Britannica](https://www.britannica.com/)
+- [JapanKnowledge::日本大百科全書](http://japanknowledge.com/)
 - [Credo Reference](http://search.credoreference.com/)
 - [Go Grolier](http://go.grolier.com/)
 - [CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
@@ -153,5 +153,10 @@
 - [IDM](http://www.idmgroup.com/use-cases.htm)
 - [PubFactory](http://www.pubfactory.com/pubfactory/case-studies.html)
 - [TLex Suite: Dictionary Compilation Software](http://tshwanedje.com/tshwanelex/)
+
+## 参考
+- [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
+- [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
+
 
 -EOF-
