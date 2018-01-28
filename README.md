@@ -35,8 +35,8 @@
 - [必应词典](http://cn.bing.com/dict/)
     - [牛津高阶英汉双解词典（第 **8** 版）（权威英汉双解 Advanced E-C 就是）](http://cn.bing.com/dict/search?q=welcome)
 - [沪江小D](http://dict.hjenglish.com/)
-    - [柯林斯·外研社新世纪英汉大词典](https://www.hjdict.com/w/welcome)
-    - [外教社·柯林斯汉英大词典](https://www.hjdict.com/w/%E5%A5%BD)
+    - [柯林斯·外研社新世纪英汉大词典::无义项提示词，排版糟糕](https://www.hjdict.com/w/welcome)
+    - [外教社·柯林斯汉英大词典::纸版未出](https://www.hjdict.com/w/%E5%A5%BD)
 - [海词词典](http://dict.cn/)
     - [权威付费 app 多](http://cidian.dict.cn/center.html)
 - [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
@@ -55,6 +55,7 @@
 - [Google Translate](https://translate.google.com/)
 - [百度翻译::金山词霸::柯林斯、牛津高阶](http://fanyi.baidu.com/#en/zh/welcome)
 - [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
+   - 搜狗词典 app 另有《新世纪汉英大词典》（第二版），但缺漏多多
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
 
 ## 常用英英词典
@@ -209,6 +210,7 @@
 - [Visual Thesaurus](https://www.visualthesaurus.com/)
 - [Visuwords](https://visuwords.com/electroscope)
 - [911 查询](https://danci.911cha.com/)
+- [生物医药大词典](http://dict.bioon.com/)
 
 ## 语料库
 - [殆知阁](http://www.daizhige.org/)
