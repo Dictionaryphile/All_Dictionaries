@@ -192,6 +192,7 @@
 
 
 ## 其他
+- [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [FORVO](https://forvo.com/)
 - [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
