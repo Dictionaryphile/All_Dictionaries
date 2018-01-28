@@ -6,7 +6,7 @@
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
 感谢词典服务提供商为我们提供词典查询服务。  
-- [国内常用在线词典](#常用)
+- [国内常用在线词典](#国内常用在线词典)
 - [在线翻译](#在线翻译)
 - [常用英语词典](#常用英语词典)
 - [汉语](#汉语)
@@ -164,6 +164,8 @@
 - [大БКРС](https://bkrs.info/)
 - [千亿词霸](http://www.qianyix.com/words/)
 - [Словари и энциклопедии на Академике](https://dic.academic.ru/)
+- [OpenRussian.org Russian Dictionary](https://en.openrussian.org/)
+
 
 ## 意大利语
 - [Collins Italian Dictionary](https://www.collinsdictionary.com/dictionary/english-italian/welcome)
