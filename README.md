@@ -1,15 +1,27 @@
 ## 宇宙最全在线词典网站导航
 
 ## 说明：  
-试试页面内 Ctrl + F （德语、法语 etc.）。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，“::”后点明典型词典。[讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
+试试页面内 Ctrl + F （汉语、日语、德语、法语 etc.）。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，“::”后点明典型词典。[讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
 
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
 感谢词典服务提供商为我们提供词典查询服务。  
+- [汉语](#汉语)
+- [日语](#日语)
+- [德语](#德语)
+- [法语](#法语)
+- [俄语](#俄语)
+
 
 ## 常用
-- [有道词典::21 世纪大英汉词典 软件端可使用《朗文当代高级英语辞典（英英·英汉双解）》（第 5 版）](http://youdao.com/)
-- [金山词霸::柯林斯 COBUILD 高阶英汉双解学习词典](http://www.iciba.com/)
+- [有道词典](http://youdao.com/)
+    - 21 世纪大英汉词典
+    - 柯林斯英汉双解大词典
+    - 朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅软件端可用）
+    - 韦氏大学英语词典（仅 VIP 可用）
+- [金山词霸](http://www.iciba.com/)
+    - [柯林斯 COBUILD 高阶英汉双解学习词典（2011 年版）](http://cp.iciba.com/collins/)
+    - 牛津高阶英汉双解词典（第 7 版）（仅软件端可用）
 - [必应词典::牛津高阶英汉双解词典（第 8 版）](http://cn.bing.com/dict/)
 - [沪江小D::新世纪英汉大词典](http://dict.hjenglish.com/)
 - [海词词典](http://dict.cn/)
@@ -23,7 +35,7 @@
 - [萌典](https://www.moedict.tw/)
 
 ## 在线翻译
-注：输入单个英语词汇，以下站点也可以当在线词典使用。  
+**注**：输入单个英语词汇，以下站点也可以当在线词典使用。  
 - [Google Translate](https://translate.google.com/)
 - [百度翻译::金山词霸::柯林斯、牛津高阶](http://fanyi.baidu.com/#en/zh/welcome)
 - [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
@@ -61,12 +73,6 @@
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 
 ## 其他
-- [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
-- [搜文解字](http://words.sinica.edu.tw/)
-- [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
-- [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
-- [搜韵网](https://sou-yun.com/)
-- [古诗文网](http://www.gushiwen.org/)
 
 ## 免费
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
@@ -92,6 +98,11 @@
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
 
 ## 汉语
+- [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
+- [搜文解字](http://words.sinica.edu.tw/)
+- [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
+- [搜韵网](https://sou-yun.com/)
+- [古诗文网](http://www.gushiwen.org/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
 
@@ -114,10 +125,15 @@
 - [法语助手](https://www.frdic.com/)
 - [LAROUSSE](http://www.larousse.fr/)
 
+## 俄语
+- [大БКРС](https://bkrs.info/)
+- [千亿词霸](http://www.qianyix.com/words/)
 
 
 ## 其他
+- [Dr.eye 譯典通](https://yun.dreye.com/dict_new/dict.php)
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
+- [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
 - [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
 - [EasyBib](http://www.easybib.com/cite/results?source=website&query=test)
