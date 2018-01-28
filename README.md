@@ -112,6 +112,7 @@
 - [语音字典(VoiceDic)](http://www.voicedic.com/)
 - [无忧无虑中学语文网](http://5156edu.com/)
     - [在线汉语词典](http://xh.5156edu.com/)
+- [北大 CCL 现代汉语语义词典:仅对注册的北大校园网用户开放](http://ccl.pku.edu.cn/ccl_sem_dict/)
 
 ## 其他英语类词典
 - [Infoplease](https://www.infoplease.com/)
@@ -271,7 +272,7 @@
 - https://separatedbyacommonlanguage.blogspot.com/
 - [Jeremy Butterfield Editorial](https://jeremybutterfield.wordpress.com/)
 - [Mike Swan](https://mikeswan.net/)
-
+- [中国社会科学院语言研究所](http://ling.cass.cn/)
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
