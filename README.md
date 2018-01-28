@@ -31,7 +31,7 @@
     - [韦氏大学英语词典（仅 VIP 移动端 app 可用，数据旧(2003?)）](https://weibo.com/1699451730/FBrj6ddjj)
 - [金山词霸](http://www.iciba.com/)
     - [外研社::柯林斯 COBUILD 高阶英汉双解学习词典（2011 年版）](http://cp.iciba.com/collins/)
-    - 牛津高阶英汉双解词典（第 **7** 版）（仅客户端可用，非最新第 8 版）
+    - [牛津高阶英汉双解词典（第 **7** 版）（仅客户端可用，非最新第 8 版）](http://www.iciba.com/welcome)
 - [必应词典](http://cn.bing.com/dict/)
     - [牛津高阶英汉双解词典（第 **8** 版）（权威英汉双解 Advanced E-C 就是）](http://cn.bing.com/dict/search?q=welcome)
 - [沪江小D](http://dict.hjenglish.com/)
@@ -75,9 +75,9 @@
     - [CCALD::Collins COBUILD Advanced Learner’s Dictionary](https://www.collinsdictionary.com/dictionary/english/welcome)
     - [CED::Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/welcome)
     - [Collins English Thesaurus](https://www.collinsdictionary.com/dictionary/english-thesaurus/welcome)
-    -[Collins Chinese Dictionary](https://www.collinsdictionary.com/dictionary/english-chinese/welcome)
+    - [Collins Chinese Dictionary](https://www.collinsdictionary.com/dictionary/english-chinese/welcome)
 - [YourDictionary](http://www.yourdictionary.com/)
-    - [AHD5::](http://americanheritage.yourdictionary.com/)
+    - [AHD5::The American Heritage Dictionary of the English Language](http://americanheritage.yourdictionary.com/)
     - [WNWCD5::Webster’s New World College Dictionary](http://websters.yourdictionary.com/)
 - [Urban Dictionary](http://www.urbandictionary.com/)
 - [Oxford Learner's Dictioanries](http://www.oxfordlearnersdictionaries.com/)
@@ -213,6 +213,7 @@
 - [Visual Thesaurus](https://www.visualthesaurus.com/)
 - [Visuwords](https://visuwords.com/electroscope)
 - [911 查询](https://danci.911cha.com/)
+- [丁香园生物医药词典](http://dict.biomart.cn/)
 - [生物医药大词典](http://dict.bioon.com/)
 
 ## 语料库
