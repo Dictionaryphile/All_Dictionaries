@@ -93,7 +93,7 @@
     - [Random House Kernerman Webster’s College Dictionary](https://www.thefreedictionary.com/welcome)
 - [Vocabulary.com](http://www.vocabulary.com/)
 - [OneLook Dictionary Search](https://www.onelook.com/)
-- [Green's Dictionary of Slang](https://greensdictofslang.com/)
+- [GDoS::Green's Dictionary of Slang](https://greensdictofslang.com/)
 
 ## 汉语
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
@@ -273,6 +273,7 @@
 - [Jeremy Butterfield Editorial](https://jeremybutterfield.wordpress.com/)
 - [Mike Swan](https://mikeswan.net/)
 - [中国社会科学院语言研究所](http://ling.cass.cn/)
+- [Sentence first:An Irishman's blog about the English language.](https://stancarey.wordpress.com/)
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
