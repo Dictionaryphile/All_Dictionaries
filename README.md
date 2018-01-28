@@ -112,6 +112,7 @@
 - [LINE Dict](http://www.linedict.com/)
 - [Australian National Dictionary](http://australiannationaldictionary.com.au/)
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
+- [BusinessDictionary](http://www.businessdictionary.com/)
 
 ## 汉语
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
@@ -151,6 +152,7 @@
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
 - [法语助手](https://www.frdic.com/)
 - [LAROUSSE](http://www.larousse.fr/)
+- [Le Dictionnaire Visuel (Fr)](http://www.ikonet.com/fr/ledictionnairevisuel/)
 
 ## 俄语
 - [大БКРС](https://bkrs.info/)
@@ -163,7 +165,7 @@
 ## 西班牙语
 - [Collins Spanish Dictionary](https://www.collinsdictionary.com/dictionary/english-spanish/welcome)
 - [西语助手](http://www.esdict.cn/)
-
+- [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
 
 ## 葡萄牙语
 - [Collins Portuguese Dictionary](https://www.collinsdictionary.com/dictionary/english-portuguese/welcome)
@@ -171,12 +173,15 @@
 
 ## 韩语
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
+- [沪江小D- 韩语词典](https://dict.hjenglish.com/kr/)
 
 ## 梵语
 - [梵语辞书文献数据库建设](http://www.fanfoyan.com/project/pkudic.html)
 
 
 ## 其他
+- [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
+- [译术网](http://www.all-terms.com/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 - [Dr.eye 譯典通](https://yun.dreye.com/dict_new/dict.php)
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
@@ -184,6 +189,7 @@
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
 - [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
 - [EasyBib](http://www.easybib.com/cite/results?source=website&query=test)
+- [Big Huge Thesaurus](https://words.bighugelabs.com/)
 - [音标反查](http://forum.putclub.com/soundict/)
 - [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
 - [国家数据](http://data.stats.gov.cn/)
@@ -191,11 +197,14 @@
 - [Interglot](http://www.interglot.com/dictionary)
 - [句酷](http://www.jukuu.com/)
 - [查查在线词典](http://www.ichacha.net/)
+- [词都](http://www.dictall.com/)
 - [词博词典](http://www.cibo.cn/)
 - [YouGlish:: Youtube 视频搜索](https://youglish.com/)
 - [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
 - [政府部門常用辭彙](http://www.csb.gov.hk/hkgcsb/glossary/glossary_tc.php)
 - https://www.translated.net/en/translation-api
+- [Visual Thesaurus](https://www.visualthesaurus.com/)
+- [Visuwords](https://visuwords.com/electroscope)
 
 
 ## 语料库
