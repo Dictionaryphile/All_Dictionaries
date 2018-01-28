@@ -42,10 +42,10 @@
 - [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
 - [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
     - [牛津·外研社英汉汉英词典（Oxford Chinese Dictionary）的英汉部分](https://hk.dictionary.search.yahoo.com/search?p=welcome)
-- [剑桥高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
+- [剑桥高阶英汉双解词典::**唯一**由官方提供的在线版高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
 - [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
 - [优词词典](http://www.youdict.com/)
-- [人人词典](https://www.91dict.com/)
+- [人人词典 - 跟人人影视字幕组一起学英语](https://www.91dict.com/)
 - [汉典](http://www.zdic.net/)
 - [国学大师](http://www.guoxuedashi.com/)
 - [萌典](https://www.moedict.tw/)
@@ -94,7 +94,8 @@
 - [OneLook Dictionary Search](https://www.onelook.com/)
 
 ## 免费
-- https://www.infoplease.com/
+- [Infoplease](https://www.infoplease.com/)
+    - [Random House Unabridged Dictionary, Copyright © 1997](https://www.infoplease.com/dictionary/welcome)
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
 - [AHD::The American Heritage Dictionary of the English Language](https://www.ahdictionary.com/)
 - [Wordnik](https://www.wordnik.com/)
