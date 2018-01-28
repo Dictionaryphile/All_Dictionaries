@@ -185,6 +185,13 @@
 - [Collins Italian Dictionary](https://www.collinsdictionary.com/dictionary/english-italian/welcome)
 - [Dizionario inglese-italiano - WordReference](http://www.wordreference.com/enit/)
 - [博大意汉词典](https://www.yihan.it/)
+- [Treccani](http://www.treccani.it/)
+- [sapere](http://www.sapere.it/)
+- [Verbi Italiani](https://www.italian-verbs.com/verbi-italiani.php)
+- [DIPI](http://www.dipionline.it/dizionario/)
+- [Internazionale](https://dizionario.internazionale.it/)
+- [DOP](http://www.dizionario.rai.it/ricerca.aspx)
+
 
 ## 西班牙语
 - [Diccionario de la lengua española de la Real Academia Española](http://dle.rae.es/)
@@ -298,5 +305,6 @@
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 - [**bbkbbk** 德语词库整理](https://pdawiki.com/forum/thread-11437-1-1.html)
 - [The Web of Online Dictionaries](https://www.facstaff.bucknell.edu/rbeard/diction.html)
+- [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 
 -EOF-
