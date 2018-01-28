@@ -229,12 +229,14 @@
 - [生物医药大词典](http://dict.bioon.com/)
 
 ## 语料库
+- [Google Ngram Viewer](https://books.google.com/ngrams)
 - [殆知阁](http://www.daizhige.org/)
 - [中国哲学书电子化计划](http://ctext.org/)
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
 - [COCA](https://corpus.byu.edu/coca/)
 - [COCA Frequency list::查看 60000 单词词频排名](https://www.wordandphrase.info/frequencyList.asp)
 - [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
+- [Free ebooks - Project Gutenberg](https://www.gutenberg.org/)
 
 ## 付费（部分可免费试用）
 - [OED:: Oxford English Dictionary](http://www.oed.com/)
