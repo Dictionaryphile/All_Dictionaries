@@ -305,6 +305,7 @@
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 - [**bbkbbk** 德语词库整理](https://pdawiki.com/forum/thread-11437-1-1.html)
 - [The Web of Online Dictionaries](https://www.facstaff.bucknell.edu/rbeard/diction.html)
+- [在线英语词典哪个比较好？](https://www.zhihu.com/question/19707759/answer/273305976)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 
 -EOF-
