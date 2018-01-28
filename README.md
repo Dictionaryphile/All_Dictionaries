@@ -115,15 +115,15 @@
 - [Australian National Dictionary](http://australiannationaldictionary.com.au/)
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
 - [BusinessDictionary](http://www.businessdictionary.com/)
+- [A Dictionary of the English Language - Samuel Johnson - 1755](http://johnsonsdictionaryonline.com/)
 
 ## 汉语
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
   - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
   - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
-- [辞源（第三版）::付费](http://ciyuan.cp.com.cn/)
-- [大辞海::付费](http://www.dacihai.com.cn/)
+- [辞源（第三版）::**付费**](http://ciyuan.cp.com.cn/)
+- [大辞海::**付费**](http://www.dacihai.com.cn/)
 - [中华语文知识库](http://www.zhonghuayuwen.org/)
-- [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [搜文解字](http://words.sinica.edu.tw/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
@@ -131,7 +131,9 @@
 - [古诗文网](http://www.gushiwen.org/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
-
+- [语音字典(VoiceDic)](http://www.voicedic.com/)
+- [无忧无虑中学语文网](http://5156edu.com/)
+    - [在线汉语词典](http://xh.5156edu.com/)
 
 ## 日语
 - [Yahoo!辞書](https://dic.yahoo.co.jp/)
@@ -149,6 +151,7 @@
 - [canoonet](http://www.canoo.net/)
 - [HanDeDict](http://www.handedict.de/)
 - [openthesaurus.de](https://www.openthesaurus.de/)
+- [LEO](https://dict.leo.org/)
 
 ## 法语
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
@@ -167,6 +170,8 @@
 - [博大意汉词典](https://www.yihan.it/)
 
 ## 西班牙语
+- [Diccionario de la lengua española de la Real Academia Española](http://dle.rae.es/)
+- [SpanishDict](http://www.spanishdict.com/)
 - [Collins Spanish Dictionary](https://www.collinsdictionary.com/dictionary/english-spanish/welcome)
 - [西语助手](http://www.esdict.cn/)
 - [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
@@ -265,6 +270,7 @@
 - [eLexico](http://www.elexico.com/)
 
 ## 参考
+- [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 - [**bbkbbk** 德语词库整理](https://pdawiki.com/forum/thread-11437-1-1.html)
