@@ -188,8 +188,9 @@
 ## 其他
 - [FORVO](https://forvo.com/)
 - [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
-- [译术网](http://www.all-terms.com/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
+- [译术网](http://www.all-terms.com/)
+- [一本词典](http://onedict.com/)
 - [Dr.eye 譯典通](https://yun.dreye.com/dict_new/dict.php)
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
 - [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
@@ -255,7 +256,7 @@
 - [LogoVista](http://www.logovista.co.jp/)
 - [Mobile Systems](https://www.mobisystems.com/dictionaries/)
 - [WordWeb](https://wordweb.info/)
-
+- [商务印书馆](http://www.cp.com.cn/digital/app.html)
 
 ## 技术服务
 - [IDM](http://www.idmgroup.com/use-cases.htm)
