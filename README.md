@@ -141,6 +141,7 @@
 - [Financial Dictionary | Investopedia](https://www.investopedia.com/dictionary/)
 - [The OEDILF, our online limerictionary!](https://www.oedilf.com/db/Lim.php)
 - [1913 Webster's Online Dictionary](http://www.webster-dictionary.org/)
+- [Techopedia – IT Dictionary for Computer Terms and Tech Definitions](https://www.techopedia.com/dictionary)
 - [FOLDOC - Computing Dictionary](http://foldoc.org/)
 - [Digital Dictionary of Buddhism 電子佛教辭典](http://www.buddhism-dict.net/ddb/)
 - [Online Collocation Dictionary](http://www.freecollocation.com/)
@@ -293,5 +294,6 @@
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 - [**bbkbbk** 德语词库整理](https://pdawiki.com/forum/thread-11437-1-1.html)
+- [The Web of Online Dictionaries](https://www.facstaff.bucknell.edu/rbeard/diction.html)
 
 -EOF-
