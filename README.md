@@ -70,19 +70,6 @@
 - [TFD::Random House Kernerman Webster’s College Dictionary](http://www.thefreedictionary.com/)
 - [Vocabulary.com](http://www.vocabulary.com/)
 
-## 付费（部分可免费试用）
-- [OED:: Oxford English Dictionary](http://www.oed.com/)
-- [MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
-- [WB:: World Book Encyclopedia / Dictionary](http://worldbookonline.com/)
-- [Macquarie Dictionary](https://www.macquariedictionary.com.au/)
-- [Encyclopædia Britannica](https://www.britannica.com/)
-- [JapanKnowledge::日本大百科全書](http://japanknowledge.com/)
-- [Oxford Reference](http://www.oxfordreference.com/)
-- [Oxford Classical Dictionary](http://classics.oxfordre.com/)
-- [Credo Reference](http://search.credoreference.com/)
-- [Go Grolier](http://go.grolier.com/)
-- [CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
-- [方正阿帕比中国工具书资源全文数据库](http://www.apabi.cn/solution/source/4/)
 
 ## 免费
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
@@ -102,15 +89,18 @@
 - [bab.la Online dictionary for 28 languages](https://bab.la)
 - [WordReference](http://www.wordreference.com/definition/)
 - [Merriam-Webster Visual Dictionary Online](http://visual.merriam-webster.com/)
-- [Yahoo!辞書](https://dic.yahoo.co.jp/)
-    - https://kotobank.jp/langdictionary/
-- [goo辞書](http://dictionary.goo.ne.jp/)
-- [Weblio辞書](https://www.weblio.jp/)
 - [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [LINE Dict](http://www.linedict.com/)
 - [Australian National Dictionary](http://australiannationaldictionary.com.au/)
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
+
+## 日本
+- [Yahoo!辞書](https://dic.yahoo.co.jp/)
+    - https://kotobank.jp/langdictionary/
+- [goo辞書](http://dictionary.goo.ne.jp/)
+- [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
+- [Weblio辞書](https://www.weblio.jp/)
 
 ## 其他
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
@@ -133,11 +123,25 @@
 
 ## 语料库
 - [殆知阁](http://www.daizhige.org/)
+- [中国哲学书电子化计划](http://ctext.org/)
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
 - [COCA](https://corpus.byu.edu/coca/)
 - [COCA Frequency list::查看 60000 单词词频排名](https://www.wordandphrase.info/frequencyList.asp)
 - [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
 
+## 付费（部分可免费试用）
+- [OED:: Oxford English Dictionary](http://www.oed.com/)
+- [MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
+- [WB:: World Book Encyclopedia / Dictionary](http://worldbookonline.com/)
+- [Macquarie Dictionary](https://www.macquariedictionary.com.au/)
+- [Encyclopædia Britannica](https://www.britannica.com/)
+- [JapanKnowledge::日本大百科全書](http://japanknowledge.com/)
+- [Oxford Reference](http://www.oxfordreference.com/)
+- [Oxford Classical Dictionary](http://classics.oxfordre.com/)
+- [Credo Reference](http://search.credoreference.com/)
+- [Go Grolier](http://go.grolier.com/)
+- [CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
+- [方正阿帕比中国工具书资源全文数据库](http://www.apabi.cn/solution/source/4/)
 
 
 
@@ -150,8 +154,10 @@
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
+- [CASIO 電子辞書](https://casio.jp/exword/)
 - [卡西欧权威辞典](http://www.casio.com.cn/e-edu/books.html)
 - [物書堂](https://www.monokakido.jp/)
+- [LogoVista](http://www.logovista.co.jp/)
 - [Mobile Systems](https://www.mobisystems.com/dictionaries/)
 - [WordWeb](https://wordweb.info/)
 
