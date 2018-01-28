@@ -181,6 +181,7 @@
 
 
 ## 意大利语
+- [意汉图片词典](http://unasettimana.com/)
 - [Collins Italian Dictionary](https://www.collinsdictionary.com/dictionary/english-italian/welcome)
 - [Dizionario inglese-italiano - WordReference](http://www.wordreference.com/enit/)
 - [博大意汉词典](https://www.yihan.it/)
