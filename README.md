@@ -88,8 +88,8 @@
   - [Longman Global 可 Free Trial](http://global.longmandictionaries.com/)
 - [MED::Macmillan English Dictionary for Advanced Learners](http://www.macmillandictionary.com/)
 - [CALD::Cambridge Advanced Learner’s Dictionary](http://dictionary.cambridge.org/)
-- [WNWCD::Webster’s New World College Dictionary](http://websters.yourdictionary.com/)
-- [TFD::Random House Kernerman Webster’s College Dictionary](http://www.thefreedictionary.com/)
+- [TFD::TheFreeDictionary](http://www.thefreedictionary.com/)
+    - [Random House Kernerman Webster’s College Dictionary](https://www.thefreedictionary.com/welcome)
 - [Vocabulary.com](http://www.vocabulary.com/)
 - [OneLook Dictionary Search](https://www.onelook.com/)
 
