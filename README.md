@@ -1,12 +1,12 @@
 ## 宇宙最全在线词典网站导航
 
 ## 说明：  
-试试页面内 Ctrl + F （汉语、日语、德语、法语 etc.）。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，“::”后点明典型词典。[讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
+- 试试页面内 Ctrl + F （汉语、日语、德语、法语 etc.）。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
 
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
 感谢词典服务提供商为我们提供词典查询服务。  
-- [常用](#常用)
+- [国内常用在线词典](#常用)
 - [在线翻译](#在线翻译)
 - [常用英英词典](常用英英词典)
 - [汉语](#汉语)
@@ -22,7 +22,7 @@
 - [其他](#其他)
 - [语料库](#语料库)
 
-## 常用
+## 国内常用在线词典
 - [有道词典](http://youdao.com/)
     - [李华驹::21 世纪大英汉词典](http://dict.youdao.com/w/eng/welcome/)
     - [柯林斯英汉双解大词典::译文质量不佳](http://dict.youdao.com/w/eng/welcome/)
@@ -163,7 +163,8 @@
 
 ## 意大利语
 - [Collins Italian Dictionary](https://www.collinsdictionary.com/dictionary/english-italian/welcome)
--
+- [Dizionario inglese-italiano - WordReference](http://www.wordreference.com/enit/)
+- [博大意汉词典](https://www.yihan.it/)
 
 ## 西班牙语
 - [Collins Spanish Dictionary](https://www.collinsdictionary.com/dictionary/english-spanish/welcome)
@@ -172,6 +173,7 @@
 - [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
 
 ## 葡萄牙语
+- [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
 - [Collins Portuguese Dictionary](https://www.collinsdictionary.com/dictionary/english-portuguese/welcome)
 - [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
 
@@ -184,6 +186,7 @@
 
 
 ## 其他
+- [FORVO](https://forvo.com/)
 - [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
 - [译术网](http://www.all-terms.com/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
@@ -257,6 +260,7 @@
 - [IDM](http://www.idmgroup.com/use-cases.htm)
 - [PubFactory](http://www.pubfactory.com/pubfactory/case-studies.html)
 - [TLex Suite: Dictionary Compilation Software](http://tshwanedje.com/tshwanelex/)
+- [eLexico](http://www.elexico.com/)
 
 ## 参考
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
