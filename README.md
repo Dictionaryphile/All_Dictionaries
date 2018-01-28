@@ -24,23 +24,23 @@
 
 ## 常用
 - [有道词典](http://youdao.com/)
-    - 21 世纪大英汉词典
-    - 柯林斯英汉双解大词典
-    - 现代汉语大词典
-    - 朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用）
+    - [李华驹::21 世纪大英汉词典](http://dict.youdao.com/w/eng/welcome/)
+    - [柯林斯英汉双解大词典](http://dict.youdao.com/w/eng/welcome/)
+    - [上海辞书出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
+    - [朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用）](http://cidian.youdao.com/)
     - 韦氏大学英语词典（仅 VIP 可用）
 - [金山词霸](http://www.iciba.com/)
-    - [柯林斯 COBUILD 高阶英汉双解学习词典（2011 年版）](http://cp.iciba.com/collins/)
+    - [外研社::柯林斯 COBUILD 高阶英汉双解学习词典（2011 年版）](http://cp.iciba.com/collins/)
     - 牛津高阶英汉双解词典（第 7 版）（仅客户端可用）
 - [必应词典](http://cn.bing.com/dict/)
-    - 牛津高阶英汉双解词典（第 8 版）（权威英汉双解 Advanced E-C 就是）
+    - [牛津高阶英汉双解词典（第 8 版）（权威英汉双解 Advanced E-C 就是）](http://cn.bing.com/dict/search?q=welcome)
 - [沪江小D](http://dict.hjenglish.com/)
     - [柯林斯·外研社新世纪英汉大词典](https://www.hjdict.com/w/welcome)
     - [外教社·柯林斯汉英大词典](https://www.hjdict.com/w/%E5%A5%BD)
 - [海词词典](http://dict.cn/)
 - [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
 - [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
-    - 牛津·外研社英汉汉英词典（Oxford Chinese Dictionary）的英汉部分
+    - [牛津·外研社英汉汉英词典（Oxford Chinese Dictionary）的英汉部分](https://hk.dictionary.search.yahoo.com/search?p=welcome)
 - [剑桥高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
 - [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
 - [优词词典](http://www.youdict.com/)
@@ -207,7 +207,7 @@
 - https://www.translated.net/en/translation-api
 - [Visual Thesaurus](https://www.visualthesaurus.com/)
 - [Visuwords](https://visuwords.com/electroscope)
-
+- [911 查询](https://danci.911cha.com/)
 
 ## 语料库
 - [殆知阁](http://www.daizhige.org/)
