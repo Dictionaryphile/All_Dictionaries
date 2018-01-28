@@ -6,30 +6,40 @@
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
 感谢词典服务提供商为我们提供词典查询服务。  
+- [常用](#常用)
+- [在线翻译](#在线翻译)
+- [常用英英词典](常用英英词典)
 - [汉语](#汉语)
 - [日语](#日语)
 - [德语](#德语)
 - [法语](#法语)
 - [俄语](#俄语)
-
+- [其他](#其他)
+- [语料库](#语料库)
 
 ## 常用
 - [有道词典](http://youdao.com/)
     - 21 世纪大英汉词典
     - 柯林斯英汉双解大词典
+    - 现代汉语大词典
     - 朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅软件端可用）
     - 韦氏大学英语词典（仅 VIP 可用）
 - [金山词霸](http://www.iciba.com/)
     - [柯林斯 COBUILD 高阶英汉双解学习词典（2011 年版）](http://cp.iciba.com/collins/)
     - 牛津高阶英汉双解词典（第 7 版）（仅软件端可用）
-- [必应词典::牛津高阶英汉双解词典（第 8 版）](http://cn.bing.com/dict/)
-- [沪江小D::新世纪英汉大词典](http://dict.hjenglish.com/)
+- [必应词典](http://cn.bing.com/dict/)
+    - 牛津高阶英汉双解词典（第 8 版）（权威英汉双解 Advanced E-C 就是）
+- [沪江小D](http://dict.hjenglish.com/)
+    - 柯林斯·外研社新世纪英汉大词典
+    - 柯林斯·外教社汉英大词典
 - [海词词典](http://dict.cn/)
 - [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
 - [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
+    - 牛津·外研社英汉汉英词典（Oxford Chinese Dictionary）的英汉部分
+- [剑桥高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
+- [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
 - [优词词典](http://www.youdict.com/)
 - [人人词典](https://www.91dict.com/)
-- [剑桥高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
 - [汉典](http://www.zdic.net/)
 - [国学大师](http://www.guoxuedashi.com/)
 - [萌典](https://www.moedict.tw/)
@@ -41,16 +51,25 @@
 - [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
 
-## 高排名站点
-- [ODE::Oxford Dictionary of English / NOAD](https://en.oxforddictionaries.com/)
-- [MWCD::Merriam-Webster’s Collegiate Dictionary](https://www.merriam-webster.com/)
+## 常用英英词典
+- [Oxford Dictionaries](https://en.oxforddictionaries.com/)
+    - [ODE::Oxford Dictionary of English](https://en.oxforddictionaries.com/definition/welcome)
+    - [NOAD::New Oxford American Dictionary](https://en.oxforddictionaries.com/definition/us/welcome)
+- [Merriam-Webster SINCE 1828](https://www.merriam-webster.com/)
+    - [MWCD::Merriam-Webster’s Collegiate Dictionary](https://www.merriam-webster.com/dictionary/welcome)
 - [Wikipedia](https://www.wikipedia.org/)
 - [Wiktionary, the free dictionary](https://www.wiktionary.org/)
-- [RHUD::Random House Webster’s Unabridged Dictionary](http://www.dictionary.com/)
-  - https://www.infoplease.com/
+- [Dictionary.com](http://www.dictionary.com/)
+    - RHUD::Random House Webster’s Unabridged Dictionary
+    - [Thesaurus.com](http://www.thesaurus.com/)
 - [CED::[CCALD] Collins COBUILD Advanced Learner’s Dictionary](https://www.collinsdictionary.com/)
+- [YourDictionary](http://www.yourdictionary.com/)
+    - [AHD5::](http://americanheritage.yourdictionary.com/)
+    - [WNWCD5::Webster’s New World College Dictionary](http://websters.yourdictionary.com/)
 - [Urban Dictionary](http://www.urbandictionary.com/)
-- [OALD::Oxford Advanced Learner’s Dictionary](http://www.oxfordlearnersdictionaries.com/)
+- [Oxford Learner's Dictioanries](http://www.oxfordlearnersdictionaries.com/)
+    - [OALD::Oxford Advanced Learner’s Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/welcome_1)
+    - [OAAD::Oxford Advanced American Dictionary](https://www.oxfordlearnersdictionaries.com/us/definition/english/welcome_1)
 - [LDOCE::Longman Dictionary of Contemporary English](http://www.ldoceonline.com/)
   - [Longman Dictionaries Online U.S.A. 可 Free Trial](http://longmandictionariesusa.com/)
   - [Longman Global 可 Free Trial](http://global.longmandictionaries.com/)
@@ -62,22 +81,11 @@
 - [Vocabulary.com](http://www.vocabulary.com/)
 - [OneLook Dictionary Search](https://www.onelook.com/)
 
-## 官方
-- [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
-  - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
-  - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
-- [辞源（第三版）::付费](http://ciyuan.cp.com.cn/)
-- [大辞海::付费](http://www.dacihai.com.cn/)
-- [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
-- [中华语文知识库](http://www.zhonghuayuwen.org/)
-- [雙語詞彙資料庫](http://terms.naer.edu.tw/)
-
-## 其他
-
 ## 免费
+- https://www.infoplease.com/
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
 - [AHD::The American Heritage Dictionary of the English Language](https://www.ahdictionary.com/)
-  - http://americanheritage.yourdictionary.com/
+
 - [Wordnik](https://www.wordnik.com/)
 - [Lingvo Live](https://www.lingvolive.com/)
 - [Lingea dictionaries](https://www.dict.com/)
@@ -98,6 +106,13 @@
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
 
 ## 汉语
+- [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
+  - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
+  - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
+- [辞源（第三版）::付费](http://ciyuan.cp.com.cn/)
+- [大辞海::付费](http://www.dacihai.com.cn/)
+- [中华语文知识库](http://www.zhonghuayuwen.org/)
+- [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [搜文解字](http://words.sinica.edu.tw/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
@@ -105,6 +120,7 @@
 - [古诗文网](http://www.gushiwen.org/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
+
 
 
 ## 日语
@@ -131,6 +147,7 @@
 
 
 ## 其他
+- [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 - [Dr.eye 譯典通](https://yun.dreye.com/dict_new/dict.php)
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
 - [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
