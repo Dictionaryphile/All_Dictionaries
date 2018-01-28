@@ -183,6 +183,7 @@
 - [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
 
 ## 韩语
+- [韩国国立国语院：标准韓韓释义](http://www.korean.go.kr/)
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [沪江小D- 韩语词典](https://dict.hjenglish.com/kr/)
 
