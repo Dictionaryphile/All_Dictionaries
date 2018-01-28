@@ -1,13 +1,13 @@
 ## 宇宙最全在线词典网站导航
 
-**说明**：  
-试试页面内 Ctrl + F 。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，“::”后点明典型词典。[讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
+## 说明：  
+试试页面内 Ctrl + F （德语、法语 etc.）。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，“::”后点明典型词典。[讨论贴](https://www.pdawiki.com/forum/thread-22886-1-1.html)，感谢大家的分享、补充。
 
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 
 感谢词典服务提供商为我们提供词典查询服务。  
 
-## 国内免费（部分有收费业务）
+## 常用
 - [有道词典::21 世纪大英汉词典 软件端可使用《朗文当代高级英语辞典（英英·英汉双解）》（第 5 版）](http://youdao.com/)
 - [金山词霸::柯林斯 COBUILD 高阶英汉双解学习词典](http://www.iciba.com/)
 - [必应词典::牛津高阶英汉双解词典（第 8 版）](http://cn.bing.com/dict/)
@@ -17,8 +17,7 @@
 - [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
 - [优词词典](http://www.youdict.com/)
 - [人人词典](https://www.91dict.com/)
-- [德语助手](https://www.godic.net/)
-- [法语助手](https://www.frdic.com/)
+- [剑桥高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
 - [汉典](http://www.zdic.net/)
 - [国学大师](http://www.guoxuedashi.com/)
 - [萌典](https://www.moedict.tw/)
@@ -29,6 +28,27 @@
 - [百度翻译::金山词霸::柯林斯、牛津高阶](http://fanyi.baidu.com/#en/zh/welcome)
 - [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
+
+## 高排名站点
+- [ODE::Oxford Dictionary of English / NOAD](https://en.oxforddictionaries.com/)
+- [MWCD::Merriam-Webster’s Collegiate Dictionary](https://www.merriam-webster.com/)
+- [Wikipedia](https://www.wikipedia.org/)
+- [Wiktionary, the free dictionary](https://www.wiktionary.org/)
+- [RHUD::Random House Webster’s Unabridged Dictionary](http://www.dictionary.com/)
+  - https://www.infoplease.com/
+- [CED::[CCALD] Collins COBUILD Advanced Learner’s Dictionary](https://www.collinsdictionary.com/)
+- [Urban Dictionary](http://www.urbandictionary.com/)
+- [OALD::Oxford Advanced Learner’s Dictionary](http://www.oxfordlearnersdictionaries.com/)
+- [LDOCE::Longman Dictionary of Contemporary English](http://www.ldoceonline.com/)
+  - [Longman Dictionaries Online U.S.A. 可 Free Trial](http://longmandictionariesusa.com/)
+  - [Longman Global 可 Free Trial](http://global.longmandictionaries.com/)
+- [MWALED::Merriam-Webster Advanced Learner’s English Dictionary](http://www.learnersdictionary.com/)
+- [MED::Macmillan English Dictionary for Advanced Learners](http://www.macmillandictionary.com/)
+- [CALD::Cambridge Advanced Learner’s Dictionary](http://dictionary.cambridge.org/)
+- [WNWCD::Webster’s New World College Dictionary](http://websters.yourdictionary.com/)
+- [TFD::Random House Kernerman Webster’s College Dictionary](http://www.thefreedictionary.com/)
+- [Vocabulary.com](http://www.vocabulary.com/)
+- [OneLook Dictionary Search](https://www.onelook.com/)
 
 ## 官方
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
@@ -48,29 +68,6 @@
 - [搜韵网](https://sou-yun.com/)
 - [古诗文网](http://www.gushiwen.org/)
 
-## 高排名站点
-- [OneLook Dictionary Search](https://www.onelook.com/)
-- [ODE::Oxford Dictionary of English / NOAD](https://en.oxforddictionaries.com/)
-- [MWCD::Merriam-Webster’s Collegiate Dictionary](https://www.merriam-webster.com/)
-- [Wikipedia](https://www.wikipedia.org/)
-- [Wiktionary, the free dictionary](https://www.wiktionary.org/)
-- [RHUD::Random House Webster’s Unabridged Dictionary](http://www.dictionary.com/)
-  - https://www.infoplease.com/
-- [CED::[CCALD] Collins COBUILD Advanced Learner’s Dictionary](https://www.collinsdictionary.com/)
-- [Urban Dictionary](http://www.urbandictionary.com/)
-- [OALD::Oxford Advanced Learner’s Dictionary](http://www.oxfordlearnersdictionaries.com/)
-- [LDOCE::Longman Dictionary of Contemporary English](http://www.ldoceonline.com/)
-  - [Longman Dictionaries Online U.S.A. 可 Free Trial](http://longmandictionariesusa.com/)
-  - [Longman Global 可 Free Trial](http://global.longmandictionaries.com/)
-- [MWALED::Merriam-Webster Advanced Learner’s English Dictionary](http://www.learnersdictionary.com/)
-- [MED::Macmillan English Dictionary for Advanced Learners](http://www.macmillandictionary.com/)
-- [CALD::Cambridge Advanced Learner’s Dictionary](http://dictionary.cambridge.org/)
-- [剑桥高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
-- [WNWCD::Webster’s New World College Dictionary](http://websters.yourdictionary.com/)
-- [TFD::Random House Kernerman Webster’s College Dictionary](http://www.thefreedictionary.com/)
-- [Vocabulary.com](http://www.vocabulary.com/)
-
-
 ## 免费
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
 - [AHD::The American Heritage Dictionary of the English Language](https://www.ahdictionary.com/)
@@ -84,7 +81,6 @@
 - [Linguee](https://www.linguee.com/)
 - [Linggle](http://linggle.com/)
 - [LEXILOGOS](http://www.lexilogos.com/)
-- [LAROUSSE](http://www.larousse.fr/)
 - [PONS Online Dictionary](https://pons.com/)
 - [bab.la Online dictionary for 28 languages](https://bab.la)
 - [WordReference](http://www.wordreference.com/definition/)
@@ -95,12 +91,30 @@
 - [Australian National Dictionary](http://australiannationaldictionary.com.au/)
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
 
-## 日本
+## 汉语
+- [東東同義詞詞典](http://www.kwuntung.net/synonym/)
+- [同义词库](http://chinese.abcthesaurus.com/)
+
+
+## 日语
 - [Yahoo!辞書](https://dic.yahoo.co.jp/)
     - https://kotobank.jp/langdictionary/
 - [goo辞書](http://dictionary.goo.ne.jp/)
 - [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
 - [Weblio辞書](https://www.weblio.jp/)
+
+## 德语
+- [德语助手](https://www.godic.net/)
+- [Duden online](https://www.duden.de/woerterbuch)
+- [canoonet](http://www.canoo.net/)
+- [HanDeDict](http://www.handedict.de/)
+- [openthesaurus.de](https://www.openthesaurus.de/)
+
+## 法语
+- [法语助手](https://www.frdic.com/)
+- [LAROUSSE](http://www.larousse.fr/)
+
+
 
 ## 其他
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
@@ -170,6 +184,6 @@
 ## 参考
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
-
+- [**bbkbbk** 德语词库整理](https://pdawiki.com/forum/thread-11437-1-1.html)
 
 -EOF-
