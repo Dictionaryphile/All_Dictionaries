@@ -8,7 +8,7 @@
 感谢词典服务提供商为我们提供词典查询服务。  
 - [国内常用在线词典](#常用)
 - [在线翻译](#在线翻译)
-- [常用英英词典](#常用英英词典)
+- [常用英语词典](#常用英语词典)
 - [汉语](#汉语)
 - [日语](#日语)
 - [德语](#德语)
@@ -58,7 +58,7 @@
    - 搜狗词典 app 另有《新世纪汉英大词典》（第二版），但缺漏多多
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
 
-## 常用英英词典
+## 常用英语词典
 - [Oxford Dictionaries](https://en.oxforddictionaries.com/)
     - [ODE::Oxford Dictionary of English](https://en.oxforddictionaries.com/definition/welcome)
     - [NOAD::New Oxford American Dictionary](https://en.oxforddictionaries.com/definition/us/welcome)
