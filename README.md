@@ -27,16 +27,16 @@
     - 21 世纪大英汉词典
     - 柯林斯英汉双解大词典
     - 现代汉语大词典
-    - 朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅软件端可用）
+    - 朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用）
     - 韦氏大学英语词典（仅 VIP 可用）
 - [金山词霸](http://www.iciba.com/)
     - [柯林斯 COBUILD 高阶英汉双解学习词典（2011 年版）](http://cp.iciba.com/collins/)
-    - 牛津高阶英汉双解词典（第 7 版）（仅软件端可用）
+    - 牛津高阶英汉双解词典（第 7 版）（仅客户端可用）
 - [必应词典](http://cn.bing.com/dict/)
     - 牛津高阶英汉双解词典（第 8 版）（权威英汉双解 Advanced E-C 就是）
 - [沪江小D](http://dict.hjenglish.com/)
-    - 柯林斯·外研社新世纪英汉大词典
-    - 柯林斯·外教社汉英大词典
+    - [柯林斯·外研社新世纪英汉大词典](https://www.hjdict.com/w/welcome)
+    - [外教社·柯林斯汉英大词典](https://www.hjdict.com/w/%E5%A5%BD)
 - [海词词典](http://dict.cn/)
 - [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
 - [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
@@ -131,7 +131,6 @@
 - [同义词库](http://chinese.abcthesaurus.com/)
 
 
-
 ## 日语
 - [Yahoo!辞書](https://dic.yahoo.co.jp/)
     - https://kotobank.jp/langdictionary/
@@ -143,6 +142,7 @@
 ## 德语
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
 - [德语助手](https://www.godic.net/)
+- [沪江小D - 德语词典](https://dict.hjenglish.com/de/danke)
 - [Duden online](https://www.duden.de/woerterbuch)
 - [canoonet](http://www.canoo.net/)
 - [HanDeDict](http://www.handedict.de/)
@@ -151,6 +151,7 @@
 ## 法语
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
 - [法语助手](https://www.frdic.com/)
+- [沪江小D - 法语词典](https://dict.hjenglish.com/fr/merci)
 - [LAROUSSE](http://www.larousse.fr/)
 - [Le Dictionnaire Visuel (Fr)](http://www.ikonet.com/fr/ledictionnairevisuel/)
 
@@ -165,6 +166,7 @@
 ## 西班牙语
 - [Collins Spanish Dictionary](https://www.collinsdictionary.com/dictionary/english-spanish/welcome)
 - [西语助手](http://www.esdict.cn/)
+- [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
 - [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
 
 ## 葡萄牙语
