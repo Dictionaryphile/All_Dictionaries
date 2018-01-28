@@ -163,6 +163,7 @@
 ## 俄语
 - [大БКРС](https://bkrs.info/)
 - [千亿词霸](http://www.qianyix.com/words/)
+- [Словари и энциклопедии на Академике](https://dic.academic.ru/)
 
 ## 意大利语
 - [Collins Italian Dictionary](https://www.collinsdictionary.com/dictionary/english-italian/welcome)
