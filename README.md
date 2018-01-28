@@ -14,6 +14,11 @@
 - [德语](#德语)
 - [法语](#法语)
 - [俄语](#俄语)
+- [韩语](#韩语)
+- [意大利语](#意大利语)
+- [西班牙语](#西班牙语)
+- [葡萄牙语](#葡萄牙语)
+- [梵语](#梵语)
 - [其他](#其他)
 - [语料库](#语料库)
 
@@ -57,12 +62,18 @@
     - [NOAD::New Oxford American Dictionary](https://en.oxforddictionaries.com/definition/us/welcome)
 - [Merriam-Webster SINCE 1828](https://www.merriam-webster.com/)
     - [MWCD::Merriam-Webster’s Collegiate Dictionary](https://www.merriam-webster.com/dictionary/welcome)
+    - [MWALED::Merriam-Webster Advanced Learner’s English Dictionary](http://www.learnersdictionary.com/)
+    - [Merriam-Webster Visual Dictionary Online](http://visual.merriam-webster.com/)
 - [Wikipedia](https://www.wikipedia.org/)
 - [Wiktionary, the free dictionary](https://www.wiktionary.org/)
 - [Dictionary.com](http://www.dictionary.com/)
-    - RHUD::Random House Webster’s Unabridged Dictionary
+    - [RHUD::Random House Webster’s Unabridged Dictionary](http://www.dictionary.com/browse/welcome)
     - [Thesaurus.com](http://www.thesaurus.com/)
-- [CED::[CCALD] Collins COBUILD Advanced Learner’s Dictionary](https://www.collinsdictionary.com/)
+- [Collins Dictionaries](https://www.collinsdictionary.com/)
+    - [CCALD::Collins COBUILD Advanced Learner’s Dictionary](https://www.collinsdictionary.com/dictionary/english/welcome)
+    - [CED::Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/welcome)
+    - [Collins English Thesaurus](https://www.collinsdictionary.com/dictionary/english-thesaurus/welcome)
+    -[Collins Chinese Dictionary](https://www.collinsdictionary.com/dictionary/english-chinese/welcome)
 - [YourDictionary](http://www.yourdictionary.com/)
     - [AHD5::](http://americanheritage.yourdictionary.com/)
     - [WNWCD5::Webster’s New World College Dictionary](http://websters.yourdictionary.com/)
@@ -73,7 +84,6 @@
 - [LDOCE::Longman Dictionary of Contemporary English](http://www.ldoceonline.com/)
   - [Longman Dictionaries Online U.S.A. 可 Free Trial](http://longmandictionariesusa.com/)
   - [Longman Global 可 Free Trial](http://global.longmandictionaries.com/)
-- [MWALED::Merriam-Webster Advanced Learner’s English Dictionary](http://www.learnersdictionary.com/)
 - [MED::Macmillan English Dictionary for Advanced Learners](http://www.macmillandictionary.com/)
 - [CALD::Cambridge Advanced Learner’s Dictionary](http://dictionary.cambridge.org/)
 - [WNWCD::Webster’s New World College Dictionary](http://websters.yourdictionary.com/)
@@ -85,7 +95,6 @@
 - https://www.infoplease.com/
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
 - [AHD::The American Heritage Dictionary of the English Language](https://www.ahdictionary.com/)
-
 - [Wordnik](https://www.wordnik.com/)
 - [Lingvo Live](https://www.lingvolive.com/)
 - [Lingea dictionaries](https://www.dict.com/)
@@ -98,9 +107,8 @@
 - [PONS Online Dictionary](https://pons.com/)
 - [bab.la Online dictionary for 28 languages](https://bab.la)
 - [WordReference](http://www.wordreference.com/definition/)
-- [Merriam-Webster Visual Dictionary Online](http://visual.merriam-webster.com/)
-- [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
-- [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
+    - [WordReference Random House Learner's Dictionary of American English](http://www.wordreference.com/definition/welcome)
+    - [Collins Concise English Dictionary](http://www.wordreference.com/definition/welcome)
 - [LINE Dict](http://www.linedict.com/)
 - [Australian National Dictionary](http://australiannationaldictionary.com.au/)
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
@@ -129,8 +137,10 @@
 - [goo辞書](http://dictionary.goo.ne.jp/)
 - [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
 - [Weblio辞書](https://www.weblio.jp/)
+- [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
 
 ## 德语
+- [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
 - [德语助手](https://www.godic.net/)
 - [Duden online](https://www.duden.de/woerterbuch)
 - [canoonet](http://www.canoo.net/)
@@ -138,12 +148,32 @@
 - [openthesaurus.de](https://www.openthesaurus.de/)
 
 ## 法语
+- [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
 - [法语助手](https://www.frdic.com/)
 - [LAROUSSE](http://www.larousse.fr/)
 
 ## 俄语
 - [大БКРС](https://bkrs.info/)
 - [千亿词霸](http://www.qianyix.com/words/)
+
+## 意大利语
+- [Collins Italian Dictionary](https://www.collinsdictionary.com/dictionary/english-italian/welcome)
+-
+
+## 西班牙语
+- [Collins Spanish Dictionary](https://www.collinsdictionary.com/dictionary/english-spanish/welcome)
+- [西语助手](http://www.esdict.cn/)
+
+
+## 葡萄牙语
+- [Collins Portuguese Dictionary](https://www.collinsdictionary.com/dictionary/english-portuguese/welcome)
+- [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
+
+## 韩语
+- [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
+
+## 梵语
+- [梵语辞书文献数据库建设](http://www.fanfoyan.com/project/pkudic.html)
 
 
 ## 其他
