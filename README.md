@@ -81,7 +81,7 @@
     - [AHD5::The American Heritage Dictionary of the English Language](http://americanheritage.yourdictionary.com/)
     - [WNWCD5::Webster’s New World College Dictionary](http://websters.yourdictionary.com/)
 - [Urban Dictionary](http://www.urbandictionary.com/)
-- [Oxford Learner's Dictioanries](http://www.oxfordlearnersdictionaries.com/)
+- [Oxford Learner's Dictionaries](http://www.oxfordlearnersdictionaries.com/)
     - [OALD::Oxford Advanced Learner’s Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/welcome_1)
     - [OAAD::Oxford Advanced American Dictionary](https://www.oxfordlearnersdictionaries.com/us/definition/english/welcome_1)
 - [LDOCE::Longman Dictionary of Contemporary English](http://www.ldoceonline.com/)
