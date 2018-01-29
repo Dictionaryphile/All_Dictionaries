@@ -133,7 +133,6 @@
 - [Linguee](https://www.linguee.com/)
 - [Linggle](http://linggle.com/)
 - [LEXILOGOS](http://www.lexilogos.com/)
-- [PONS Online Dictionary](https://pons.com/)
 - [bab.la Online dictionary for 28 languages](https://bab.la)
 - [WordReference](http://www.wordreference.com/definition/)
     - [WordReference Random House Learner's Dictionary of American English](http://www.wordreference.com/definition/welcome)
@@ -174,11 +173,13 @@
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
 - [德语助手](https://www.godic.net/)
 - [沪江小D - 德语词典](https://dict.hjenglish.com/de/danke)
+- [中德桥词典](http://www.brucca.info/)
 - [Duden online](https://www.duden.de/woerterbuch)
+- [PONS Online Dictionary](https://pons.com/)
 - [canoonet](http://www.canoo.net/)
 - [HanDeDict](http://www.handedict.de/)
 - [openthesaurus.de](https://www.openthesaurus.de/)
-- [LEO](https://dict.leo.org/)
+- [LEO.org](https://dict.leo.org/)
 
 ## 法语
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
@@ -268,6 +269,7 @@
 - [911 查询](https://danci.911cha.com/)
 - [丁香园生物医药词典](http://dict.biomart.cn/)
 - [生物医药大词典](http://dict.bioon.com/)
+- [MyDict 迈迪网](https://www.mydict.uk/)
 
 ## 语料库
 - [Google Ngram Viewer](https://books.google.com/ngrams)
