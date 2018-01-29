@@ -251,8 +251,6 @@
 - [EasyBib](http://www.easybib.com/cite/results?source=website&query=test)
 - [Big Huge Thesaurus](https://words.bighugelabs.com/)
 - [音标反查](http://forum.putclub.com/soundict/)
-- [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
-- [国家数据](http://data.stats.gov.cn/)
 - [英孚在线翻译](http://center.ef.com.cn/dict/)
 - [Interglot](http://www.interglot.com/dictionary)
 - [句酷](http://www.jukuu.com/)
@@ -270,6 +268,9 @@
 - [丁香园生物医药词典](http://dict.biomart.cn/)
 - [生物医药大词典](http://dict.bioon.com/)
 - [MyDict 迈迪网](https://www.mydict.uk/)
+- [公共服务领域外文译写网站](http://www.wwyx.cn/)
+- [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
+- [国家数据](http://data.stats.gov.cn/)
 
 ## 语料库
 - [Google Ngram Viewer](https://books.google.com/ngrams)
