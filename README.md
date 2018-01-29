@@ -24,21 +24,21 @@
 - [语料库](#语料库)
 
 ## 国内常用在线词典
-- [有道词典](http://youdao.com/)
+- [有道词典](http://youdao.com/w/eng/welcome/)
     - [李华驹::21 世纪大英汉词典](http://dict.youdao.com/w/eng/welcome/)
     - [柯林斯英汉双解大词典::译文质量不佳](http://dict.youdao.com/w/eng/welcome/)
     - [上海辞书出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
     - [朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用，瑕疵多）](http://cidian.youdao.com/)
     - [韦氏大学英语词典（仅 VIP 移动端 app 可用，数据旧(2003?)）](https://weibo.com/1699451730/FBrj6ddjj)
-- [金山词霸](http://www.iciba.com/)
+- [金山词霸](http://www.iciba.com/welcome)
     - [外研社::柯林斯 COBUILD 高阶英汉双解学习词典（2011 年版）](http://cp.iciba.com/collins/)
     - [牛津高阶英汉双解词典（第 **7** 版）（仅客户端可用，非最新第 8 版）](http://www.iciba.com/welcome)
-- [必应词典](http://cn.bing.com/dict/)
+- [必应词典](http://cn.bing.com/dict/search?q=welcome)
     - [牛津高阶英汉双解词典（第 **8** 版）（权威英汉双解 Advanced E-C 就是）](http://cn.bing.com/dict/search?q=welcome)
 - [沪江小D](http://dict.hjenglish.com/)
     - [柯林斯·外研社新世纪英汉大词典::无义项提示词，排版糟糕](https://www.hjdict.com/w/welcome)
     - [外教社·柯林斯汉英大词典::纸版未出](https://www.hjdict.com/w/%E5%A5%BD)
-- [海词词典](http://dict.cn/)
+- [海词词典](http://dict.cn/welcome)
     - [权威付费 app 多](http://cidian.dict.cn/center.html)
 - [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
 - [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
@@ -153,15 +153,22 @@
 - [Online Collocation Dictionary](http://www.freecollocation.com/)
 
 ## 日语
+- [三省堂 Web Dictionary](https://www.sanseido.biz/)
 - [Yahoo!辞書](https://dic.yahoo.co.jp/)
     - https://kotobank.jp/langdictionary/
 - [goo辞書](http://dictionary.goo.ne.jp/)
+    - [『小学館ランダムハウス英和大辞典』（第２版）無料！](https://dictionary.goo.ne.jp/ej/)
 - [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
 - [Weblio辞書](https://www.weblio.jp/)
+- [infoseek](http://dictionary.infoseek.ne.jp/)
+    - [プログレッシブ英和中辞典(第４版)](http://dictionary.infoseek.ne.jp/dictionary/pej4/)
 - [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
+- [BitEx中国語学習](https://bitex-cn.com/)
 - [Jisho](https://jisho.org/)
 - [Longman English–Japanese Dictionary](https://www.ldoceonline.com/dictionary/english-japanese/welcome)
-
+- [エキサイト翻訳](https://www.excite.co.jp/world/)
+- [中日辞書 北辞郎](http://www.ctrans.org/)
+- [研究社 - ルミナス[Luminous]英和・和英辞典](http://www.kenkyusha.co.jp/modules/08_luminous/index.php?content_id=1)
 
 ## 德语
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
@@ -253,6 +260,7 @@
 - [词博词典](http://www.cibo.cn/)
 - [YouGlish:: Youtube 视频搜索](https://youglish.com/)
 - [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
+- [词典网](http://www.cidianwang.com/)
 - [政府部門常用辭彙](http://www.csb.gov.hk/hkgcsb/glossary/glossary_tc.php)
 - https://www.translated.net/en/translation-api
 - [Visual Thesaurus](https://www.visualthesaurus.com/)
@@ -300,6 +308,7 @@
 - [CASIO 電子辞書](https://casio.jp/exword/)
 - [卡西欧权威辞典](http://www.casio.com.cn/e-edu/books.html)
 - [物書堂](https://www.monokakido.jp/)
+- [BIGLOBE](http://manabi.biglobe.ne.jp/)
 - [LogoVista](http://www.logovista.co.jp/)
 - [Mobile Systems](https://www.mobisystems.com/dictionaries/)
 - [WordWeb](https://wordweb.info/)
