@@ -105,6 +105,7 @@
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [搜文解字](http://words.sinica.edu.tw/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
+- [国学网](http://www.guoxue.com/)
 - [搜韵网](https://sou-yun.com/)
 - [古诗文网](http://www.gushiwen.org/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
