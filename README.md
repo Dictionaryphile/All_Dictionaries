@@ -84,13 +84,13 @@
 - [Oxford Learner's Dictionaries](http://www.oxfordlearnersdictionaries.com/)
     - [OALD::Oxford Advanced Learner’s Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/welcome_1)
     - [OAAD::Oxford Advanced American Dictionary](https://www.oxfordlearnersdictionaries.com/us/definition/english/welcome_1)
+    - [需付费::OLDAE::Oxford Learner’s Dictionary of Academic English](http://www.oxfordlearnersdictionaries.com/definition/academic/)
+    - [需付费::Oxford Collocations Dictionary](http://www.oxfordlearnersdictionaries.com/definition/collocations/)    
     - [需付费::PEU::Practical English Usage](http://www.oxfordlearnersdictionaries.com/grammar/practical-english-usage/)
     - [需付费::Das Oxford Schulwörterbuch](http://www.oxfordlearnersdictionaries.com/translate/schulwoerterbuch/)
-    - [需付费::OLDAE::Oxford Learner’s Dictionary of Academic English](http://www.oxfordlearnersdictionaries.com/definition/academic/)
-    - [需付费::Oxford Collocations Dictionary](http://www.oxfordlearnersdictionaries.com/definition/collocations/)
-- [LDOCE::Longman Dictionary of Contemporary English](http://www.ldoceonline.com/)
-  - [Longman Dictionaries Online U.S.A. 可 Free Trial](http://longmandictionariesusa.com/)
-  - [Longman Global 可 Free Trial](http://global.longmandictionaries.com/)
+- [LDOCE6::Longman Dictionary of Contemporary English](https://www.ldoceonline.com/dictionary/welcome)
+    - [可试用::Longman Dictionaries Online U.S.A.::LDAE5, LAAD3](http://longmandictionariesusa.com/)
+    - [可试用::Longman Global::LDOCE6, LCDT](http://global.longmandictionaries.com/)
 - [MED::Macmillan English Dictionary for Advanced Learners](http://www.macmillandictionary.com/)
 - [CALD::Cambridge Advanced Learner’s Dictionary](http://dictionary.cambridge.org/)
 - [TFD::TheFreeDictionary](http://www.thefreedictionary.com/)
@@ -160,6 +160,8 @@
 - [Weblio辞書](https://www.weblio.jp/)
 - [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
 - [Jisho](https://jisho.org/)
+- [Longman English–Japanese Dictionary](https://www.ldoceonline.com/dictionary/english-japanese/welcome)
+
 
 ## 德语
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
@@ -205,6 +207,7 @@
 - [西语助手](http://www.esdict.cn/)
 - [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
 - [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
+- [Longman Diccionario Conciso (English–Latin American Spanish)](https://www.ldoceonline.com/dictionary/english-spanish/welcome)
 
 ## 葡萄牙语
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
@@ -215,6 +218,10 @@
 - [韩国国立国语院：标准韓韓释义](http://www.korean.go.kr/)
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [沪江小D- 韩语词典](https://dict.hjenglish.com/kr/)
+- [Longman English–Korean Dictionary](https://www.ldoceonline.com/dictionary/english-korean/welcome)
+
+## 印地语
+- [Collins Hindi Dictionary](https://www.collinsdictionary.com/dictionary/english-hindi)
 
 ## 梵语
 - [梵语辞书文献数据库建设](http://www.fanfoyan.com/project/pkudic.html)
