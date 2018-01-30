@@ -281,6 +281,8 @@
 - [COCA Frequency list::查看 60000 单词词频排名](https://www.wordandphrase.info/frequencyList.asp)
 - [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
 - [Free ebooks - Project Gutenberg](https://www.gutenberg.org/)
+- [英華字典資料庫](http://www.mh.sinica.edu.tw/index.aspx)
+- [近代史數位資料庫(MHDB, Modern History Databases)](http://mhdb.mh.sinica.edu.tw/)
 
 ## 付费（部分可免费试用）
 - [OED:: Oxford English Dictionary](http://www.oed.com/)
