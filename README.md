@@ -298,11 +298,12 @@
 
 
 
-## 一些博客
+## 一些站点
 - http://www.omniglot.com/
 - https://separatedbyacommonlanguage.blogspot.com/
 - [Jeremy Butterfield Editorial](https://jeremybutterfield.wordpress.com/)
 - [Mike Swan](https://mikeswan.net/)
+- [语言文字信息管理司- 中华人民共和国教育部](http://www.moe.edu.cn/s78/A19/)
 - [中国社会科学院语言研究所](http://ling.cass.cn/)
 - [Sentence first:An Irishman's blog about the English language.](https://stancarey.wordpress.com/)
 
@@ -322,6 +323,25 @@
 - [PubFactory](http://www.pubfactory.com/pubfactory/case-studies.html)
 - [TLex Suite: Dictionary Compilation Software](http://tshwanedje.com/tshwanelex/)
 - [eLexico](http://www.elexico.com/)
+
+## 词典软件 app
+- [GoldenDict](https://github.com/goldendict/)
+- [MDict](http://mdict.cn/) ： Windows、Android、iOS
+- [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
+- [EBDic：EPWING、mdx、StarDict](http://t.cn/RY14MLP)：Android
+- [EB series：EPWING](http://ebstudio.info/) : iOS、Android、macOS、Windows [mdx] 适合日语学习者
+- [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2017-03-14] macOS / iOS 内置版权词典名录](http://mp.weixin.qq.com/s/CPpAtIf4C5woao_CiMErXQ)
+- [☞ [2017-03-15] Kindle（曾）内置版权词典名录](http://mp.weixin.qq.com/s/Ggve-W0ac1vDFKrRZKmCug)
+- [搜狗词典](http://fanyi.sogou.com/)
+- [海词词典](http://cidian.dict.cn/center.html)
+- [欧路词典](https://www.eudic.net/)：macOS、Windows、Android、iOS
+- [有道词典](http://dict.youdao.com/)：Windows、Android、iOS、macOS
+- [金山词霸](http://www.iciba.com/)：Windows、Android、iOS
+- [必应词典](https://cn.bing.com/dict)：Windows、Android、iOS
+- [ABBYY Lingvo](https://www.abbyy.com/lingvo_dictionary/)：Windows、macOS、Android、iOS
+- [Babylon](http://www.babylon-software.com/)：Windows
+- [Color Dict](http://www.socialnmobile.com/colordict.html)
+- [FireDict:A simple offline dictionary software for Firefox OS](http://tuxor1337.github.io/firedict/)
 
 ## 参考
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
