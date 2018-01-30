@@ -250,6 +250,7 @@
 - [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
 - [EasyBib](http://www.easybib.com/cite/results?source=website&query=test)
 - [Big Huge Thesaurus](https://words.bighugelabs.com/)
+- [ShowMeWord.com](http://showmeword.com/)
 - [音标反查](http://forum.putclub.com/soundict/)
 - [英孚在线翻译](http://center.ef.com.cn/dict/)
 - [Interglot](http://www.interglot.com/dictionary)
