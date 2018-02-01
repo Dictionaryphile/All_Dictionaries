@@ -216,6 +216,7 @@
 - [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
 - [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
 - [Longman Diccionario Conciso (English–Latin American Spanish)](https://www.ldoceonline.com/dictionary/english-spanish/welcome)
+- [Lingolex.com](http://www.lingolex.com/)
 
 ## 葡萄牙语
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
@@ -309,6 +310,9 @@
 - [语言文字信息管理司- 中华人民共和国教育部](http://www.moe.edu.cn/s78/A19/)
 - [中国社会科学院语言研究所](http://ling.cass.cn/)
 - [Sentence first:An Irishman's blog about the English language.](https://stancarey.wordpress.com/)
+- [Sesquiotica - Words, words, words](https://sesquiotic.wordpress.com/)
+- [国家哲学社会科学文献中心](http://www.ncpssd.org/)
+
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
@@ -354,5 +358,8 @@
 - [The Web of Online Dictionaries](https://www.facstaff.bucknell.edu/rbeard/diction.html)
 - [在线英语词典哪个比较好？](https://www.zhihu.com/question/19707759/answer/273305976)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
+- [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
+- [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
+
 
 -EOF-
