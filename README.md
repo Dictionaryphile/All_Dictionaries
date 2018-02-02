@@ -118,6 +118,7 @@
 - [无忧无虑中学语文网](http://5156edu.com/)
     - [在线汉语词典](http://xh.5156edu.com/)
 - [北大 CCL 现代汉语语义词典:仅对注册的北大校园网用户开放](http://ccl.pku.edu.cn/ccl_sem_dict/)
+- [千千秀字](http://www.qqxiuzi.cn/)
 
 ## 其他英语类词典
 - [Infoplease](https://www.infoplease.com/)
