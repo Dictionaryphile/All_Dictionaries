@@ -247,6 +247,7 @@
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 - [译术网](http://www.all-terms.com/)
 - [一本词典](http://onedict.com/)
+- [欧路词典在线版](https://dict.eudic.net/)
 - [Dr.eye 譯典通](https://yun.dreye.com/dict_new/dict.php)
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
 - [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
