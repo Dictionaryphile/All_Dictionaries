@@ -58,6 +58,7 @@
 - [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
    - 搜狗词典 app 另有《新世纪汉英大词典》（第二版），但缺漏多多
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
+- [有道翻译](http://fanyi.youdao.com/)
 
 ## 常用英语词典
 - [Oxford Dictionaries](https://en.oxforddictionaries.com/)
@@ -315,8 +316,9 @@
 
 
 ## 一些站点
-- http://www.omniglot.com/
-- https://separatedbyacommonlanguage.blogspot.com/
+- [Omniglot](https://www.omniglot.com/)
+- [Separated by a Common Language Observations on British and American English by an American linguist in the UK](https://separatedbyacommonlanguage.blogspot.com/)
+- [John Wells’s phonetic blog](http://phonetic-blog.blogspot.com/)
 - [Jeremy Butterfield Editorial](https://jeremybutterfield.wordpress.com/)
 - [Mike Swan](https://mikeswan.net/)
 - [语言文字信息管理司- 中华人民共和国教育部](http://www.moe.edu.cn/s78/A19/)
@@ -325,7 +327,7 @@
 - [Sesquiotica - Words, words, words](https://sesquiotic.wordpress.com/)
 - [World Wide Words](http://www.worldwidewords.org/)
 - [国家哲学社会科学文献中心](http://www.ncpssd.org/)
-
+- [CJK Dictionary Institute 日中韩辞典数据库](http://www.cjk.org/)
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
