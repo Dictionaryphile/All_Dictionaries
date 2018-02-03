@@ -154,6 +154,8 @@
 - [Power Thesaurus](https://www.powerthesaurus.org/)
 - [English picture dictionary](http://www.online-languages.info/english/picture-dictionary.php)
 - [Tamilcube.com](http://tamilcube.com/)
+- [Rhyming Dictionary](https://rhymer.com/)
+- [Answers.com](http://www.answers.com/)
 
 ## 日语
 - [三省堂 Web Dictionary](https://www.sanseido.biz/)
@@ -290,6 +292,7 @@
 - [COCA](https://corpus.byu.edu/coca/)
 - [COCA Frequency list::查看 60000 单词词频排名](https://www.wordandphrase.info/frequencyList.asp)
 - [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
+- [The Open American National Corpus (OANC)](http://www.anc.org/)
 - [Free ebooks - Project Gutenberg](https://www.gutenberg.org/)
 - [英華字典資料庫](http://www.mh.sinica.edu.tw/index.aspx)
 - [近代史數位資料庫(MHDB, Modern History Databases)](http://mhdb.mh.sinica.edu.tw/)
@@ -319,6 +322,7 @@
 - [中国社会科学院语言研究所](http://ling.cass.cn/)
 - [Sentence first:An Irishman's blog about the English language.](https://stancarey.wordpress.com/)
 - [Sesquiotica - Words, words, words](https://sesquiotic.wordpress.com/)
+- [World Wide Words](http://www.worldwidewords.org/)
 - [国家哲学社会科学文献中心](http://www.ncpssd.org/)
 
 
