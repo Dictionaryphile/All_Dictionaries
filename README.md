@@ -151,6 +151,9 @@
 - [FOLDOC - Computing Dictionary](http://foldoc.org/)
 - [Digital Dictionary of Buddhism 電子佛教辭典](http://www.buddhism-dict.net/ddb/)
 - [Online Collocation Dictionary](http://www.freecollocation.com/)
+- [Power Thesaurus](https://www.powerthesaurus.org/)
+- [English picture dictionary](http://www.online-languages.info/english/picture-dictionary.php)
+- [Tamilcube.com](http://tamilcube.com/)
 
 ## 日语
 - [三省堂 Web Dictionary](https://www.sanseido.biz/)
