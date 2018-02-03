@@ -328,6 +328,9 @@
 - [World Wide Words](http://www.worldwidewords.org/)
 - [国家哲学社会科学文献中心](http://www.ncpssd.org/)
 - [CJK Dictionary Institute 日中韩辞典数据库](http://www.cjk.org/)
+- [曾泰元](http://hugoscorner.blogspot.com/)
+- [George Chen](http://georgechen.idv.tw/)
+
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
