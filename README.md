@@ -198,6 +198,7 @@
 - [Le Dictionnaire Visuel (Fr)](http://www.ikonet.com/fr/ledictionnairevisuel/)
 
 ## 俄语
+- [译酷俄语](http://ru.yicool.cn/)
 - [大БКРС](https://bkrs.info/)
 - [千亿词霸](http://www.qianyix.com/words/)
 - [Словари и энциклопедии на Академике](https://dic.academic.ru/)
