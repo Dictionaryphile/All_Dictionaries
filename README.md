@@ -158,7 +158,7 @@
 - [Rhyming Dictionary](https://rhymer.com/)
 - [Answers.com](http://www.answers.com/)
 - [Digital Dictionary of Buddhism 電子佛教辭典](http://www.buddhism-dict.net/ddb/)
-
+- [The CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 
 ## 日语
 - [goo辞書](http://dictionary.goo.ne.jp/)
