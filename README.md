@@ -99,6 +99,7 @@
 - [Vocabulary.com](http://www.vocabulary.com/)
 - [OneLook Dictionary Search](https://www.onelook.com/)
 - [GDoS::Green's Dictionary of Slang](https://greensdictofslang.com/)
+- [The Online Slang Dictionary](http://onlineslangdictionary.com/)
 
 ## 汉语
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
@@ -186,6 +187,7 @@
 - [中德桥词典](http://www.brucca.info/)
 - [Duden online](https://www.duden.de/woerterbuch)
 - [PONS Online Dictionary](https://pons.com/)
+- [Langenscheidt](https://en.langenscheidt.com/)
 - [canoonet](http://www.canoo.net/)
 - [HanDeDict](http://www.handedict.de/)
 - [openthesaurus.de](https://www.openthesaurus.de/)
@@ -238,6 +240,7 @@
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
 - [Collins Portuguese Dictionary](https://www.collinsdictionary.com/dictionary/english-portuguese/welcome)
 - [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
+- [Infopédia	Dicionário da Língua Portuguesa](https://www.infopedia.pt/)
 
 ## 韩语
 - [韩国国立国语院：标准韓韓释义](http://www.korean.go.kr/)
@@ -247,6 +250,7 @@
 
 ## 印地语
 - [Collins Hindi Dictionary](https://www.collinsdictionary.com/dictionary/english-hindi)
+- [Oxford Hindi Dictionary](https://hi.oxforddictionaries.com/)
 
 ## 梵语
 - [梵语辞书文献数据库建设](http://www.fanfoyan.com/project/pkudic.html)
@@ -336,7 +340,7 @@
 - [CJK Dictionary Institute 日中韩辞典数据库](http://www.cjk.org/)
 - [曾泰元](http://hugoscorner.blogspot.com/)
 - [George Chen](http://georgechen.idv.tw/)
-
+- [duolingo 多邻国](www.duolingo.com)
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
@@ -348,6 +352,7 @@
 - [Mobile Systems](https://www.mobisystems.com/dictionaries/)
 - [WordWeb](https://wordweb.info/)
 - [商务印书馆](http://www.cp.com.cn/digital/app.html)
+- [MosaLingua](https://www.mosalingua.com/)
 
 ## 技术服务
 - [IDM](http://www.idmgroup.com/use-cases.htm)
