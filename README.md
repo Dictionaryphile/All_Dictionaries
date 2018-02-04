@@ -169,6 +169,7 @@
 - [Yahoo!辞書](https://dic.yahoo.co.jp/)
     - https://kotobank.jp/langdictionary/
 - [三省堂 Web Dictionary](https://www.sanseido.biz/)
+- [研究社 Online Dictionary ](http://kod.kenkyusha.co.jp/service/faq/faq10.jsp)
 - [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
 - [Weblio辞書](https://www.weblio.jp/)
 - [infoseek](http://dictionary.infoseek.ne.jp/)
@@ -187,6 +188,8 @@
 - [漢字辞典](http://kanjitisiki.com/)
 - http://www.kanjipedia.jp/
 - [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
+- [OJAD日语声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/)
+
 
 ## 德语
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
@@ -349,6 +352,7 @@
 - [曾泰元](http://hugoscorner.blogspot.com/)
 - [George Chen](http://georgechen.idv.tw/)
 - [duolingo 多邻国](www.duolingo.com)
+- [希望的観測 A wishful thinking by UGO2](http://ugo2.dip.jp/)
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
