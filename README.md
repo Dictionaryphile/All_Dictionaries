@@ -361,6 +361,7 @@
 - [物書堂](https://www.monokakido.jp/)
 - [BIGLOBE](http://manabi.biglobe.ne.jp/)
 - [LogoVista](http://www.logovista.co.jp/)
+    - [LogoVista電子辞典シリーズ ライセンス価格](http://www.logovista.co.jp/LVERP/information/license/dic.html)
 - [Mobile Systems](https://www.mobisystems.com/dictionaries/)
 - [WordWeb](https://wordweb.info/)
 - [商务印书馆](http://www.cp.com.cn/digital/app.html)
