@@ -331,6 +331,7 @@
 - [Macquarie Dictionary](https://www.macquariedictionary.com.au/)
 - [Encyclopædia Britannica](https://www.britannica.com/)
 - [JapanKnowledge::日本大百科全書](http://japanknowledge.com/)
+    - [『角川古語大辞典』（全5巻）](http://japanknowledge.com/contents/kadokawakogo/index.html)
 - [Oxford Reference](http://www.oxfordreference.com/)
 - [Oxford Classical Dictionary](http://classics.oxfordre.com/)
 - [Credo Reference](http://search.credoreference.com/)
