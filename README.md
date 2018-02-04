@@ -222,7 +222,12 @@
 ## 西班牙语
 - [Diccionario de la lengua española de la Real Academia Española](http://dle.rae.es/)
 - [SpanishDict](http://www.spanishdict.com/)
+- [Los Diccionarios del Periódico El Mundo](http://www.elmundo.es/diccionarios/)
+- [tuBabel](http://www.tubabel.com/)
+- http://www.academia.org.mx/
+- [Oxford Spanish Dictionary](https://es.oxforddictionaries.com/translate/english-spanish/welcome)
 - [Collins Spanish Dictionary](https://www.collinsdictionary.com/dictionary/english-spanish/welcome)
+- [Cambridge](https://dictionary.cambridge.org/dictionary/english-spanish/welcome)
 - [西语助手](http://www.esdict.cn/)
 - [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
 - [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
@@ -245,7 +250,7 @@
 
 ## 梵语
 - [梵语辞书文献数据库建设](http://www.fanfoyan.com/project/pkudic.html)
-
+- [华梵网](http://www.sanskrit-input.com/)
 
 ## 其他
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
@@ -271,6 +276,7 @@
 - [查查在线词典](http://www.ichacha.net/)
 - [词都](http://www.dictall.com/)
 - [词博词典](http://www.cibo.cn/)
+- [词林在线词典](http://www.cilin.org/)
 - [YouGlish:: Youtube 视频搜索](https://youglish.com/)
 - [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
 - [词典网](http://www.cidianwang.com/)
