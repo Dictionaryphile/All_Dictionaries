@@ -172,8 +172,12 @@
 - [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
 - [Weblio辞書](https://www.weblio.jp/)
 - [infoseek](http://dictionary.infoseek.ne.jp/)
+    - [大辞林 第三版](http://dictionary.infoseek.ne.jp/dictionary/daijirin/)
+    - [デジタル大辞泉](http://dictionary.infoseek.ne.jp/dictionary/daijisen/)
     - [プログレッシブ英和中辞典(第４版)](http://dictionary.infoseek.ne.jp/dictionary/pej4/)
-- [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
+    - [プログレッシブ和英中辞典(第３版)](http://dictionary.infoseek.ne.jp/dictionary/pje3/)
+    - [世界大百科事典 第２版](http://dictionary.infoseek.ne.jp/dictionary/sekaidaihyakka/)
+    - [日本大百科全書(ニッポニカ)](http://dictionary.infoseek.ne.jp/dictionary/nipponica/)
 - [BitEx中国語学習](https://bitex-cn.com/)
 - [Jisho](https://jisho.org/)
 - [Longman English–Japanese Dictionary](https://www.ldoceonline.com/dictionary/english-japanese/welcome)
@@ -182,7 +186,7 @@
 - [研究社 - ルミナス[Luminous]英和・和英辞典](http://www.kenkyusha.co.jp/modules/08_luminous/index.php?content_id=1)
 - [漢字辞典](http://kanjitisiki.com/)
 - http://www.kanjipedia.jp/
-
+- [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
 
 ## 德语
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
