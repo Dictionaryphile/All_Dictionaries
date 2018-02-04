@@ -108,7 +108,6 @@
 - [需付费::辞源（第三版）](http://ciyuan.cp.com.cn/)
 - [需付费::大辞海](http://www.dacihai.com.cn/)
 - [中华语文知识库](http://www.zhonghuayuwen.org/)
-- [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [搜文解字](http://words.sinica.edu.tw/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
 - [国学网](http://www.guoxue.com/)
@@ -119,8 +118,9 @@
 - [语音字典(VoiceDic)](http://www.voicedic.com/)
 - [无忧无虑中学语文网](http://5156edu.com/)
     - [在线汉语词典](http://xh.5156edu.com/)
-- [北大 CCL 现代汉语语义词典:仅对注册的北大校园网用户开放](http://ccl.pku.edu.cn/ccl_sem_dict/)
 - [千千秀字](http://www.qqxiuzi.cn/)
+- [北大 CCL 现代汉语语义词典:仅对注册的北大校园网用户开放](http://ccl.pku.edu.cn/ccl_sem_dict/)
+- [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 
 ## 其他英语类词典
 - [Infoplease](https://www.infoplease.com/)
@@ -151,13 +151,14 @@
 - [1913 Webster's Online Dictionary](http://www.webster-dictionary.org/)
 - [Techopedia – IT Dictionary for Computer Terms and Tech Definitions](https://www.techopedia.com/dictionary)
 - [FOLDOC - Computing Dictionary](http://foldoc.org/)
-- [Digital Dictionary of Buddhism 電子佛教辭典](http://www.buddhism-dict.net/ddb/)
 - [Online Collocation Dictionary](http://www.freecollocation.com/)
 - [Power Thesaurus](https://www.powerthesaurus.org/)
 - [English picture dictionary](http://www.online-languages.info/english/picture-dictionary.php)
 - [Tamilcube.com](http://tamilcube.com/)
 - [Rhyming Dictionary](https://rhymer.com/)
 - [Answers.com](http://www.answers.com/)
+- [Digital Dictionary of Buddhism 電子佛教辭典](http://www.buddhism-dict.net/ddb/)
+
 
 ## 日语
 - [三省堂 Web Dictionary](https://www.sanseido.biz/)
