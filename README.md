@@ -161,11 +161,14 @@
 
 
 ## 日语
-- [三省堂 Web Dictionary](https://www.sanseido.biz/)
+- [goo辞書](http://dictionary.goo.ne.jp/)
+    - [『デジタル大辞泉』](https://dictionary.goo.ne.jp/jn/)
+    - [『小学館ランダムハウス英和大辞典』（第２版）無料！](https://dictionary.goo.ne.jp/ej/)
+    - [デイリーコンサイス中日辞典（第2版）』](https://dictionary.goo.ne.jp/cj/)
+    - [デイリーコンサイス日中辞典』](https://dictionary.goo.ne.jp/jc/)
 - [Yahoo!辞書](https://dic.yahoo.co.jp/)
     - https://kotobank.jp/langdictionary/
-- [goo辞書](http://dictionary.goo.ne.jp/)
-    - [『小学館ランダムハウス英和大辞典』（第２版）無料！](https://dictionary.goo.ne.jp/ej/)
+- [三省堂 Web Dictionary](https://www.sanseido.biz/)
 - [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
 - [Weblio辞書](https://www.weblio.jp/)
 - [infoseek](http://dictionary.infoseek.ne.jp/)
