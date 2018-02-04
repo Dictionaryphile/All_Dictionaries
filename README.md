@@ -164,8 +164,8 @@
 - [goo辞書](http://dictionary.goo.ne.jp/)
     - [『デジタル大辞泉』](https://dictionary.goo.ne.jp/jn/)
     - [『小学館ランダムハウス英和大辞典』（第２版）無料！](https://dictionary.goo.ne.jp/ej/)
-    - [デイリーコンサイス中日辞典（第2版）』](https://dictionary.goo.ne.jp/cj/)
-    - [デイリーコンサイス日中辞典』](https://dictionary.goo.ne.jp/jc/)
+    - [『デイリーコンサイス中日辞典（第2版）』](https://dictionary.goo.ne.jp/cj/)
+    - [『デイリーコンサイス日中辞典』](https://dictionary.goo.ne.jp/jc/)
 - [Yahoo!辞書](https://dic.yahoo.co.jp/)
     - https://kotobank.jp/langdictionary/
 - [三省堂 Web Dictionary](https://www.sanseido.biz/)
