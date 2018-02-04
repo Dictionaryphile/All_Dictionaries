@@ -123,6 +123,7 @@
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 
 ## 其他英语类词典
+- [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
 - [Infoplease](https://www.infoplease.com/)
     - [Random House Unabridged Dictionary, Copyright © 1997](https://www.infoplease.com/dictionary/welcome)
 - [CC-CEDICT](https://www.mdbg.net/chindict/chindict.php)
