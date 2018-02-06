@@ -243,7 +243,7 @@
 - [DIPI](http://www.dipionline.it/dizionario/)
 - [Internazionale](https://dizionario.internazionale.it/)
 - [DOP](http://www.dizionario.rai.it/ricerca.aspx)
-
+- [方格单词](http://fange.org/)
 
 ## 西班牙语
 - [Diccionario de la lengua española de la Real Academia Española](http://dle.rae.es/)
