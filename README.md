@@ -172,6 +172,7 @@
 - [Ludwig·Find the perfect English sentence to express each one of your ideas and write like a pro](https://ludwig.guru/)
 
 ## 日语
+- [翻訳と辞書](http://www.kotoba.ne.jp/)
 - [goo辞書](http://dictionary.goo.ne.jp/)
     - [『デジタル大辞泉』](https://dictionary.goo.ne.jp/jn/)
     - [『小学館ランダムハウス英和大辞典』（第２版）無料！](https://dictionary.goo.ne.jp/ej/)
@@ -205,6 +206,7 @@
 - [漢字辞典](http://kanjitisiki.com/)
 - http://www.kanjipedia.jp/
 - [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
+- [souka 日语在线词典](https://soukaapp.com/dict/)
 - [OJAD日语声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/)
 - [中国語方言のページ](http://gattin.world.coocan.jp/)
 - [漢字の写真字典 Photo dictionary of rare Chinese characters](http://gattin.world.coocan.jp/kanji/kaindex.htm)
@@ -234,6 +236,7 @@
 - [LAROUSSE](http://www.larousse.fr/)
 - [Le Dictionnaire Visuel (Fr)](http://www.ikonet.com/fr/ledictionnairevisuel/)
 - [法语法国词典](http://fayufaguo.com/merci)
+- [利氏汉法辞典::介绍](http://www.grandricci.org/)
 
 ## 俄语
 - [译酷俄语](http://ru.yicool.cn/)
@@ -334,6 +337,7 @@
 - [词博词典](http://www.cibo.cn/)
 - [词林在线词典](http://www.cilin.org/)
 - [中国译典](http://www.tdict.com/)
+- [风の词典](http://dict.fengzx.com/)
 - [效率集词典](http://www.xiaolvji.com/cidian)
 - [北大法律英文网](http://lawinfochina.com/)
 - [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
@@ -342,6 +346,7 @@
 - https://www.translated.net/en/translation-api
 - [Visual Thesaurus](https://www.visualthesaurus.com/)
 - [Visuwords](https://visuwords.com/electroscope)
+- [Tradukka](http://tradukka.com/)
 - [911 查询](https://danci.911cha.com/)
 - [丁香园生物医药词典](http://dict.biomart.cn/)
 - [生物医药大词典](http://dict.bioon.com/)
