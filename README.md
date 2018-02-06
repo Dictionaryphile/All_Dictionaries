@@ -45,11 +45,13 @@
     - [牛津·外研社英汉汉英词典（Oxford Chinese Dictionary）的英汉部分](https://hk.dictionary.search.yahoo.com/search?p=welcome)
 - [剑桥高阶英汉双解词典::**唯一**由官方提供的在线版高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
 - [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
+- [CNKI翻译助手](http://dict.cnki.net/)
 - [优词词典](http://www.youdict.com/)
 - [人人词典 - 跟人人影视字幕组一起学英语](https://www.91dict.com/)
 - [汉典](http://www.zdic.net/)
 - [国学大师](http://www.guoxuedashi.com/)
 - [萌典](https://www.moedict.tw/)
+- [YouGlish:: Youtube 视频搜索](https://youglish.com/)
 
 ## 在线翻译
 **注**：输入单个英语词汇，以下站点也可以当在线词典使用。  
@@ -111,6 +113,7 @@
 - [需付费::大辞海](http://www.dacihai.com.cn/)
 - [中华语文知识库](http://www.zhonghuayuwen.org/)
 - [搜文解字](http://words.sinica.edu.tw/)
+    - [漢語大字典裡面收錄的3千多個常用字](http://words.sinica.edu.tw/sou/sou.html)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
 - [国学网](http://www.guoxue.com/)
 - [搜韵网](https://sou-yun.com/)
@@ -123,6 +126,10 @@
 - [千千秀字](http://www.qqxiuzi.cn/)
 - [北大 CCL 现代汉语语义词典:仅对注册的北大校园网用户开放](http://ccl.pku.edu.cn/ccl_sem_dict/)
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
+- [TLS - Thesaurus Linguae Sericae 漢學文典](http://tls.uni-hd.de/home_en.lasso)
+- [医学百科](https://www.wiki8.com/)
+- [康熙字典網上版](http://www.kangxizidian.com/)
+- [中华博物网工具书](http://www.gg-art.com/article/tools.php)
 
 ## 其他英语类词典
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -197,7 +204,9 @@
 - http://www.kanjipedia.jp/
 - [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
 - [OJAD日语声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/)
-
+- [中国語方言のページ](http://gattin.world.coocan.jp/)
+- [漢字の写真字典 Photo dictionary of rare Chinese characters](http://gattin.world.coocan.jp/kanji/kaindex.htm)
+- [漢字辞典](http://www.kanjijiten.net/)
 
 ## 德语
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
@@ -257,14 +266,17 @@
 - [Cambridge](https://dictionary.cambridge.org/dictionary/english-spanish/welcome)
 - [西语助手](http://www.esdict.cn/)
 - [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
+- [西漢/漢西對照線上辭典](http://club.ntu.edu.tw/~luisachang/diccionario/)
+- [西班牙语词典](http://xiyucidian.com/)
 - [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
 - [Longman Diccionario Conciso (English–Latin American Spanish)](https://www.ldoceonline.com/dictionary/english-spanish/welcome)
 - [Lingolex.com](http://www.lingolex.com/)
-- [西班牙语词典](http://xiyucidian.com/)
 - [Diccionario chino-español](http://www.chino-china.com/diccionario)
 - [Traducciones español - chino gratis en el diccionario en línea PONS](https://es.pons.com/traducci%C3%B3n/espa%C3%B1ol-chino)
 - [Diccionario chino - español en línea en AULEX (GPL)](http://aulex.org/zh-es/)
-- [西漢/漢西對照線上辭典](http://club.ntu.edu.tw/~luisachang/diccionario/)
+- [Diccionario avanzado chino-español © Lingea](https://www.dict.com/chino-espanol)
+- [Diccionario Inglés-Español WordReference.com](http://www.wordreference.com/es/en/translation.asp)
+- [Word Magic Software](http://www.wordmagicsoft.com/dictionary/tools/index.php)
 
 ## 葡萄牙语
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
@@ -290,7 +302,7 @@
 - [新编斯汉词典](http://siwaxili.com/)
 - [哈萨克语汉语词典](http://www.sozdik.net/)
 - [Southeast Asian Languages Library ](http://sealang.net/library/)
-
+- [Hán-Việt-Nhật 漢越日辞典](http://hanvietnhat.vietnam55.com/)
 
 ## 其他
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
@@ -312,14 +324,16 @@
 - [音标反查](http://forum.putclub.com/soundict/)
 - [英孚在线翻译](http://center.ef.com.cn/dict/)
 - [汉程翻译](http://tran.httpcn.com/)
+- [Unihan Database Lookup](http://www.unicode.org/charts/unihan.html)
 - [Interglot](http://www.interglot.com/dictionary)
 - [句酷](http://www.jukuu.com/)
 - [查查在线词典](http://www.ichacha.net/)
 - [词都](http://www.dictall.com/)
 - [词博词典](http://www.cibo.cn/)
 - [词林在线词典](http://www.cilin.org/)
-- [YouGlish:: Youtube 视频搜索](https://youglish.com/)
+- [中国译典](http://www.tdict.com/)
 - [效率集词典](http://www.xiaolvji.com/cidian)
+- [北大法律英文网](http://lawinfochina.com/)
 - [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
 - [词典网](http://www.cidianwang.com/)
 - [政府部門常用辭彙](http://www.csb.gov.hk/hkgcsb/glossary/glossary_tc.php)
@@ -333,6 +347,7 @@
 - [公共服务领域外文译写网站](http://www.wwyx.cn/)
 - [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
 - [国家数据](http://data.stats.gov.cn/)
+- [佛光山電子大藏經](http://etext.fgs.org.tw/index.aspx)
 
 ## 语料库
 - [Google Ngram Viewer](https://books.google.com/ngrams)
@@ -396,6 +411,7 @@
 - [WordWeb](https://wordweb.info/)
 - [商务印书馆](http://www.cp.com.cn/digital/app.html)
 - [MosaLingua](https://www.mosalingua.com/)
+- [Pleco](http://www.pleco.com/)
 
 ## 技术服务
 - [IDM](http://www.idmgroup.com/use-cases.htm)
@@ -403,7 +419,7 @@
 - [TLex Suite: Dictionary Compilation Software](http://tshwanedje.com/tshwanelex/)
 - [eLexico](http://www.elexico.com/)
 
-## 词典软件 app
+## 词典软件 、语言学习 app
 - [GoldenDict](https://github.com/goldendict/)
 - [MDict](http://mdict.cn/) ： Windows、Android、iOS
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
@@ -421,6 +437,7 @@
 - [Babylon](http://www.babylon-software.com/)：Windows
 - [Color Dict](http://www.socialnmobile.com/colordict.html)
 - [FireDict:A simple offline dictionary software for Firefox OS](http://tuxor1337.github.io/firedict/)
+- [微软小英](http://www.engkoo.com/)
 
 ## 参考
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
@@ -429,9 +446,9 @@
 - [**bbkbbk** 德语词库整理](https://pdawiki.com/forum/thread-11437-1-1.html)
 - [The Web of Online Dictionaries](https://www.facstaff.bucknell.edu/rbeard/diction.html)
 - [在线英语词典哪个比较好？](https://www.zhihu.com/question/19707759/answer/273305976)
+- [你用得最顺手的网上英文翻译软件、单词本软件和在线词典是什么？](https://www.zhihu.com/question/19566961/answer/313383831)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
 - [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
-
 
 -EOF-
