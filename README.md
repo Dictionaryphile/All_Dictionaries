@@ -1,6 +1,7 @@
 ## 宇宙最全在线词典网站导航
 
 ## 说明：  
+- 遇到任何问题，或者有任何改善建议请联系[作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
 - 试试页面内 Ctrl + F （汉语、日语、德语、法语 etc.）。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
 - 各站点收录词典内容良莠不齐，有的有对应纸版，有的则是拼凑之作，有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
@@ -127,7 +128,6 @@
 - [北大 CCL 现代汉语语义词典:仅对注册的北大校园网用户开放](http://ccl.pku.edu.cn/ccl_sem_dict/)
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [TLS - Thesaurus Linguae Sericae 漢學文典](http://tls.uni-hd.de/home_en.lasso)
-- [医学百科](https://www.wiki8.com/)
 - [康熙字典網上版](http://www.kangxizidian.com/)
 - [中华博物网工具书](http://www.gg-art.com/article/tools.php)
 - [快快查字典](http://zidian.yy.com/)
@@ -319,6 +319,11 @@
 - [Southeast Asian Languages Library ](http://sealang.net/library/)
 - [Hán-Việt-Nhật 漢越日辞典](http://hanvietnhat.vietnam55.com/)
 
+### 拉丁语
+- [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
+- [Glossa: a Latin dictionary](http://athirdway.com/glossa/)
+- [William Whitaker's Words](http://archives.nd.edu/words.html)
+
 ## 其他
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [FORVO](https://forvo.com/)
@@ -369,6 +374,13 @@
 - [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
 - [国家数据](http://data.stats.gov.cn/)
 - [佛光山電子大藏經](http://etext.fgs.org.tw/index.aspx)
+
+### 汉语百科
+- [FRPS《中国植物志》全文电子版网站](http://frps.eflora.cn/)
+- [医学百科](https://www.wiki8.com/)
+- [多识植物百科](http://duocet.ibiodiversity.net/)
+- [MBA智库百科](http://wiki.mbalib.com/)
+- [萌娘百科](https://zh.moegirl.org/)
 
 ## 语料库
 - [Google Ngram Viewer](https://books.google.com/ngrams)
@@ -470,6 +482,7 @@
 - [你用得最顺手的网上英文翻译软件、单词本软件和在线词典是什么？](https://www.zhihu.com/question/19566961/answer/313383831)
 - [有哪些值得推荐的日语在线词典？](https://www.zhihu.com/question/24188357)
 - [有什么好的泰语词典网站推荐？](https://www.zhihu.com/question/29573982)
+- [有没有值得推荐的拉丁语在线翻译网站？](https://www.zhihu.com/question/21977562)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
 - [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
