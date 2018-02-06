@@ -261,6 +261,10 @@
 - [Longman Diccionario Conciso (English–Latin American Spanish)](https://www.ldoceonline.com/dictionary/english-spanish/welcome)
 - [Lingolex.com](http://www.lingolex.com/)
 - [西班牙语词典](http://xiyucidian.com/)
+- [Diccionario chino-español](http://www.chino-china.com/diccionario)
+- [Traducciones español - chino gratis en el diccionario en línea PONS](https://es.pons.com/traducci%C3%B3n/espa%C3%B1ol-chino)
+- [Diccionario chino - español en línea en AULEX (GPL)](http://aulex.org/zh-es/)
+- [西漢/漢西對照線上辭典](http://club.ntu.edu.tw/~luisachang/diccionario/)
 
 ## 葡萄牙语
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
