@@ -162,6 +162,7 @@
 - [Answers.com](http://www.answers.com/)
 - [Digital Dictionary of Buddhism 電子佛教辭典](http://www.buddhism-dict.net/ddb/)
 - [The CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
+- [Ludwig·Find the perfect English sentence to express each one of your ideas and write like a pro](https://ludwig.guru/)
 
 ## 日语
 - [goo辞書](http://dictionary.goo.ne.jp/)
