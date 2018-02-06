@@ -210,7 +210,10 @@
 - [HanDeDict](http://www.handedict.de/)
 - [openthesaurus.de](https://www.openthesaurus.de/)
 - [LEO.org](https://dict.leo.org/)
+- [DWDS](https://www.dwds.de/)
 - [德语德国词典](http://www.deyudeguo.com/)
+- [Das elektronische Valenzwörterbuch deutscher Verben](http://hypermedia.ids-mannheim.de/evalbu/index.html)
+- [http://bastiansick.de/abc/](http://bastiansick.de/abc/)
 
 ## 法语
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
