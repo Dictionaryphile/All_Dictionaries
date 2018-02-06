@@ -1,7 +1,7 @@
 ## 宇宙最全在线词典网站导航
 
 ## 说明：  
-- 遇到任何问题，或者有任何改善建议请联系[作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
+- 遇到任何问题，或者有任何补充、建议可联系[作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
 - 试试页面内 Ctrl + F （汉语、日语、德语、法语 etc.）。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
 - 各站点收录词典内容良莠不齐，有的有对应纸版，有的则是拼凑之作，有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
