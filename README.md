@@ -130,6 +130,8 @@
 - [医学百科](https://www.wiki8.com/)
 - [康熙字典網上版](http://www.kangxizidian.com/)
 - [中华博物网工具书](http://www.gg-art.com/article/tools.php)
+- [快快查字典](http://zidian.yy.com/)
+
 
 ## 其他英语类词典
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -161,6 +163,7 @@
 - [1913 Webster's Online Dictionary](http://www.webster-dictionary.org/)
 - [Techopedia – IT Dictionary for Computer Terms and Tech Definitions](https://www.techopedia.com/dictionary)
 - [FOLDOC - Computing Dictionary](http://foldoc.org/)
+- [ozdic.com](http://ozdic.com/)
 - [Online Collocation Dictionary](http://www.freecollocation.com/)
 - [Power Thesaurus](https://www.powerthesaurus.org/)
 - [English picture dictionary](http://www.online-languages.info/english/picture-dictionary.php)
@@ -170,6 +173,8 @@
 - [Digital Dictionary of Buddhism 電子佛教辭典](http://www.buddhism-dict.net/ddb/)
 - [The CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 - [Ludwig·Find the perfect English sentence to express each one of your ideas and write like a pro](https://ludwig.guru/)
+- [Correct English](http://www.antimoon.com/ce/)
+-
 
 ## 日语
 - [翻訳と辞書](http://www.kotoba.ne.jp/)
@@ -211,6 +216,8 @@
 - [中国語方言のページ](http://gattin.world.coocan.jp/)
 - [漢字の写真字典 Photo dictionary of rare Chinese characters](http://gattin.world.coocan.jp/kanji/kaindex.htm)
 - [漢字辞典](http://www.kanjijiten.net/)
+- [日本語教育用アクセント辞典](http://accent.u-biq.org/nihon.html)
+- [ChineseWriter](http://www.kodensha.jp/soft/cw/)
 
 ## 德语
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
@@ -224,6 +231,7 @@
 - [HanDeDict](http://www.handedict.de/)
 - [openthesaurus.de](https://www.openthesaurus.de/)
 - [LEO.org](https://dict.leo.org/)
+    - [德语-汉语](https://www.leo.org/%E5%BE%B7%E8%AF%AD-%E6%B1%89%E8%AF%AD)
 - [DWDS](https://www.dwds.de/)
 - [德语德国词典](http://www.deyudeguo.com/)
 - [Das elektronische Valenzwörterbuch deutscher Verben](http://hypermedia.ids-mannheim.de/evalbu/index.html)
@@ -304,6 +312,8 @@
 - [华梵网](http://www.sanskrit-input.com/)
 
 ## 其他语种
+- [泰语 LONGDO DICT](http://dict.longdo.com/index.php)
+- [泰国皇家学术院出的 泰泰词典](http://rirs3.royin.go.th/dictionary.asp)
 - [新编斯汉词典](http://siwaxili.com/)
 - [哈萨克语汉语词典](http://www.sozdik.net/)
 - [Southeast Asian Languages Library ](http://sealang.net/library/)
@@ -312,6 +322,10 @@
 ## 其他
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [FORVO](https://forvo.com/)
+- [howjsay.com:A Dictionary of English Pronunciation](http://howjsay.com/)
+- [inogolo:Pronunciation Guide to the Names of People, Places, and Stuff](https://inogolo.com/)
+- [VOA Pronunciation Guide](http://pronounce.voanews.com/browse-all.php)
+- [PlayPhrase.me](https://www.playphrase.me/)
 - [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 - [译术网](http://www.all-terms.com/)
@@ -403,6 +417,8 @@
 - [George Chen](http://georgechen.idv.tw/)
 - [duolingo 多邻国](www.duolingo.com)
 - [希望的観測 A wishful thinking by UGO2](http://ugo2.dip.jp/)
+- [italki](https://www.italki.com/questions/english)
+- [StackExchange English Language Learners](https://ell.stackexchange.com/)
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
@@ -452,6 +468,8 @@
 - [The Web of Online Dictionaries](https://www.facstaff.bucknell.edu/rbeard/diction.html)
 - [在线英语词典哪个比较好？](https://www.zhihu.com/question/19707759/answer/273305976)
 - [你用得最顺手的网上英文翻译软件、单词本软件和在线词典是什么？](https://www.zhihu.com/question/19566961/answer/313383831)
+- [有哪些值得推荐的日语在线词典？](https://www.zhihu.com/question/24188357)
+- [有什么好的泰语词典网站推荐？](https://www.zhihu.com/question/29573982)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
 - [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
