@@ -58,7 +58,9 @@
 - [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
    - 搜狗词典 app 另有《新世纪汉英大词典》（第二版），但缺漏多多
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
+- [Bing Microsoft Translator](https://www.bing.com/translator)
 - [有道翻译](http://fanyi.youdao.com/)
+- [Yandex.Translate](https://translate.yandex.com/)
 
 ## 常用英语词典
 - [Oxford Dictionaries](https://en.oxforddictionaries.com/)
@@ -208,6 +210,7 @@
 - [HanDeDict](http://www.handedict.de/)
 - [openthesaurus.de](https://www.openthesaurus.de/)
 - [LEO.org](https://dict.leo.org/)
+- [德语德国词典](http://www.deyudeguo.com/)
 
 ## 法语
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
@@ -215,6 +218,7 @@
 - [沪江小D - 法语词典](https://dict.hjenglish.com/fr/merci)
 - [LAROUSSE](http://www.larousse.fr/)
 - [Le Dictionnaire Visuel (Fr)](http://www.ikonet.com/fr/ledictionnairevisuel/)
+- [法语法国词典](http://fayufaguo.com/merci)
 
 ## 俄语
 - [译酷俄语](http://ru.yicool.cn/)
@@ -251,6 +255,7 @@
 - [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
 - [Longman Diccionario Conciso (English–Latin American Spanish)](https://www.ldoceonline.com/dictionary/english-spanish/welcome)
 - [Lingolex.com](http://www.lingolex.com/)
+- [西班牙语词典](http://xiyucidian.com/)
 
 ## 葡萄牙语
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
@@ -272,6 +277,12 @@
 - [梵语辞书文献数据库建设](http://www.fanfoyan.com/project/pkudic.html)
 - [华梵网](http://www.sanskrit-input.com/)
 
+## 其他语种
+- [新编斯汉词典](http://siwaxili.com/)
+- [哈萨克语汉语词典](http://www.sozdik.net/)
+- [Southeast Asian Languages Library ](http://sealang.net/library/)
+
+
 ## 其他
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [FORVO](https://forvo.com/)
@@ -291,6 +302,7 @@
 - [ShowMeWord.com](http://showmeword.com/)
 - [音标反查](http://forum.putclub.com/soundict/)
 - [英孚在线翻译](http://center.ef.com.cn/dict/)
+- [汉程翻译](http://tran.httpcn.com/)
 - [Interglot](http://www.interglot.com/dictionary)
 - [句酷](http://www.jukuu.com/)
 - [查查在线词典](http://www.ichacha.net/)
@@ -298,6 +310,7 @@
 - [词博词典](http://www.cibo.cn/)
 - [词林在线词典](http://www.cilin.org/)
 - [YouGlish:: Youtube 视频搜索](https://youglish.com/)
+- [效率集词典](http://www.xiaolvji.com/cidian)
 - [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
 - [词典网](http://www.cidianwang.com/)
 - [政府部門常用辭彙](http://www.csb.gov.hk/hkgcsb/glossary/glossary_tc.php)
