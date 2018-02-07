@@ -161,6 +161,9 @@
 - [汉文 360](http://hanwen360.com/)
 - [给力汉语词典](http://www.dacidian.net/)
 - [中国汉语字典](http://zi.artx.cn/)
+- [IT学习网在线成语词典](http://chengyu.t086.com/)
+- [梁平交通网:汉语词典](http://cidian.lpjt.gov.cn/)
+- [造句网](http://zaojv.com/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -211,6 +214,7 @@
 - [UNTERM - The United Nations Terminology Database](https://unterm.un.org/)
 - [EuroTermBank Terminology Search](http://www.eurotermbank.com/)
 - [TERMIUM Plus®](http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html)
+- http://www.mnemonicdictionary.com/
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [FORVO](https://forvo.com/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
@@ -256,6 +260,9 @@
 - [爱思英语学习网 24EN 词典](http://dict.24en.com/)
 - [速译通词典](http://www.fastdict.net/)
 - [英汉、汉英民航词典](http://www.minhangcidian.com/)
+- [天文学名词 - lamost](http://www.lamost.org/astrodict/index.php)
+- [葡萄酒词典](https://www.decanterchina.com/zh/%E8%91%A1%E8%90%84%E9%85%92%E5%AD%A6%E4%B9%A0/%E8%91%A1%E8%90%84%E9%85%92%E8%AF%8D%E5%85%B8/)
+-
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
@@ -368,6 +375,7 @@
 - [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
 - [西漢/漢西對照線上辭典](http://club.ntu.edu.tw/~luisachang/diccionario/)
 - [西班牙语词典](http://xiyucidian.com/)
+- [ChinoSimplificado.com](http://www.iberochino.com/diccionario.php?hanzi=%E4%BA%AE)
 - [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
 - [Longman Diccionario Conciso (English–Latin American Spanish)](https://www.ldoceonline.com/dictionary/english-spanish/welcome)
 - [Lingolex.com](http://www.lingolex.com/)
@@ -406,6 +414,8 @@
 - [Southeast Asian Languages Library ](http://sealang.net/library/)
 - [Hán-Việt-Nhật 漢越日辞典](http://hanvietnhat.vietnam55.com/)
 - [波汉-汉波词典 - Słownik Bohan](http://bohan.pl/)
+- [世界语学习](http://www.elerno.cn/)
+- [蒙漢詞典　Mongolian-Chinese Dictionary and others](http://hkuri.cneas.tohoku.ac.jp/)
 
 ### 拉丁语
 - [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
@@ -430,6 +440,7 @@
 - [国家药典委员会](http://www.chp.org.cn/)
 - [中国药典](http://www.ouryao.com/forum-283-1)
     - [蒲标网:药典](http://db.ouryao.com/)
+- [医药网-医药搜索](http://www.pharmnet.com.cn/search/index.cgi)
 
 ## 语料库
 - [Google Ngram Viewer](https://books.google.com/ngrams)
@@ -531,5 +542,11 @@
 #### 字体
 - [花園明朝](http://fonts.jp/hanazono/)
 - [List of CJK fonts](https://en.wikipedia.org/wiki/List_of_CJK_fonts)
+
+## GitHub
+- [Tatoeba](https://github.com/Tatoeba/tatoeba2)
+- [Online dictionary based on the console，基于控制台的在线词典](https://github.com/kuanghy/kictor)
+
+
 
 -EOF-
