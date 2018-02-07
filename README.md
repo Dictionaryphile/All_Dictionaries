@@ -251,6 +251,7 @@
 - [生物医药大词典](http://dict.bioon.com/)
 - [MyDict 迈迪网](https://www.mydict.uk/)
 - [爱思英语学习网 24EN 词典](http://dict.24en.com/)
+- [速译通词典](http://www.fastdict.net/)
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
