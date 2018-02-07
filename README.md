@@ -150,6 +150,9 @@
 - [汉文学网](https://www.hwxnet.com/)
 - [易笔字](http://www.yibizi.com/)
 - [汉辞网 - 汉语大辞典](http://www.hydcd.com/cidian/)
+- [家长帮词典](http://cidian.eduu.com/)
+- [粤语词典](http://www.yueyv.cn/dacidian/)
+- [中国百科网](http://www.chinabaike.com/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -226,6 +229,7 @@
 - [词博词典](http://www.cibo.cn/)
 - [词林在线词典](http://www.cilin.org/)
 - [中国译典](http://www.tdict.com/)
+- [SCIdict 学术词典](http://www.scidict.org/)
 - [风の词典](http://dict.fengzx.com/)
 - [效率集词典](http://www.xiaolvji.com/cidian)
 - [北大法律英文网](http://lawinfochina.com/)
