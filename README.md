@@ -26,9 +26,10 @@
 
 ## 国内常用在线词典
 - [有道词典](http://youdao.com/w/eng/welcome/)
+    - [收录权威词典介绍[n 久未更新]](http://www.youdao.com/help/dict/source/)
     - [李华驹::21 世纪大英汉词典](http://dict.youdao.com/w/eng/welcome/)
     - [柯林斯英汉双解大词典::译文质量不佳](http://dict.youdao.com/w/eng/welcome/)
-    - [上海辞书出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
+    - [汉语大词典出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
     - [朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用，瑕疵多）](http://cidian.youdao.com/)
     - [韦氏大学英语词典（仅 VIP 移动端 app 可用，数据旧(2003?)）](https://weibo.com/1699451730/FBrj6ddjj)
 - [金山词霸](http://www.iciba.com/welcome)
@@ -145,6 +146,7 @@
 - [中华博物网工具书](http://www.gg-art.com/article/tools.php)
 - [快快查字典](http://zidian.yy.com/)
 - [百度汉语](http://hanyu.baidu.com/)
+- [百度词典](https://dict.baidu.com/)
 - [開放詞典](http://kaifangcidian.com/)
 - [一把刀实用查询](https://18dao.cn/)
 - [漢語多功能字庫Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
@@ -158,6 +160,7 @@
 - [字典TONG](http://zidiantong.com/)
 - [汉文 360](http://hanwen360.com/)
 - [给力汉语词典](http://www.dacidian.net/)
+- [中国汉语字典](http://zi.artx.cn/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -252,6 +255,7 @@
 - [MyDict 迈迪网](https://www.mydict.uk/)
 - [爱思英语学习网 24EN 词典](http://dict.24en.com/)
 - [速译通词典](http://www.fastdict.net/)
+- [英汉、汉英民航词典](http://www.minhangcidian.com/)
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
@@ -401,6 +405,7 @@
 - [哈萨克语汉语词典](http://www.sozdik.net/)
 - [Southeast Asian Languages Library ](http://sealang.net/library/)
 - [Hán-Việt-Nhật 漢越日辞典](http://hanvietnhat.vietnam55.com/)
+- [波汉-汉波词典 - Słownik Bohan](http://bohan.pl/)
 
 ### 拉丁语
 - [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
@@ -525,6 +530,6 @@
 
 #### 字体
 - [花園明朝](http://fonts.jp/hanazono/)
-
+- [List of CJK fonts](https://en.wikipedia.org/wiki/List_of_CJK_fonts)
 
 -EOF-
