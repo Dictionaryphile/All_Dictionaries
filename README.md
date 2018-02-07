@@ -263,6 +263,7 @@
 - [Longman English–Japanese Dictionary](https://www.ldoceonline.com/dictionary/english-japanese/welcome)
 - [エキサイト翻訳](https://www.excite.co.jp/world/)
 - [中日辞書 北辞郎](http://www.ctrans.org/)
+- [「英辞郎 on the WEB 」](https://eow.alc.co.jp/)
 - [研究社 - ルミナス[Luminous]英和・和英辞典](http://www.kenkyusha.co.jp/modules/08_luminous/index.php?content_id=1)
 - [漢字辞典](http://kanjitisiki.com/)
 - http://www.kanjipedia.jp/
