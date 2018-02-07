@@ -12,14 +12,14 @@
 - [常用英语词典](#常用英语词典)
 - [汉语](#汉语)
 - [其他英语类词典](#其他英语类)
-- [日语](#日语)
-- [德语](#德语)
-- [法语](#法语)
-- [俄语](#俄语)
+- [日本語](#日本語)
+- [Deutsch](#Deutsch)
+- [Français](#Français)
+- [Русский](#Русский)
 - [韩语](#韩语)
-- [意大利语](#意大利语)
-- [西班牙语](#西班牙语)
-- [葡萄牙语](#葡萄牙语)
+- [Italiano](#Italiano)
+- [Español](#Español)
+- [Português](#Português)
 - [梵语](#梵语)
 - [其他](#其他)
 - [语料库](#语料库)
@@ -188,8 +188,51 @@
 - [VOA Pronunciation Guide](http://pronounce.voanews.com/browse-all.php)
 - [PlayPhrase.me](https://www.playphrase.me/)
 - [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
+- [UNTERM - The United Nations Terminology Database](https://unterm.un.org/)
+- [EuroTermBank Terminology Search](http://www.eurotermbank.com/)
+- [TERMIUM Plus®](http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html)
+- [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
+- [FORVO](https://forvo.com/)
+- [雙語詞彙資料庫](http://terms.naer.edu.tw/)
+- [译术网](http://www.all-terms.com/)
+- [一本词典](http://onedict.com/)
+- [欧路词典在线版](https://dict.eudic.net/)
+- [Dr.eye 譯典通](https://yun.dreye.com/dict_new/dict.php)
+- [顏氏美語網路辭典](http://www.onlinedict.com/)
+- [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
+- [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
+- [Mandarin-English Dictionary & Thesaurus](https://www.yellowbridge.com/chinese/dictionary.php)
+- [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
+- [EasyBib](http://www.easybib.com/cite/results?source=website&query=test)
+- [Big Huge Thesaurus](https://words.bighugelabs.com/)
+- [ShowMeWord.com](http://showmeword.com/)
+- [音标反查](http://forum.putclub.com/soundict/)
+- [英孚在线翻译](http://center.ef.com.cn/dict/)
+- [汉程翻译](http://tran.httpcn.com/)
+- [Unihan Database Lookup](http://www.unicode.org/charts/unihan.html)
+- [Interglot](http://www.interglot.com/dictionary)
+- [句酷](http://www.jukuu.com/)
+- [查查在线词典](http://www.ichacha.net/)
+- [词都](http://www.dictall.com/)
+- [词博词典](http://www.cibo.cn/)
+- [词林在线词典](http://www.cilin.org/)
+- [中国译典](http://www.tdict.com/)
+- [风の词典](http://dict.fengzx.com/)
+- [效率集词典](http://www.xiaolvji.com/cidian)
+- [北大法律英文网](http://lawinfochina.com/)
+- [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
+- [词典网](http://www.cidianwang.com/)
+- [政府部門常用辭彙](http://www.csb.gov.hk/hkgcsb/glossary/glossary_tc.php)
+- https://www.translated.net/en/translation-api
+- [Visual Thesaurus](https://www.visualthesaurus.com/)
+- [Visuwords](https://visuwords.com/electroscope)
+- [Tradukka](http://tradukka.com/)
+- [911 查询](https://danci.911cha.com/)
+- [丁香园生物医药词典](http://dict.biomart.cn/)
+- [生物医药大词典](http://dict.bioon.com/)
+- [MyDict 迈迪网](https://www.mydict.uk/)
 
-## 日语
+## 日本語
 - [翻訳と辞書](http://www.kotoba.ne.jp/)
 - [goo辞書](http://dictionary.goo.ne.jp/)
     - [『デジタル大辞泉』](https://dictionary.goo.ne.jp/jn/)
@@ -232,7 +275,7 @@
 - [日本語教育用アクセント辞典](http://accent.u-biq.org/nihon.html)
 - [ChineseWriter](http://www.kodensha.jp/soft/cw/)
 
-## 德语
+## Deutsch
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
 - [德语助手](https://www.godic.net/)
 - [沪江小D - 德语词典](https://dict.hjenglish.com/de/danke)
@@ -250,7 +293,7 @@
 - [Das elektronische Valenzwörterbuch deutscher Verben](http://hypermedia.ids-mannheim.de/evalbu/index.html)
 - [http://bastiansick.de/abc/](http://bastiansick.de/abc/)
 
-## 法语
+## Français
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
 - [法语助手](https://www.frdic.com/)
 - [沪江小D - 法语词典](https://dict.hjenglish.com/fr/merci)
@@ -261,8 +304,9 @@
 - [法语法国词典](http://fayufaguo.com/merci)
 - [利氏汉法辞典::介绍](http://www.grandricci.org/)
 - [Le Grand Robert de la langue française - Bureau van Dijk](https://gr.bvdep.com/)
+- [Le Trésor de la langue française informatisé (TLFi) ](http://atilf.atilf.fr/dendien/scripts/tlfiv4/showps.exe?p=combi.htm;java=no;)
 
-## 俄语
+## Русский
 - [译酷俄语](http://ru.yicool.cn/)
 - [大БКРС](https://bkrs.info/)
 - [千亿词霸](http://www.qianyix.com/words/)
@@ -270,7 +314,7 @@
 - [OpenRussian.org Russian Dictionary](https://en.openrussian.org/)
 
 
-## 意大利语
+## Italiano
 - [意汉图片词典](http://unasettimana.com/)
 - [Collins Italian Dictionary](https://www.collinsdictionary.com/dictionary/english-italian/welcome)
 - [Dizionario inglese-italiano - WordReference](http://www.wordreference.com/enit/)
@@ -284,7 +328,7 @@
 - [方格单词](http://fange.org/)
 - [zanichelli](https://www.zanichelli.it/dizionari/)
 
-## 西班牙语
+## Español
 - [Diccionario de la lengua española de la Real Academia Española](http://dle.rae.es/)
 - [SpanishDict](http://www.spanishdict.com/)
 - [Los Diccionarios del Periódico El Mundo](http://www.elmundo.es/diccionarios/)
@@ -307,7 +351,7 @@
 - [Diccionario Inglés-Español WordReference.com](http://www.wordreference.com/es/en/translation.asp)
 - [Word Magic Software](http://www.wordmagicsoft.com/dictionary/tools/index.php)
 
-## 葡萄牙语
+## Português
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
 - [Collins Portuguese Dictionary](https://www.collinsdictionary.com/dictionary/english-portuguese/welcome)
 - [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
@@ -339,48 +383,9 @@
 - [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
 - [Glossa: a Latin dictionary](http://athirdway.com/glossa/)
 - [William Whitaker's Words](http://archives.nd.edu/words.html)
+- [Legal Latin phrases and maxims](http://www.inrebus.com/legalmaxims_a.php)
 
 ## 其他
-- [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
-- [FORVO](https://forvo.com/)
-- [雙語詞彙資料庫](http://terms.naer.edu.tw/)
-- [译术网](http://www.all-terms.com/)
-- [一本词典](http://onedict.com/)
-- [欧路词典在线版](https://dict.eudic.net/)
-- [Dr.eye 譯典通](https://yun.dreye.com/dict_new/dict.php)
-- [顏氏美語網路辭典](http://www.onlinedict.com/)
-- [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
-- [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
-- [Mandarin-English Dictionary & Thesaurus](https://www.yellowbridge.com/chinese/dictionary.php)
-- [Chinese Pod](https://chinesepod.com/tools/glossary/entry/brexit)
-- [EasyBib](http://www.easybib.com/cite/results?source=website&query=test)
-- [Big Huge Thesaurus](https://words.bighugelabs.com/)
-- [ShowMeWord.com](http://showmeword.com/)
-- [音标反查](http://forum.putclub.com/soundict/)
-- [英孚在线翻译](http://center.ef.com.cn/dict/)
-- [汉程翻译](http://tran.httpcn.com/)
-- [Unihan Database Lookup](http://www.unicode.org/charts/unihan.html)
-- [Interglot](http://www.interglot.com/dictionary)
-- [句酷](http://www.jukuu.com/)
-- [查查在线词典](http://www.ichacha.net/)
-- [词都](http://www.dictall.com/)
-- [词博词典](http://www.cibo.cn/)
-- [词林在线词典](http://www.cilin.org/)
-- [中国译典](http://www.tdict.com/)
-- [风の词典](http://dict.fengzx.com/)
-- [效率集词典](http://www.xiaolvji.com/cidian)
-- [北大法律英文网](http://lawinfochina.com/)
-- [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
-- [词典网](http://www.cidianwang.com/)
-- [政府部門常用辭彙](http://www.csb.gov.hk/hkgcsb/glossary/glossary_tc.php)
-- https://www.translated.net/en/translation-api
-- [Visual Thesaurus](https://www.visualthesaurus.com/)
-- [Visuwords](https://visuwords.com/electroscope)
-- [Tradukka](http://tradukka.com/)
-- [911 查询](https://danci.911cha.com/)
-- [丁香园生物医药词典](http://dict.biomart.cn/)
-- [生物医药大词典](http://dict.bioon.com/)
-- [MyDict 迈迪网](https://www.mydict.uk/)
 - [公共服务领域外文译写网站](http://www.wwyx.cn/)
 - [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
 - [国家数据](http://data.stats.gov.cn/)
@@ -485,5 +490,7 @@
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
 - [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
+- [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
+- [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
 
 -EOF-
