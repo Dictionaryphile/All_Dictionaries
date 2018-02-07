@@ -164,6 +164,7 @@
 - [IT学习网在线成语词典](http://chengyu.t086.com/)
 - [梁平交通网:汉语词典](http://cidian.lpjt.gov.cn/)
 - [造句网](http://zaojv.com/)
+- [在线《佛学大辞典》查询](http://foxue.supfree.net/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -262,7 +263,10 @@
 - [英汉、汉英民航词典](http://www.minhangcidian.com/)
 - [天文学名词 - lamost](http://www.lamost.org/astrodict/index.php)
 - [葡萄酒词典](https://www.decanterchina.com/zh/%E8%91%A1%E8%90%84%E9%85%92%E5%AD%A6%E4%B9%A0/%E8%91%A1%E8%90%84%E9%85%92%E8%AF%8D%E5%85%B8/)
--
+- [小马词典  Xiaoma Cidian based on CC-CEDICT](http://www.xiaoma.info/)
+- [英汉电子工程辞典](http://archive.eet-china.com/www.eet-china.com/EGLOSSARY/GLOSSARY_QUEST.HTM)
+- [郑州大学在线英汉-汉英科技大词典](http://www3.zzu.edu.cn/zzjdict/)
+- [Yahoo奇摩字典](https://tw.dictionary.yahoo.com/)
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
