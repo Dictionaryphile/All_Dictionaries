@@ -146,6 +146,8 @@
 - [開放詞典](http://kaifangcidian.com/)
 - [一把刀实用查询](https://18dao.cn/)
 - [漢語多功能字庫Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+- [新派查询网汉语词典](http://cidian.xpcha.com/)
+- [汉文学网](https://www.hwxnet.com/)
 
 
 ## 其他英语类
@@ -234,6 +236,7 @@
 - [Visuwords](https://visuwords.com/electroscope)
 - [Tradukka](http://tradukka.com/)
 - [911 查询](https://danci.911cha.com/)
+- [医脉通:医药学大词典](http://meddic.medlive.cn/)
 - [丁香园生物医药词典](http://dict.biomart.cn/)
 - [生物医药大词典](http://dict.bioon.com/)
 - [MyDict 迈迪网](https://www.mydict.uk/)
@@ -400,10 +403,15 @@
 
 ### 汉语百科
 - [FRPS《中国植物志》全文电子版网站](http://frps.eflora.cn/)
+- [中国动物志](http://www.zoology.csdb.cn/efauna/index.jsp)
 - [医学百科](https://www.wiki8.com/)
 - [多识植物百科](http://duocet.ibiodiversity.net/)
 - [MBA智库百科](http://wiki.mbalib.com/)
 - [萌娘百科](https://zh.moegirl.org/)
+- [药智数据:药材标准数据库查询](https://db.yaozh.com/biaozhun)
+- [国家药典委员会](http://www.chp.org.cn/)
+- [中国药典](http://www.ouryao.com/forum-283-1)
+    - [蒲标网:药典](http://db.ouryao.com/)
 
 ## 语料库
 - [Google Ngram Viewer](https://books.google.com/ngrams)
