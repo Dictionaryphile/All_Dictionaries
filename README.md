@@ -1,7 +1,7 @@
 ## 宇宙最全在线词典网站导航
 
 ## 说明：  
-- 遇到任何问题，或者有任何补充、建议可联系[作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
+- 遇到任何问题，或者有任何补充可联系[作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
 - 试试页面内 Ctrl + F （汉语、日语、德语、法语 etc.）。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
 - 各站点收录词典内容良莠不齐，有的有对应纸版，有的则是拼凑之作，有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
@@ -11,7 +11,7 @@
 - [在线翻译](#在线翻译)
 - [常用英语词典](#常用英语词典)
 - [汉语](#汉语)
-- [其他英语类词典](#其他英语类词典)
+- [其他英语类词典](#其他英语类)
 - [日语](#日语)
 - [德语](#德语)
 - [法语](#法语)
@@ -105,8 +105,17 @@
 - [OneLook Dictionary Search](https://www.onelook.com/)
 - [GDoS::Green's Dictionary of Slang](https://greensdictofslang.com/)
 - [The Online Slang Dictionary](http://onlineslangdictionary.com/)
+- [付费::OED::Oxford English Dictionary](http://www.oed.com/)
+- [付费:MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
+- [付费:WB:: World Book Encyclopedia / Dictionary](http://worldbookonline.com/)
+- [付费:Macquarie Dictionary](https://www.macquariedictionary.com.au/)
+- [付费:Encyclopædia Britannica](https://www.britannica.com/)
+- [付费:Oxford Reference](http://www.oxfordreference.com/)
+- [付费:Oxford Classical Dictionary](http://classics.oxfordre.com/)
+- [付费:Credo Reference](http://search.credoreference.com/)
+- [付费:Go Grolier](http://go.grolier.com/)
 
-## 汉语
+## 其他汉语类
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
   - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
   - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
@@ -131,9 +140,9 @@
 - [康熙字典網上版](http://www.kangxizidian.com/)
 - [中华博物网工具书](http://www.gg-art.com/article/tools.php)
 - [快快查字典](http://zidian.yy.com/)
+- [百度汉语](http://hanyu.baidu.com/)
 
-
-## 其他英语类词典
+## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
 - [Infoplease](https://www.infoplease.com/)
     - [Random House Unabridged Dictionary, Copyright © 1997](https://www.infoplease.com/dictionary/welcome)
@@ -174,7 +183,11 @@
 - [The CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 - [Ludwig·Find the perfect English sentence to express each one of your ideas and write like a pro](https://ludwig.guru/)
 - [Correct English](http://www.antimoon.com/ce/)
--
+- [howjsay.com:A Dictionary of English Pronunciation](http://howjsay.com/)
+- [inogolo:Pronunciation Guide to the Names of People, Places, and Stuff](https://inogolo.com/)
+- [VOA Pronunciation Guide](http://pronounce.voanews.com/browse-all.php)
+- [PlayPhrase.me](https://www.playphrase.me/)
+- [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
 
 ## 日语
 - [翻訳と辞書](http://www.kotoba.ne.jp/)
@@ -242,9 +255,12 @@
 - [法语助手](https://www.frdic.com/)
 - [沪江小D - 法语词典](https://dict.hjenglish.com/fr/merci)
 - [LAROUSSE](http://www.larousse.fr/)
+    - http://www.larousse.fr/dictionnaires/francais/merci/
+- [LE DICTIONNAIRE - Dictionnaire français en ligne gratuit](http://www.le-dictionnaire.com/)
 - [Le Dictionnaire Visuel (Fr)](http://www.ikonet.com/fr/ledictionnairevisuel/)
 - [法语法国词典](http://fayufaguo.com/merci)
 - [利氏汉法辞典::介绍](http://www.grandricci.org/)
+- [Le Grand Robert de la langue française - Bureau van Dijk](https://gr.bvdep.com/)
 
 ## 俄语
 - [译酷俄语](http://ru.yicool.cn/)
@@ -327,11 +343,6 @@
 ## 其他
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [FORVO](https://forvo.com/)
-- [howjsay.com:A Dictionary of English Pronunciation](http://howjsay.com/)
-- [inogolo:Pronunciation Guide to the Names of People, Places, and Stuff](https://inogolo.com/)
-- [VOA Pronunciation Guide](http://pronounce.voanews.com/browse-all.php)
-- [PlayPhrase.me](https://www.playphrase.me/)
-- [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
 - [译术网](http://www.all-terms.com/)
 - [一本词典](http://onedict.com/)
@@ -396,20 +407,8 @@
 - [英華字典資料庫](http://www.mh.sinica.edu.tw/index.aspx)
 - [近代史數位資料庫(MHDB, Modern History Databases)](http://mhdb.mh.sinica.edu.tw/)
 - [文渊阁四库全书电子版::产品介绍](http://www.sikuquanshu.com/project/main.aspx)
-
-## 付费（部分可免费试用）
-- [OED:: Oxford English Dictionary](http://www.oed.com/)
-- [MWU:Merriam-Webster Unabridged Dictionary](http://unabridged.merriam-webster.com/)
-- [WB:: World Book Encyclopedia / Dictionary](http://worldbookonline.com/)
-- [Macquarie Dictionary](https://www.macquariedictionary.com.au/)
-- [Encyclopædia Britannica](https://www.britannica.com/)
-- [Oxford Reference](http://www.oxfordreference.com/)
-- [Oxford Classical Dictionary](http://classics.oxfordre.com/)
-- [Credo Reference](http://search.credoreference.com/)
-- [Go Grolier](http://go.grolier.com/)
-- [CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
-- [方正阿帕比中国工具书资源全文数据库](http://www.apabi.cn/solution/source/4/)
-
+- [付费::CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
+- [付费::方正阿帕比中国工具书资源全文数据库](http://www.apabi.cn/solution/source/4/)
 
 
 ## 一些站点
