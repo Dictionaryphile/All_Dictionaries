@@ -233,7 +233,7 @@
 - [MyDict 迈迪网](https://www.mydict.uk/)
 
 ## 日本語
-- [翻訳と辞書](http://www.kotoba.ne.jp/)
+- [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
 - [goo辞書](http://dictionary.goo.ne.jp/)
     - [『デジタル大辞泉』](https://dictionary.goo.ne.jp/jn/)
     - [『小学館ランダムハウス英和大辞典』（第２版）無料！](https://dictionary.goo.ne.jp/ej/)
