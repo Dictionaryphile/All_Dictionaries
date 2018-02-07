@@ -129,6 +129,8 @@
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
 - [国学网](http://www.guoxue.com/)
 - [搜韵网](https://sou-yun.com/)
+    - https://sou-yun.com/Query.aspx?type=word&id=12331
+- [韻典網](http://ytenx.org/)
 - [古诗文网](http://www.gushiwen.org/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
@@ -153,6 +155,9 @@
 - [家长帮词典](http://cidian.eduu.com/)
 - [粤语词典](http://www.yueyv.cn/dacidian/)
 - [中国百科网](http://www.chinabaike.com/)
+- [字典TONG](http://zidiantong.com/)
+- [汉文 360](http://hanwen360.com/)
+- [给力汉语词典](http://www.dacidian.net/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -245,6 +250,7 @@
 - [丁香园生物医药词典](http://dict.biomart.cn/)
 - [生物医药大词典](http://dict.bioon.com/)
 - [MyDict 迈迪网](https://www.mydict.uk/)
+- [爱思英语学习网 24EN 词典](http://dict.24en.com/)
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
@@ -288,6 +294,7 @@
 - [漢字の写真字典 Photo dictionary of rare Chinese characters](http://gattin.world.coocan.jp/kanji/kaindex.htm)
 - [漢字辞典](http://www.kanjijiten.net/)
 - [日本語教育用アクセント辞典](http://accent.u-biq.org/nihon.html)
+- [DA 日语词典](http://dict.asia/)
 - [ChineseWriter](http://www.kodensha.jp/soft/cw/)
 
 ## Deutsch
@@ -496,6 +503,7 @@
 - [Color Dict](http://www.socialnmobile.com/colordict.html)
 - [FireDict:A simple offline dictionary software for Firefox OS](http://tuxor1337.github.io/firedict/)
 - [微软小英](http://www.engkoo.com/)
+- [漢文博士](http://hanbox.cnblogs.com/)
 
 ## 参考
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
@@ -513,5 +521,9 @@
 - [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
 - [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
 - [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
+
+#### 字体
+- [花園明朝](http://fonts.jp/hanazono/)
+
 
 -EOF-
