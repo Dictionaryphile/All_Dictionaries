@@ -148,7 +148,8 @@
 - [漢語多功能字庫Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 - [新派查询网汉语词典](http://cidian.xpcha.com/)
 - [汉文学网](https://www.hwxnet.com/)
-
+- [易笔字](http://www.yibizi.com/)
+- [汉辞网 - 汉语大辞典](http://www.hydcd.com/cidian/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
