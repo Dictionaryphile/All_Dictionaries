@@ -122,6 +122,8 @@
 - [需付费::辞源（第三版）](http://ciyuan.cp.com.cn/)
 - [需付费::大辞海](http://www.dacihai.com.cn/)
 - [中华语文知识库](http://www.zhonghuayuwen.org/)
+- [中華語文知識庫](http://chinese-linguipedia.org/)
+    - [中華語文大辭典](http://chinese-linguipedia.org/search_inner.html)
 - [搜文解字](http://words.sinica.edu.tw/)
     - [漢語大字典裡面收錄的3千多個常用字](http://words.sinica.edu.tw/sou/sou.html)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
@@ -141,6 +143,10 @@
 - [中华博物网工具书](http://www.gg-art.com/article/tools.php)
 - [快快查字典](http://zidian.yy.com/)
 - [百度汉语](http://hanyu.baidu.com/)
+- [開放詞典](http://kaifangcidian.com/)
+- [一把刀实用查询](https://18dao.cn/)
+- [漢語多功能字庫Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -407,6 +413,7 @@
 - [COCA](https://corpus.byu.edu/coca/)
 - [COCA Frequency list::查看 60000 单词词频排名](https://www.wordandphrase.info/frequencyList.asp)
 - [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
+- [Lancaster BNCweb](http://bncweb.lancs.ac.uk/bncwebSignup/user/login.php)
 - [The Open American National Corpus (OANC)](http://www.anc.org/)
 - [Free ebooks - Project Gutenberg](https://www.gutenberg.org/)
 - [OpenSubtitles](https://www.opensubtitles.org/)
