@@ -166,6 +166,7 @@
 - [梁平交通网:汉语词典](http://cidian.lpjt.gov.cn/)
 - [造句网](http://zaojv.com/)
 - [在线《佛学大辞典》查询](http://foxue.supfree.net/)
+- [东方语言学](http://www.eastling.org/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
