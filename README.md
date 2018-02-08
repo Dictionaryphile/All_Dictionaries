@@ -269,6 +269,7 @@
 - [英汉电子工程辞典](http://archive.eet-china.com/www.eet-china.com/EGLOSSARY/GLOSSARY_QUEST.HTM)
 - [郑州大学在线英汉-汉英科技大词典](http://www3.zzu.edu.cn/zzjdict/)
 - [Yahoo奇摩字典](https://tw.dictionary.yahoo.com/)
+- [朗朗中文 - 全民大词典](http://www.yes-chinese.com/v2010/dict_ce/search.do)
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
