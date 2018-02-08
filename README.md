@@ -115,6 +115,7 @@
 - [付费:Oxford Classical Dictionary](http://classics.oxfordre.com/)
 - [付费:Credo Reference](http://search.credoreference.com/)
 - [付费:Go Grolier](http://go.grolier.com/)
+- [付费:Oxford Dictionary of National Biography](http://www.oxforddnb.com/)
 
 ## 其他汉语类
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
@@ -547,10 +548,25 @@
 - [花園明朝](http://fonts.jp/hanazono/)
 - [List of CJK fonts](https://en.wikipedia.org/wiki/List_of_CJK_fonts)
 
+## 输入法
+- [RIME | 中州韻輸入法引擎](http://rime.im/)
+- [搜狗输入法](https://pinyin.sogou.com/)
+- [QQ输入法](http://qq.pinyin.cn/)
+- [百度输入法](https://shurufa.baidu.com/)
+- [手心输入法](http://www.xinshuru.com/)
+- [华宇拼音输入法](http://www.unispim.com/)
+- [谷歌拼音输入法](https://www.google.com/intl/zh-CN/ime/pinyin/)
+- [王码](http://www.wangma.net.cn/)
+- [法语智能输入法](http://soft.frdic.com/product/francais_input.aspx)
+- [蒙科立智能输入法](http://www.menksoft.com/site/alias__menkcms/2824/Default.aspx)
+
 ## GitHub
 - [Tatoeba](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典](https://github.com/kuanghy/kictor)
+- [MYDICTIONARY Desktop Application of CLI](https://github.com/zzc-tongji/mydictionary-client-cli)
 
-
+### Chrome 扩展
+- [Saladict 沙拉查词](https://github.com/crimx/ext-saladict)
+- [FairyDict](https://github.com/revir/FairyDict)
 
 -EOF-
