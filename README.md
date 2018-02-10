@@ -10,7 +10,7 @@
 - [国内常用在线词典](#国内常用在线词典)
 - [在线翻译](#在线翻译)
 - [常用英语词典](#常用英语词典)
-- [汉语](#汉语)
+- [汉语](#其他汉语类)
 - [其他英语类词典](#其他英语类)
 - [日本語](#日本語)
 - [Deutsch](#deutsch)
@@ -218,6 +218,7 @@
 - [EuroTermBank Terminology Search](http://www.eurotermbank.com/)
 - [TERMIUM Plus®](http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html)
 - http://www.mnemonicdictionary.com/
+- [Computer Desktop Encyclopedia: The Computer Language Company](http://www.computerlanguage.com/)
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [FORVO](https://forvo.com/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
@@ -346,6 +347,7 @@
 - [利氏汉法辞典::介绍](http://www.grandricci.org/)
 - [Le Grand Robert de la langue française - Bureau van Dijk](https://gr.bvdep.com/)
 - [Le Trésor de la langue française informatisé (TLFi) ](http://atilf.atilf.fr/dendien/scripts/tlfiv4/showps.exe?p=combi.htm;java=no;)
+- [CFDICT](https://chine.in/mandarin/dictionnaire/CFDICT/)
 
 ## Русский
 - [译酷俄语](http://ru.yicool.cn/)
@@ -353,7 +355,7 @@
 - [千亿词霸](http://www.qianyix.com/words/)
 - [Словари и энциклопедии на Академике](https://dic.academic.ru/)
 - [OpenRussian.org Russian Dictionary](https://en.openrussian.org/)
-
+- [Glosbe Russian Dictionary](https://glosbe.com/en/ru)
 
 ## Italiano
 - [意汉图片词典](http://unasettimana.com/)
@@ -398,12 +400,16 @@
 - [Collins Portuguese Dictionary](https://www.collinsdictionary.com/dictionary/english-portuguese/welcome)
 - [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
 - [Infopédia	Dicionário da Língua Portuguesa](https://www.infopedia.pt/)
+- [Glosbe Portuguese Dictionary](https://glosbe.com/en/pt)
 
 ## 韩语
 - [韩国国立国语院：标准韓韓释义](http://www.korean.go.kr/)
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [沪江小D- 韩语词典](https://dict.hjenglish.com/kr/)
 - [Longman English–Korean Dictionary](https://www.ldoceonline.com/dictionary/english-korean/welcome)
+
+## 阿拉伯语
+- [Glosbe Arabic Dictionary](https://glosbe.com/en/ar)
 
 ## 印地语
 - [Collins Hindi Dictionary](https://www.collinsdictionary.com/dictionary/english-hindi)
@@ -530,6 +536,7 @@
 - [漢文博士](http://hanbox.cnblogs.com/)
 
 ## 参考
+- [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
