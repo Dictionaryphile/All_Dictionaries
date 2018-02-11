@@ -324,7 +324,7 @@
 - [ChineseWriter](http://www.kodensha.jp/soft/cw/)
 
 ## Deutsch
-- [Glosble 中文 德文 字典 在线](https://zh.glosbe.com/zh/de)
+- [Glosbe 中文 德文 字典 在线](https://zh.glosbe.com/zh/de)
 - [Wiktionary, das freie Wörterbuch](https://de.wiktionary.org/)
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
 - [德语助手](https://www.godic.net/)
@@ -336,7 +336,7 @@
     - [中文页面](https://zh.pons.com/)
 - [Langenscheidt](https://en.langenscheidt.com/)
 - [canoonet](http://www.canoo.net/)
-- [HanDeDict](http://www.handedict.de/)
+- [HanDeDict:Das Freie Chinesisch-Deutsche Wörterbuch 汉德词典 / 德汉词典](http://www.handedict.de/)
 - [openthesaurus.de](https://www.openthesaurus.de/)
 - [LEO.org](https://dict.leo.org/)
     - [德语-汉语](http://dict.leo.org/chde/)
