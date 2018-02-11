@@ -2,11 +2,12 @@
 
 ## 说明：  
 - 遇到任何问题，或者有任何补充可联系[作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
-- 试试页面内 Ctrl + F （汉语、日语、德语、法语 etc.）。  为节省篇幅，就不详细介绍各个站点了，可以点击进去自行查看。很多站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
-- 各站点收录词典内容良莠不齐，有的有对应纸版，有的则是拼凑之作，有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
+- 试试页面内 Ctrl + F 关键字。  为节省篇幅，就不评介各个站点了，可以点击进去自行查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
+- 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
+- 感谢这些站点为我们提供查询服务。  
 
-感谢词典服务提供商为我们提供词典查询服务。  
+## 目录
 - [国内常用在线词典](#国内常用在线词典)
 - [在线翻译](#在线翻译)
 - [常用英语词典](#常用英语词典)
@@ -16,7 +17,7 @@
 - [Deutsch](#deutsch)
 - [Français](#français)
 - [Русский](#Русский)
-- [韩语](#韩语)
+- [한국어](#한국어)
 - [Italiano](#italiano)
 - [Español](#español)
 - [Português](#português)
@@ -415,7 +416,7 @@
 - [Infopédia	Dicionário da Língua Portuguesa](https://www.infopedia.pt/)
 - [Glosbe Portuguese Dictionary](https://glosbe.com/en/pt)
 
-## 韩语
+## 한국어
 - [韩国国立国语院：标准韓韓释义](http://www.korean.go.kr/)
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [沪江小D- 韩语词典](https://dict.hjenglish.com/kr/)
