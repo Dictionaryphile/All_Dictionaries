@@ -335,6 +335,7 @@
     - [中文页面](https://zh.pons.com/)
 - [Langenscheidt](https://en.langenscheidt.com/)
     - [朗氏在线德语汉语双向词典](https://de.langenscheidt.com/deutsch-chinesisch/)
+- [欧华词典 - 在线德语汉语翻译词典](http://deyu.ohdict.com/)
 - [德语德国词典](http://www.deyudeguo.com/)
 - [Wiktionary, das freie Wörterbuch](https://de.wiktionary.org/)
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
