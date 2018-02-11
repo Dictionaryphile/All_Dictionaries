@@ -326,11 +326,12 @@
 ## Deutsch
 - [德语助手](https://www.godic.net/)
 - [沪江小D - 德语词典](https://dict.hjenglish.com/de/danke)
+- [HanDeDict:Das Freie Chinesisch-Deutsche Wörterbuch 汉德词典 / 德汉词典](http://www.handedict.de/)
 - [中德桥词典 brucca Wörterbuch](http://www.brucca.info/)
+- [bab.la 德语-汉语词典](https://de.bab.la/woerterbuch/deutsch-chinesisch/)
 - [Glosbe 中文 德文 字典 在线](https://zh.glosbe.com/zh/de)
 - [LEO.org](https://dict.leo.org/)
     - [德语-汉语](http://dict.leo.org/chde/)
-- [HanDeDict:Das Freie Chinesisch-Deutsche Wörterbuch 汉德词典 / 德汉词典](http://www.handedict.de/)
 - [PONS Online Dictionary](https://pons.com/)
     - [中文页面](https://zh.pons.com/)
 - [Langenscheidt](https://en.langenscheidt.com/)
@@ -355,6 +356,7 @@
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
 - [法语助手](https://www.frdic.com/)
 - [沪江小D - 法语词典](https://dict.hjenglish.com/fr/merci)
+- [欧华词典 - 在线法语汉语翻译词典](http://fr.ohdict.com/)
 - [LAROUSSE](http://www.larousse.fr/)
     - http://www.larousse.fr/dictionnaires/francais/merci/
 - [LE DICTIONNAIRE - Dictionnaire français en ligne gratuit](http://www.le-dictionnaire.com/)
@@ -386,6 +388,7 @@
 - [DOP](http://www.dizionario.rai.it/ricerca.aspx)
 - [方格单词](http://fange.org/)
 - [zanichelli](https://www.zanichelli.it/dizionari/)
+- [欧华词典 - 在线意大利语汉语翻译词典](http://yidaliyu.ohdict.com/)
 
 ## Español
 - [Diccionario de la lengua española de la Real Academia Española](http://dle.rae.es/)
@@ -399,6 +402,7 @@
 - [西语助手](http://www.esdict.cn/)
 - [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
 - [西漢/漢西對照線上辭典](http://club.ntu.edu.tw/~luisachang/diccionario/)
+- [欧华词典 - 在线西班牙语汉语翻译词典](http://www.ohdict.com/)
 - [西班牙语词典](http://xiyucidian.com/)
 - [ChinoSimplificado.com](http://www.iberochino.com/diccionario.php?hanzi=%E4%BA%AE)
 - [Diccionario Visual (es)](http://www.ikonet.com/es/diccionariovisual/)
