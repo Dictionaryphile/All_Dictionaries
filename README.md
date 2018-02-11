@@ -66,6 +66,7 @@
 - [Bing Microsoft Translator](https://www.bing.com/translator)
 - [有道翻译](http://fanyi.youdao.com/)
 - [Yandex.Translate](https://translate.yandex.com/)
+- [AliTranslate](https://tools.alibaba.com/translate/)
 
 ## 常用英语词典
 - [Oxford Dictionaries](https://en.oxforddictionaries.com/)
@@ -125,6 +126,7 @@
   - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
 - [需付费::辞源（第三版）](http://ciyuan.cp.com.cn/)
 - [需付费::大辞海](http://www.dacihai.com.cn/)
+- [新词语研究资源库](http://ling.cuc.edu.cn/newword/)
 - [中华语文知识库](http://www.zhonghuayuwen.org/)
 - [中華語文知識庫](http://chinese-linguipedia.org/)
     - [中華語文大辭典](http://chinese-linguipedia.org/search_inner.html)
@@ -141,6 +143,7 @@
 - [搜韵网](https://sou-yun.com/)
     - https://sou-yun.com/Query.aspx?type=word&id=12331
 - [韻典網](http://ytenx.org/)
+- [古今文字集成](http://ccamc.co/)
 - [古诗文网](http://www.gushiwen.org/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
@@ -172,6 +175,7 @@
 - [语音字典(VoiceDic)](http://www.voicedic.com/)
 - [无忧无虑中学语文网](http://5156edu.com/)
     - [在线汉语词典](http://xh.5156edu.com/)
+- [书法字典](http://www.shufazidian.com/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -430,6 +434,7 @@
 
 ## 阿拉伯语
 - [Glosbe Arabic Dictionary](https://glosbe.com/en/ar)
+- [Cambridge English-Arabic Dictionary](https://dictionary.cambridge.org/dictionary/english-arabic/)
 
 ## 印地语
 - [Collins Hindi Dictionary](https://www.collinsdictionary.com/dictionary/english-hindi)
@@ -450,6 +455,7 @@
 - [English-Ido Dictionary by L.H. Dyer](http://idolinguo.org.uk/eniddyer.htm)
 - [世界语学习](http://www.elerno.cn/)
 - [蒙漢詞典　Mongolian-Chinese Dictionary and others](http://hkuri.cneas.tohoku.ac.jp/)
+- [Encyclo.nl](http://www.encyclo.nl/)
 
 ### 拉丁语
 - [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
@@ -484,6 +490,7 @@
 - [Google Ngram Viewer](https://books.google.com/ngrams)
 - [殆知阁](http://www.daizhige.org/)
 - [中国哲学书电子化计划](http://ctext.org/)
+- [媒体语言语料库（MLC）](http://ling.cuc.edu.cn/RawPub/)
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
 - [COCA](https://corpus.byu.edu/coca/)
 - [COCA Frequency list::查看 60000 单词词频排名](https://www.wordandphrase.info/frequencyList.asp)
@@ -507,6 +514,7 @@
 - [Mike Swan](https://mikeswan.net/)
 - [语言文字信息管理司- 中华人民共和国教育部](http://www.moe.edu.cn/s78/A19/)
 - [中国社会科学院语言研究所](http://ling.cass.cn/)
+- [中国语言文字网](http://www.china-language.gov.cn/)
 - [Sentence first:An Irishman's blog about the English language.](https://stancarey.wordpress.com/)
 - [Sesquiotica - Words, words, words](https://sesquiotic.wordpress.com/)
 - [World Wide Words](http://www.worldwidewords.org/)
