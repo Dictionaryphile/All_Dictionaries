@@ -128,12 +128,14 @@
 - [中華語文知識庫](http://chinese-linguipedia.org/)
     - [中華語文大辭典](http://chinese-linguipedia.org/search_inner.html)
 - [搜文解字](http://words.sinica.edu.tw/)
-    - [漢語大字典裡面收錄的3千多個常用字](http://words.sinica.edu.tw/sou/sou.html)
-- [漢語多功能字庫Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+    - [漢語大字典裡面收錄的 3 千多個常用字](http://words.sinica.edu.tw/sou/sou.html)
+- [漢語多功能字庫 Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 - [小學堂](http://xiaoxue.iis.sinica.edu.tw/)
+- [Index 引得市]()http://www.mebag.com/index/
 - [北大 CCL 现代汉语语义词典:仅对注册的北大校园网用户开放](http://ccl.pku.edu.cn/ccl_sem_dict/)
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
+- [东方语言学](http://www.eastling.org/)
 - [国学网](http://www.guoxue.com/)
 - [搜韵网](https://sou-yun.com/)
     - https://sou-yun.com/Query.aspx?type=word&id=12331
@@ -141,9 +143,6 @@
 - [古诗文网](http://www.gushiwen.org/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
-- [语音字典(VoiceDic)](http://www.voicedic.com/)
-- [无忧无虑中学语文网](http://5156edu.com/)
-    - [在线汉语词典](http://xh.5156edu.com/)
 - [千千秀字](http://www.qqxiuzi.cn/)
 - [TLS - Thesaurus Linguae Sericae 漢學文典](http://tls.uni-hd.de/home_en.lasso)
 - [康熙字典網上版](http://www.kangxizidian.com/)
@@ -168,8 +167,10 @@
 - [梁平交通网:汉语词典](http://cidian.lpjt.gov.cn/)
 - [造句网](http://zaojv.com/)
 - [在线《佛学大辞典》查询](http://foxue.supfree.net/)
-- [东方语言学](http://www.eastling.org/)
 - [象形字典](http://www.vividict.com/)
+- [语音字典(VoiceDic)](http://www.voicedic.com/)
+- [无忧无虑中学语文网](http://5156edu.com/)
+    - [在线汉语词典](http://xh.5156edu.com/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -219,6 +220,7 @@
 - [UNTERM - The United Nations Terminology Database](https://unterm.un.org/)
 - [EuroTermBank Terminology Search](http://www.eurotermbank.com/)
 - [TERMIUM Plus®](http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html)
+- [Wordcraft Dictionary](http://wordcraft.infopop.cc/)
 - http://www.mnemonicdictionary.com/
 - [Computer Desktop Encyclopedia: The Computer Language Company](http://www.computerlanguage.com/)
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
@@ -273,6 +275,7 @@
 - [郑州大学在线英汉-汉英科技大词典](http://www3.zzu.edu.cn/zzjdict/)
 - [Yahoo奇摩字典](https://tw.dictionary.yahoo.com/)
 - [朗朗中文 - 全民大词典](http://www.yes-chinese.com/v2010/dict_ce/search.do)
+- [在线英语词典(中英、英英、英汉)](https://tools.enfamily.cn/dict.htm)
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
@@ -320,22 +323,30 @@
 - [ChineseWriter](http://www.kodensha.jp/soft/cw/)
 
 ## Deutsch
+- [Glosble 中文 德文 字典 在线](https://zh.glosbe.com/zh/de)
+- [Wiktionary, das freie Wörterbuch](https://de.wiktionary.org/)
 - [Collins German Dictionary](https://www.collinsdictionary.com/dictionary/english-german/welcome)
 - [德语助手](https://www.godic.net/)
 - [沪江小D - 德语词典](https://dict.hjenglish.com/de/danke)
 - [中德桥词典](http://www.brucca.info/)
 - [Duden online](https://www.duden.de/woerterbuch)
+- [TheFreeDictionary](http://de.thefreedictionary.com/)
 - [PONS Online Dictionary](https://pons.com/)
+    - [中文页面](https://zh.pons.com/)
 - [Langenscheidt](https://en.langenscheidt.com/)
 - [canoonet](http://www.canoo.net/)
 - [HanDeDict](http://www.handedict.de/)
 - [openthesaurus.de](https://www.openthesaurus.de/)
 - [LEO.org](https://dict.leo.org/)
-    - [德语-汉语](https://www.leo.org/%E5%BE%B7%E8%AF%AD-%E6%B1%89%E8%AF%AD)
+    - [德语-汉语](http://dict.leo.org/chde/)
 - [DWDS](https://www.dwds.de/)
+- [dict.cc Deutsch-Englisch-Wörterbuch](https://www.dict.cc/)
+- [Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm](http://woerterbuchnetz.de/DWB/)
 - [德语德国词典](http://www.deyudeguo.com/)
 - [Das elektronische Valenzwörterbuch deutscher Verben](http://hypermedia.ids-mannheim.de/evalbu/index.html)
 - [http://bastiansick.de/abc/](http://bastiansick.de/abc/)
+- [BEOLINGUS - Your Online Dictionary](https://dict.tu-chemnitz.de/)
+- [Leipzig Corpora Collection / Deutscher Wortschatz](http://wortschatz.uni-leipzig.de/)
 
 ## Français
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
@@ -429,6 +440,7 @@
 - [Southeast Asian Languages Library ](http://sealang.net/library/)
 - [Hán-Việt-Nhật 漢越日辞典](http://hanvietnhat.vietnam55.com/)
 - [波汉-汉波词典 - Słownik Bohan](http://bohan.pl/)
+- [English-Ido Dictionary by L.H. Dyer](http://idolinguo.org.uk/eniddyer.htm)
 - [世界语学习](http://www.elerno.cn/)
 - [蒙漢詞典　Mongolian-Chinese Dictionary and others](http://hkuri.cneas.tohoku.ac.jp/)
 
@@ -575,6 +587,7 @@
 - [Tatoeba](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI](https://github.com/zzc-tongji/mydictionary-client-cli)
+- [中文近义词工具包](https://github.com/huyingxi/Synonyms)
 
 ### Chrome 扩展
 - [Saladict 沙拉查词](https://github.com/crimx/ext-saladict)
