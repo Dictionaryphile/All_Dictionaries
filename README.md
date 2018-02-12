@@ -145,6 +145,7 @@
 - [韻典網](http://ytenx.org/)
 - [古今文字集成](http://ccamc.co/)
 - [古诗文网](http://www.gushiwen.org/)
+- [哈工大社会计算与信息检索研究中心 同义词词林(扩展版)](https://www.ltp-cloud.com/download/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
 - [词林近义词词典](http://www.cilin.org/jyc/)
