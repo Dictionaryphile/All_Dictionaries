@@ -167,7 +167,7 @@
 - [新派查询网 - 近义词大全](http://jinyici.xpcha.com/)
 
 ### 其他汉语类站点
-- [字海网](http://yedict.com/)
+- [字海网，叶典网](http://yedict.com/)
 - [国学网](http://www.guoxue.com/)
 - [搜韵网](https://sou-yun.com/)
     - https://sou-yun.com/Query.aspx?type=word&id=12331
