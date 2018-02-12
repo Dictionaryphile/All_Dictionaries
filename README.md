@@ -147,6 +147,7 @@
 - [古诗文网](http://www.gushiwen.org/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
+- [词林近义词词典](http://www.cilin.org/jyc/)
 - [千千秀字](http://www.qqxiuzi.cn/)
 - [TLS - Thesaurus Linguae Sericae 漢學文典](http://tls.uni-hd.de/home_en.lasso)
 - [康熙字典網上版](http://www.kangxizidian.com/)
@@ -222,6 +223,7 @@
 - [VOA Pronunciation Guide](http://pronounce.voanews.com/browse-all.php)
 - [PlayPhrase.me](https://www.playphrase.me/)
 - [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
+- [Visual Dictionary](https://infovisual.info/en)
 - [UNTERM - The United Nations Terminology Database](https://unterm.un.org/)
 - [EuroTermBank Terminology Search](http://www.eurotermbank.com/)
 - [TERMIUM Plus®](http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html)
@@ -370,6 +372,7 @@
 - [Le Grand Robert de la langue française - Bureau van Dijk](https://gr.bvdep.com/)
 - [Le Trésor de la langue française informatisé (TLFi) ](http://atilf.atilf.fr/dendien/scripts/tlfiv4/showps.exe?p=combi.htm;java=no;)
 - [CFDICT](https://chine.in/mandarin/dictionnaire/CFDICT/)
+- [Le Dictionnaire Visuel](https://infovisual.info/fr)
 
 ## Русский
 - [译酷俄语](http://ru.yicool.cn/)
@@ -418,6 +421,7 @@
 - [Diccionario avanzado chino-español © Lingea](https://www.dict.com/chino-espanol)
 - [Diccionario Inglés-Español WordReference.com](http://www.wordreference.com/es/en/translation.asp)
 - [Word Magic Software](http://www.wordmagicsoft.com/dictionary/tools/index.php)
+- [El Diccionario Visual](https://infovisual.info/es)
 
 ## Português
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
