@@ -14,6 +14,7 @@
     - [母语型英语词典](#母语型英语词典)
     - [学习型英语词典](#学习型英语词典)
 - [汉语](#其他汉语类)
+    - [同义词、反义词、近义词、相关词](同义词、反义词、近义词、相关词)
 - [其他英语类词典](#其他英语类)
 - [日本語](#日本語)
 - [Deutsch](#deutsch)
@@ -134,6 +135,7 @@
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
 
 ## 其他汉语类
+### 官方或权威机构
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
   - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
   - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
@@ -152,12 +154,8 @@
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
 - [东方语言学](http://www.eastling.org/)
-- [国学网](http://www.guoxue.com/)
-- [搜韵网](https://sou-yun.com/)
-    - https://sou-yun.com/Query.aspx?type=word&id=12331
-- [韻典網](http://ytenx.org/)
-- [古今文字集成](http://ccamc.co/)
-- [古诗文网](http://www.gushiwen.org/)
+
+### 同义词、反义词、近义词、相关词
 - [哈工大社会计算与信息检索研究中心 同义词词林(扩展版)](https://www.ltp-cloud.com/download/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
@@ -166,6 +164,15 @@
 - [中文詞彙網路| Chinese Wordnet - LOPE @ NTU](http://lope.linguistics.ntu.edu.tw/cwn/)
 - [**需单位订阅**::商务印书馆·精品工具书数据库：据意查词](http://www.icidian.com.cn/cpnet/)
 - [汉典:相关词语](http://www.zdic.net/z/17/js/597D.htm)
+- [新派查询网 - 近义词大全](http://jinyici.xpcha.com/)
+
+### 其他汉语类站点
+- [国学网](http://www.guoxue.com/)
+- [搜韵网](https://sou-yun.com/)
+    - https://sou-yun.com/Query.aspx?type=word&id=12331
+- [韻典網](http://ytenx.org/)
+- [古今文字集成](http://ccamc.co/)
+- [古诗文网](http://www.gushiwen.org/)
 - [千千秀字](http://www.qqxiuzi.cn/)
 - [TLS - Thesaurus Linguae Sericae 漢學文典](http://tls.uni-hd.de/home_en.lasso)
 - [康熙字典網上版](http://www.kangxizidian.com/)
