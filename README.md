@@ -167,6 +167,7 @@
 - [新派查询网 - 近义词大全](http://jinyici.xpcha.com/)
 
 ### 其他汉语类站点
+- [字海网](http://yedict.com/)
 - [国学网](http://www.guoxue.com/)
 - [搜韵网](https://sou-yun.com/)
     - https://sou-yun.com/Query.aspx?type=word&id=12331
@@ -308,6 +309,9 @@
 - [Yahoo奇摩字典](https://tw.dictionary.yahoo.com/)
 - [朗朗中文 - 全民大词典](http://www.yes-chinese.com/v2010/dict_ce/search.do)
 - [在线英语词典(中英、英英、英汉)](https://tools.enfamily.cn/dict.htm)
+- [印刷词典](http://www.cgan.net/cidian/)
+    - http://www.cgan.net/book/books/print/cn-en_dict/indexcidian/vic_body/vic_a7.htm
+- [Encycolorpedia](http://encycolorpedia.cn/)
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
