@@ -14,7 +14,7 @@
     - [母语型英语词典](#母语型英语词典)
     - [学习型英语词典](#学习型英语词典)
 - [汉语](#其他汉语类)
-    - [同义词、反义词、近义词、相关词](#汉语 Thesaurus)
+    - [同义词、反义词、近义词、相关词](#汉语Thesaurus)
 - [其他英语类词典](#其他英语类)
 - [日本語](#日本語)
 - [Deutsch](#deutsch)
@@ -155,7 +155,7 @@
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
 - [东方语言学](http://www.eastling.org/)
 
-### 汉语 Thesaurus
+### 汉语Thesaurus
 - [哈工大社会计算与信息检索研究中心 同义词词林(扩展版)](https://www.ltp-cloud.com/download/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
 - [同义词库](http://chinese.abcthesaurus.com/)
