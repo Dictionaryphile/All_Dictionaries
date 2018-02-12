@@ -332,6 +332,7 @@
 - [漢字辞典](http://www.kanjijiten.net/)
 - [日本語教育用アクセント辞典](http://accent.u-biq.org/nihon.html)
 - [DA 日语词典](http://dict.asia/)
+- [词林日语词典](http://www.cilin.org/jp/)
 - [ChineseWriter](http://www.kodensha.jp/soft/cw/)
 
 ## Deutsch
@@ -347,6 +348,7 @@
     - [中文页面](https://zh.pons.com/)
 - [Langenscheidt](https://en.langenscheidt.com/)
     - [朗氏在线德语汉语双向词典](https://de.langenscheidt.com/deutsch-chinesisch/)
+- [词林德语词典](http://www.cilin.org/de/)
 - [欧华词典 - 在线德语汉语翻译词典](http://deyu.ohdict.com/)
 - [德语德国词典](http://www.deyudeguo.com/)
 - [Wiktionary, das freie Wörterbuch](https://de.wiktionary.org/)
@@ -372,6 +374,7 @@
     - http://www.larousse.fr/dictionnaires/francais/merci/
 - [LE DICTIONNAIRE - Dictionnaire français en ligne gratuit](http://www.le-dictionnaire.com/)
 - [Le Dictionnaire Visuel (Fr)](http://www.ikonet.com/fr/ledictionnairevisuel/)
+- [词林法语词典](http://www.cilin.org/fr/)
 - [法语法国词典](http://fayufaguo.com/merci)
 - [利氏汉法辞典::介绍](http://www.grandricci.org/)
 - [Le Grand Robert de la langue française - Bureau van Dijk](https://gr.bvdep.com/)
@@ -383,6 +386,7 @@
 - [译酷俄语](http://ru.yicool.cn/)
 - [大БКРС](https://bkrs.info/)
 - [千亿词霸](http://www.qianyix.com/words/)
+- [词林俄语词典](http://www.cilin.org/ru/)
 - [Словари и энциклопедии на Академике](https://dic.academic.ru/)
 - [OpenRussian.org Russian Dictionary](https://en.openrussian.org/)
 - [Glosbe Russian Dictionary](https://glosbe.com/en/ru)
@@ -414,6 +418,7 @@
 - [西语助手](http://www.esdict.cn/)
 - [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
 - [西漢/漢西對照線上辭典](http://club.ntu.edu.tw/~luisachang/diccionario/)
+- [词林西班牙语词典](http://www.cilin.org/es/)
 - [欧华词典 - 在线西班牙语汉语翻译词典](http://www.ohdict.com/)
 - [西班牙语词典](http://xiyucidian.com/)
 - [ChinoSimplificado.com](http://www.iberochino.com/diccionario.php?hanzi=%E4%BA%AE)
@@ -430,6 +435,7 @@
 
 ## Português
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
+- [词林葡萄牙语词典](http://www.cilin.org/pt/)
 - [Collins Portuguese Dictionary](https://www.collinsdictionary.com/dictionary/english-portuguese/welcome)
 - [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
 - [Infopédia	Dicionário da Língua Portuguesa](https://www.infopedia.pt/)
@@ -440,6 +446,7 @@
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [沪江小D- 韩语词典](https://dict.hjenglish.com/kr/)
 - [Longman English–Korean Dictionary](https://www.ldoceonline.com/dictionary/english-korean/welcome)
+- [词林韩语词典](http://www.cilin.org/kr/)
 
 ## 阿拉伯语
 - [Glosbe Arabic Dictionary](https://glosbe.com/en/ar)
