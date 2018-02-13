@@ -165,6 +165,7 @@
 - [**需单位订阅**::商务印书馆·精品工具书数据库：据意查词](http://www.icidian.com.cn/cpnet/)
 - [汉典:相关词语](http://www.zdic.net/z/17/js/597D.htm)
 - [新派查询网 - 近义词大全](http://jinyici.xpcha.com/)
+- [在线近义词查询](http://jyc.5156edu.com/)
 
 ### 其他汉语类站点
 - [字海网，叶典网](http://yedict.com/)
@@ -200,7 +201,7 @@
 - [在线《佛学大辞典》查询](http://foxue.supfree.net/)
 - [象形字典](http://www.vividict.com/)
 - [语音字典(VoiceDic)](http://www.voicedic.com/)
-- [无忧无虑中学语文网](http://5156edu.com/)
+- [无忧无虑中学语文网](http://www.5156edu.com/)
     - [在线汉语词典](http://xh.5156edu.com/)
 - [书法字典](http://www.shufazidian.com/)
 - [吴音小字典](http://wu-chinese.com/minidict/)
@@ -661,5 +662,5 @@
 
 -EOF-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA0OTk4MjddfQ==
+eyJoaXN0b3J5IjpbMTkyNjg3NzEyXX0=
 -->
