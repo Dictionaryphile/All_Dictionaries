@@ -203,6 +203,7 @@
 - [无忧无虑中学语文网](http://5156edu.com/)
     - [在线汉语词典](http://xh.5156edu.com/)
 - [书法字典](http://www.shufazidian.com/)
+- [吴音小字典](http://wu-chinese.com/minidict/)
 
 ## 其他英语类
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -414,6 +415,9 @@
 - [Словари и энциклопедии на Академике](https://dic.academic.ru/)
 - [OpenRussian.org Russian Dictionary](https://en.openrussian.org/)
 - [Glosbe Russian Dictionary](https://glosbe.com/en/ru)
+- http://wooordhunt.ru/
+- http://kak-perevoditsya.ru/
+
 
 ## Italiano
 - [意汉图片词典](http://unasettimana.com/)
@@ -456,6 +460,7 @@
 - [Diccionario Inglés-Español WordReference.com](http://www.wordreference.com/es/en/translation.asp)
 - [Word Magic Software](http://www.wordmagicsoft.com/dictionary/tools/index.php)
 - [El Diccionario Visual](https://infovisual.info/es)
+- [Translation and English learning by Britanni](http://www.nglish.com/spanish/)
 
 ## Português
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
@@ -475,6 +480,7 @@
 ## 阿拉伯语
 - [Glosbe Arabic Dictionary](https://glosbe.com/en/ar)
 - [Cambridge English-Arabic Dictionary](https://dictionary.cambridge.org/dictionary/english-arabic/)
+- http://arabic.britannicaenglish.com/
 
 ## 印地语
 - [Collins Hindi Dictionary](https://www.collinsdictionary.com/dictionary/english-hindi)
@@ -566,6 +572,7 @@
 - [希望的観測 A wishful thinking by UGO2](http://ugo2.dip.jp/)
 - [italki](https://www.italki.com/questions/english)
 - [StackExchange English Language Learners](https://ell.stackexchange.com/)
+- http://blog.liberty-e.com/blog/
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
