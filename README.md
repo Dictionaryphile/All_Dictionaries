@@ -660,3 +660,6 @@
 - [FairyDict](https://github.com/revir/FairyDict)
 
 -EOF-
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NDQxNTk4OTJdfQ==
+-->
