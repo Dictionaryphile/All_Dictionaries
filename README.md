@@ -631,6 +631,7 @@
 - [FireDict:A simple offline dictionary software for Firefox OS](http://tuxor1337.github.io/firedict/)
 - [微软小英](http://www.engkoo.com/)
 - [漢文博士](http://hanbox.cnblogs.com/)
+- [文林® 汉语学习软件](https://wenlin.com/)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
@@ -677,11 +678,3 @@
 - [FairyDict](https://github.com/revir/FairyDict)
 
 -EOF-
-<!--stackedit_data:
-<<<<<<< HEAD
-eyJoaXN0b3J5IjpbMTkyNjg3NzEyXX0=
--->
-=======
-eyJoaXN0b3J5IjpbLTYzMjQxMzU3M119
--->
->>>>>>> 364b7218f57346b559e99c7613ea22332b5e7d7f
