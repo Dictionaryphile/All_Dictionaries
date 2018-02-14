@@ -240,7 +240,6 @@
 - [English picture dictionary](http://www.online-languages.info/english/picture-dictionary.php)
 - [Tamilcube.com](http://tamilcube.com/)
 - [Rhyming Dictionary](https://rhymer.com/)
-- [Associated Press Stylebook](https://www.apstylebook.com/)
 - [Answers.com](http://www.answers.com/)
 - [Digital Dictionary of Buddhism 電子佛教辭典](http://www.buddhism-dict.net/ddb/)
 - [The CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
@@ -314,6 +313,22 @@
 - [印刷词典](http://www.cgan.net/cidian/)
     - http://www.cgan.net/book/books/print/cn-en_dict/indexcidian/vic_body/vic_a7.htm
 - [Encycolorpedia](http://encycolorpedia.cn/)
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+
+### 英语写作、课程学习
+- [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
+- [Associated Press Stylebook](https://www.apstylebook.com/)
+- [Purdue Online Writing Lab (OWL)](https://owl.english.purdue.edu/owl/)
+- [grammarly](https://www.grammarly.com/)
+- [TED:Ideas worth spreading](https://www.ted.com/)
+- [Coursera](https://www.coursera.org/)
+- [iversity](https://iversity.org/en/courses)
+- [openculture](http://www.openculture.com/freeonlinecourses)
+- [futurelearn](https://www.futurelearn.com/courses)
+- [OnlineCourses.com](http://www.onlinecourses.com/)
+- [Open Yale Courses](https://oyc.yale.edu/)
+- [edX](https://www.edx.org/)
+- [The Great Courses](https://www.thegreatcourses.com/)
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
