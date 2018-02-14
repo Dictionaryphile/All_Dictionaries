@@ -603,6 +603,7 @@
 - [商务印书馆](http://www.cp.com.cn/digital/app.html)
 - [MosaLingua](https://www.mosalingua.com/)
 - [Pleco](http://www.pleco.com/)
+- [文林® 汉语学习软件](https://wenlin.com/)
 
 ## 技术服务
 - [IDM](http://www.idmgroup.com/use-cases.htm)
@@ -677,5 +678,10 @@
 
 -EOF-
 <!--stackedit_data:
+<<<<<<< HEAD
 eyJoaXN0b3J5IjpbMTkyNjg3NzEyXX0=
 -->
+=======
+eyJoaXN0b3J5IjpbLTYzMjQxMzU3M119
+-->
+>>>>>>> 364b7218f57346b559e99c7613ea22332b5e7d7f
