@@ -35,6 +35,7 @@
     - [柯林斯英汉双解大词典::译文质量不佳](http://dict.youdao.com/w/eng/welcome/)
     - [汉语大词典出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
     - [朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用，瑕疵多）](http://cidian.youdao.com/)
+    - [新牛津英汉双解大词典（第 2 版）（仅 VIP 移动端 app 可用）](https://itunes.apple.com/cn/app/id353115739)
     - [韦氏大学英语词典（仅 VIP 移动端 app 可用，数据旧(2003?)）](https://weibo.com/1699451730/FBrj6ddjj)
 - [金山词霸](http://www.iciba.com/welcome)
     - [外研社::柯林斯 COBUILD 高阶英汉双解学习词典（2011 年版）](http://cp.iciba.com/collins/)
