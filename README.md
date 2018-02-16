@@ -555,6 +555,7 @@
 - [中国哲学书电子化计划](http://ctext.org/)
 - [媒体语言语料库（MLC）](http://ling.cuc.edu.cn/RawPub/)
 - [汉语语料库](http://www.aihanyu.org/cncorpus/index.aspx)
+- [最全中华古诗词数据库 on GitHub](https://github.com/chinese-poetry/chinese-poetry)
 - [COCA](https://corpus.byu.edu/coca/)
 - [COCA Frequency list::查看 60000 单词词频排名](https://www.wordandphrase.info/frequencyList.asp)
 - [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
