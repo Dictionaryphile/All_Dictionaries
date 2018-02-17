@@ -75,8 +75,8 @@
 ## 常用英语词典
 **注**：英语词典分母语型词典和学习型词典，部分站点兼有两种词典，以下分类并不严格。  
 [☞ [2017-01-30] 英语学习型词典 vs 母语型词典 ](https://dictionaryphile.github.io/blog/2017/01/30/)  
-[☞ [2017-05-08] 我眼中的十二大英英母语型词典 ](http://mp.weixin.qq.com/s/pS6nNq3T2LY_HllcseyrQA)  
-[☞ [2017-11-03] 英语学习型词典与武林门派的对应关系 ](https://mp.weixin.qq.com/s/tT1n_m_xIiZriVlT-wP_Sg)  
+[☞ [2017-05-08] 我眼中的十二大英英母语型词典 ](https://dictionaryphile.github.io/blog/2017/05/08/)  
+[☞ [2017-11-03] 英语学习型词典与武林门派的对应关系 ](https://dictionaryphile.github.io/blog/2017/11/03/)  
 
 ### 母语型英语词典
 - [付费:OED:Oxford English Dictionary - the definitive record of the English language 牛津英语大词典](http://www.oed.com/)
@@ -159,9 +159,9 @@
 ### 同义词
 - [哈工大社会计算与信息检索研究中心 同义词词林(扩展版)](https://www.ltp-cloud.com/download/)
 - [東東同義詞詞典](http://www.kwuntung.net/synonym/)
-- [同义词库](http://chinese.abcthesaurus.com/)
+- [同义词库 ABC Thesaurus](http://chinese.abcthesaurus.com/)
 - [词林近义词词典](http://www.cilin.org/jyc/)
-- [中文近义词工具包](https://github.com/huyingxi/Synonyms)
+- [中文近义词工具包 on GitHub](https://github.com/huyingxi/Synonyms)
 - [中文詞彙網路| Chinese Wordnet - LOPE @ NTU](http://lope.linguistics.ntu.edu.tw/cwn/)
 - [**需单位订阅**::商务印书馆·精品工具书数据库：据意查词](http://www.icidian.com.cn/cpnet/)
 - [汉典:相关词语](http://www.zdic.net/z/17/js/597D.htm)
@@ -673,7 +673,6 @@
 - [Tatoeba](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI](https://github.com/zzc-tongji/mydictionary-client-cli)
-- [中文近义词工具包](https://github.com/huyingxi/Synonyms)
 
 ### Chrome 扩展
 - [Saladict 沙拉查词](https://github.com/crimx/ext-saladict)
