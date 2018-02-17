@@ -480,11 +480,14 @@
 - [Translation and English learning by Britanni](http://www.nglish.com/spanish/)
 
 ## Português
+- [Chinês Português dicionário Online](http://www.chine-culture.com/pt/chin%C3%AAs/dicion%C3%A1rio-chin%C3%AAs.php)
+- [Dicionário chinês português](http://www.a-china.info/dicionario)
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
 - [词林葡萄牙语词典](http://www.cilin.org/pt/)
 - [Collins Portuguese Dictionary](https://www.collinsdictionary.com/dictionary/english-portuguese/welcome)
 - [葡萄牙语 DLPO](https://www.priberam.pt/DLPO/)
-- [Infopédia	Dicionário da Língua Portuguesa](https://www.infopedia.pt/)
+- [Infopédia Dicionário da Língua Portuguesa](https://www.infopedia.pt/)
+    - [Dicionário infopédia de Chinês|Português](https://www.infopedia.pt/dicionarios/portugues-chines/ano)
 - [Glosbe Portuguese Dictionary](https://glosbe.com/en/pt)
 
 ## 한국어
