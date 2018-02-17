@@ -2,7 +2,7 @@
 
 ## 说明：  
 - 遇到任何问题，或者有任何补充可联系[作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
-- 试试页面内 Ctrl + F 关键字。  为节省篇幅，就不评介各个站点了，可以点击进去自行查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
+- 试试页面内 Ctrl + F 关键字。为节省篇幅，就不评介各个站点了，可以点击进去查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
 - 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 - 感谢这些站点为我们提供查询服务。  
@@ -30,15 +30,15 @@
 
 ## 国内常用在线词典
 - [有道词典](http://youdao.com/w/eng/welcome/)
-    - [收录权威词典介绍[n 久未更新]](http://www.youdao.com/help/dict/source/)
     - [李华驹::21 世纪大英汉词典](http://dict.youdao.com/w/eng/welcome/)
     - [柯林斯英汉双解大词典::译文质量不佳](http://dict.youdao.com/w/eng/welcome/)
     - [汉语大词典出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
-    - [朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用，瑕疵多）](http://cidian.youdao.com/)
-    - [新牛津英汉双解大词典（第 2 版）（仅 VIP 移动端 app 可用）](https://itunes.apple.com/cn/app/id353115739)
-    - [韦氏大学英语词典（仅 VIP 移动端 app 可用，数据旧(2003?)）](https://weibo.com/1699451730/FBrj6ddjj)
+    - [朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用，瑕疵较多）](http://cidian.youdao.com/)
+    - [新牛津英汉双解大词典（第 2 版）（VIP 特权）](https://itunes.apple.com/cn/app/id353115739)
+    - [韦氏大学英语词典（VIP 特权，数据旧(2003?)）](https://weibo.com/1699451730/FBrj6ddjj)
+    - [有道词典网页版 > 词典数据](http://www.youdao.com/help/dict/source/)
 - [金山词霸](http://www.iciba.com/welcome)
-    - [外研社::柯林斯 COBUILD 高阶英汉双解学习词典（2011 年版）](http://cp.iciba.com/collins/)
+    - [外研社::柯林斯 COBUILD 高阶英汉双解学习词典（**2011** 年版）](http://cp.iciba.com/collins/)
     - [牛津高阶英汉双解词典（第 **7** 版）（仅客户端可用，非最新第 8 版）](http://www.iciba.com/welcome)
 - [必应词典](http://cn.bing.com/dict/search?q=welcome)
     - [牛津高阶英汉双解词典（第 **8** 版）（权威英汉双解 Advanced E-C 就是）](http://cn.bing.com/dict/search?q=welcome)
@@ -47,18 +47,18 @@
     - [外教社·柯林斯汉英大词典::纸版未出](https://www.hjdict.com/w/%E5%A5%BD)
 - [海词词典](http://dict.cn/welcome)
     - [权威付费 app 多](http://cidian.dict.cn/center.html)
-- [Dr. eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
+- [剑桥高阶英汉双解词典::**唯一**由官方提供的在线版高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
+- [Dr.eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
 - [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
     - [牛津·外研社英汉汉英词典（Oxford Chinese Dictionary）的英汉部分](https://hk.dictionary.search.yahoo.com/search?p=welcome)
-- [剑桥高阶英汉双解词典::**唯一**由官方提供的在线版高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
 - [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
-- [CNKI翻译助手](http://dict.cnki.net/)
+- [CNKI 翻译助手](http://dict.cnki.net/)
 - [优词词典](http://www.youdict.com/)
 - [人人词典 - 跟人人影视字幕组一起学英语](https://www.91dict.com/)
 - [汉典](http://www.zdic.net/)
 - [国学大师](http://www.guoxuedashi.com/)
 - [萌典](https://www.moedict.tw/)
-- [YouGlish:: Youtube 视频搜索](https://youglish.com/)
+- [YouGlish::Use YouTube to improve your English pronunciation](https://youglish.com/)
 
 ## 在线翻译
 **注**：输入单个英语词汇，以下站点也可以当在线词典使用。  
@@ -74,7 +74,7 @@
 
 ## 常用英语词典
 **注**：英语词典分母语型词典和学习型词典，部分站点兼有两种词典，以下分类并不严格。  
-[☞ [2017-01-30] 英语学习型词典 vs 母语型词典 ](http://mp.weixin.qq.com/s/J6Vz-WgyTgTpOPnKFu7GpA)  
+[☞ [2017-01-30] 英语学习型词典 vs 母语型词典 ](https://dictionaryphile.github.io/blog/2017/01/30/)  
 [☞ [2017-05-08] 我眼中的十二大英英母语型词典 ](http://mp.weixin.qq.com/s/pS6nNq3T2LY_HllcseyrQA)  
 [☞ [2017-11-03] 英语学习型词典与武林门派的对应关系 ](https://mp.weixin.qq.com/s/tT1n_m_xIiZriVlT-wP_Sg)  
 
