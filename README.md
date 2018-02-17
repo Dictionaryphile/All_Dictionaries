@@ -31,7 +31,7 @@
 ## 国内常用在线词典
 - [有道词典](http://youdao.com/w/eng/welcome/)
     - [李华驹::21 世纪大英汉词典](http://dict.youdao.com/w/eng/welcome/)
-    - [柯林斯英汉双解大词典::译文质量不佳](http://dict.youdao.com/w/eng/welcome/)
+    - [柯林斯英汉双解大词典::译文质量一般](http://cidian.youdao.com/5.0/help/deskdict5beta/features/16.html)
     - [汉语大词典出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
     - [朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用，瑕疵较多）](http://cidian.youdao.com/)
     - [新牛津英汉双解大词典（第 2 版）（VIP 特权）](https://itunes.apple.com/cn/app/id353115739)
