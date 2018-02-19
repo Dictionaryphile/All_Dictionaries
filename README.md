@@ -71,6 +71,9 @@
 - [有道翻译](http://fanyi.youdao.com/)
 - [Yandex.Translate](https://translate.yandex.com/)
 - [AliTranslate](https://tools.alibaba.com/translate/)
+- [Translate by Babylon - Free Online Translation](http://translation.babylon-software.com/)
+- [爱词霸在线翻译](http://fy.iciba.com/)
+- [XYZ翻译网](http://www.xyzdict.com/)
 
 ## 常用英语词典
 **注**：英语词典分母语型词典和学习型词典，部分站点兼有两种词典，以下分类并不严格。  
@@ -208,6 +211,7 @@
 - [吴音小字典](http://wu-chinese.com/minidict/)
 
 ## 其他英语类
+- [Historical Thesaurus of English](http://historicalthesaurus.arts.gla.ac.uk/)
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
 - [Australian National Dictionary](http://australiannationaldictionary.com.au/)
 - [Infoplease](https://www.infoplease.com/)
@@ -459,6 +463,7 @@
 - http://www.academia.org.mx/
 - [Oxford Spanish Dictionary](https://es.oxforddictionaries.com/translate/english-spanish/welcome)
 - [Collins Spanish Dictionary](https://www.collinsdictionary.com/dictionary/english-spanish/welcome)
+- [Merriam-Webster SpanishCentral.com](http://www.spanishcentral.com/)
 - [Cambridge](https://dictionary.cambridge.org/dictionary/english-spanish/welcome)
 - [西语助手](http://www.esdict.cn/)
 - [沪江小D - 西语词典](https://dict.hjenglish.com/es/testigo)
@@ -495,6 +500,7 @@
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
 - [沪江小D- 韩语词典](https://dict.hjenglish.com/kr/)
 - [Longman English–Korean Dictionary](https://www.ldoceonline.com/dictionary/english-korean/welcome)
+- [热典](http://www.hotdic.com/)
 - [词林韩语词典](http://www.cilin.org/kr/)
 
 ## 阿拉伯语
@@ -591,8 +597,12 @@
 - [George Chen](http://georgechen.idv.tw/)
 - [duolingo 多邻国](www.duolingo.com)
 - [希望的観測 A wishful thinking by UGO2](http://ugo2.dip.jp/)
+- [WordReference Forums](http://forum.wordreference.com/)
+- [UsingEnglish.com](https://www.usingenglish.com/forum/)
 - [italki](https://www.italki.com/questions/english)
 - [StackExchange English Language Learners](https://ell.stackexchange.com/)
+- [HiNative](https://hinative.com/)
+- [EnglishClass101.com](https://www.englishclass101.com/)
 - http://blog.liberty-e.com/blog/
 
 ## app
@@ -655,6 +665,7 @@
 - [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
 - [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
 - [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
+- [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 
 #### 字体
 - [花園明朝](http://fonts.jp/hanazono/)
