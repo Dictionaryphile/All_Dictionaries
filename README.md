@@ -519,6 +519,7 @@
 ## 其他语种
 - [泰语 LONGDO DICT](http://dict.longdo.com/index.php)
 - [泰国皇家学术院出的 泰泰词典](http://rirs3.royin.go.th/dictionary.asp)
+- [thai-language.com](http://www.thai-language.com/)
 - [新编斯汉词典](http://siwaxili.com/)
 - [哈萨克语汉语词典](http://www.sozdik.net/)
 - [Southeast Asian Languages Library ](http://sealang.net/library/)
