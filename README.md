@@ -256,6 +256,7 @@
 - [PlayPhrase.me](https://www.playphrase.me/)
 - [Visual Dictionary](http://www.ikonet.com/en/visualdictionary/)
 - [Visual Dictionary](https://infovisual.info/en)
+- [Visual Genome](https://visualgenome.org/)
 - [UNTERM - The United Nations Terminology Database](https://unterm.un.org/)
 - [EuroTermBank Terminology Search](http://www.eurotermbank.com/)
 - [TERMIUM Plus®](http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html)
@@ -270,6 +271,7 @@
 - [欧路词典在线版](https://dict.eudic.net/)
 - [Dr.eye 譯典通](https://yun.dreye.com/dict_new/dict.php)
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
+- [斧子词典 - 合作伙伴:冰冰字幕组](https://www.axdict.com/)
 - [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
 - [Mandarin-English Dictionary & Thesaurus](https://www.yellowbridge.com/chinese/dictionary.php)
@@ -410,6 +412,7 @@
 - [http://bastiansick.de/abc/](http://bastiansick.de/abc/)
 - [BEOLINGUS - Your Online Dictionary](https://dict.tu-chemnitz.de/)
 - [Leipzig Corpora Collection / Deutscher Wortschatz](http://wortschatz.uni-leipzig.de/)
+- [Beilstein German to English and English to German Dictionary](http://web.stanford.edu/group/swain/beilstein/index.html)
 
 ## Français
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
@@ -513,8 +516,10 @@
 - [Oxford Hindi Dictionary](https://hi.oxforddictionaries.com/)
 
 ## 梵语
+- http://www.manduuka.net/sanskrit/w/dic.cgi
 - [梵语辞书文献数据库建设](http://www.fanfoyan.com/project/pkudic.html)
 - [华梵网](http://www.sanskrit-input.com/)
+- [Monier Williams Online Dictionary - Koeln Sanskrit Lexicon](http://www.sanskrit-lexicon.uni-koeln.de/monier/)
 
 ## 其他语种
 - [泰语 LONGDO DICT](http://dict.longdo.com/index.php)
@@ -529,6 +534,7 @@
 - [世界语学习](http://www.elerno.cn/)
 - [蒙漢詞典　Mongolian-Chinese Dictionary and others](http://hkuri.cneas.tohoku.ac.jp/)
 - [Encyclo.nl](http://www.encyclo.nl/)
+- [Digital Dictionaries of South Asia - The Digital South Asia Library](http://dsal.uchicago.edu/dictionaries/)
 
 ### 拉丁语
 - [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
