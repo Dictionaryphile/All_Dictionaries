@@ -520,6 +520,7 @@
 - [梵语辞书文献数据库建设](http://www.fanfoyan.com/project/pkudic.html)
 - [华梵网](http://www.sanskrit-input.com/)
 - [Monier Williams Online Dictionary - Koeln Sanskrit Lexicon](http://www.sanskrit-lexicon.uni-koeln.de/monier/)
+- [梵语辞书](http://www.huafan.org.cn/index.php?m=Page&a=index&id=51)
 
 ## 其他语种
 - [泰语 LONGDO DICT](http://dict.longdo.com/index.php)
