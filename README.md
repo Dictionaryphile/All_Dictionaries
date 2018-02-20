@@ -560,6 +560,7 @@
 - [360 百科](https://baike.so.com/)
 - [MBA智库百科](http://wiki.mbalib.com/)
 - [萌娘百科](https://zh.moegirl.org/)
+- [香港網絡大典](http://evchk.wikia.com/)
 - [药智数据:药材标准数据库查询](https://db.yaozh.com/biaozhun)
 - [国家药典委员会](http://www.chp.org.cn/)
 - [中国药典](http://www.ouryao.com/forum-283-1)
@@ -611,6 +612,8 @@
 - [StackExchange English Language Learners](https://ell.stackexchange.com/)
 - [HiNative](https://hinative.com/)
 - [EnglishClass101.com](https://www.englishclass101.com/)
+- [LinguaTrip](https://linguatrip.com/)
+    - [linguamarina](https://www.youtube.com/channel/UCAQg09FkoobmLquNNoO4ulg)
 - http://blog.liberty-e.com/blog/
 
 ## app
