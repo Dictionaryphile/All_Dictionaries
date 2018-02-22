@@ -576,6 +576,7 @@
 - [最全中华古诗词数据库 on GitHub](https://github.com/chinese-poetry/chinese-poetry)
 - [COCA](https://corpus.byu.edu/coca/)
 - [COCA Frequency list::查看 60000 单词词频排名](https://www.wordandphrase.info/frequencyList.asp)
+- [Hyper Collocation:dictionary based on arXiv repository](https://hypcol.marutank.net/)
 - [British National Corpus (BNC) ](https://corpus.byu.edu/bnc/)
 - [Lancaster BNCweb](http://bncweb.lancs.ac.uk/bncwebSignup/user/login.php)
 - [The Open American National Corpus (OANC)](http://www.anc.org/)
