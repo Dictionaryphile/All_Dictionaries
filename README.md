@@ -295,6 +295,7 @@
 - [效率集词典](http://www.xiaolvji.com/cidian)
 - [北大法律英文网](http://lawinfochina.com/)
 - [万千英语族优秀在线英语词典](http://www.iselong.com/online/Dictionary.htm)
+- [英语词汇网](http://www.yywords.com/)
 - [词典网](http://www.cidianwang.com/)
 - [政府部門常用辭彙](http://www.csb.gov.hk/hkgcsb/glossary/glossary_tc.php)
 - https://www.translated.net/en/translation-api
