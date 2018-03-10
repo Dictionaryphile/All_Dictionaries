@@ -241,6 +241,7 @@
 - [1913 Webster's Online Dictionary](http://www.webster-dictionary.org/)
 - [Techopedia – IT Dictionary for Computer Terms and Tech Definitions](https://www.techopedia.com/dictionary)
 - [FOLDOC - Computing Dictionary](http://foldoc.org/)
+- [Hackterms: A crowd-sourced developer dictionary](https://www.hackterms.com/)
 - [ozdic.com](http://ozdic.com/)
 - [Online Collocation Dictionary](http://www.freecollocation.com/)
 - [Power Thesaurus](https://www.powerthesaurus.org/)
