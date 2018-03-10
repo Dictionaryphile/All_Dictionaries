@@ -1,7 +1,7 @@
 ## 宇宙最全在线词典网站导航
 
 ## 说明：  
-- 遇到任何问题，或者有任何补充可联系[作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
+- [作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
 - 试试页面内 Ctrl + F 关键字。为节省篇幅，就不评介各个站点了，可以点击进去查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
 - 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
@@ -660,7 +660,6 @@
 - [FireDict:A simple offline dictionary software for Firefox OS](http://tuxor1337.github.io/firedict/)
 - [微软小英](http://www.engkoo.com/)
 - [漢文博士](http://hanbox.cnblogs.com/)
-- [文林® 汉语学习软件](https://wenlin.com/)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
@@ -703,7 +702,9 @@
 - [MYDICTIONARY Desktop Application of CLI](https://github.com/zzc-tongji/mydictionary-client-cli)
 
 ### Chrome 扩展
+- [Anki划词制卡助手](https://github.com/ninja33/anki-dict-helper)
 - [Saladict 沙拉查词](https://github.com/crimx/ext-saladict)
 - [FairyDict](https://github.com/revir/FairyDict)
+- [汉典划词查询的Chrome插件](https://github.com/Ovilia/handian-chrome-extension)
 
 -EOF-
