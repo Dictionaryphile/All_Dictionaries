@@ -170,6 +170,8 @@
 - [汉典:相关词语](http://www.zdic.net/z/17/js/597D.htm)
 - [新派查询网 - 近义词大全](http://jinyici.xpcha.com/)
 - [在线近义词查询](http://jyc.5156edu.com/)
+- [**付费**《中国分类主题词表》Web版](http://clc.nlc.cn/ztfzfbweb.jsp)
+- [**付费** CNKI中国工具书网络出版总库](http://gongjushu.cnki.net/refbook/book.aspx)
 
 ### 其他汉语类站点
 - [字海网，叶典网](http://yedict.com/)
