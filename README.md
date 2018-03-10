@@ -486,7 +486,7 @@
 - [Diccionario Inglés-Español WordReference.com](http://www.wordreference.com/es/en/translation.asp)
 - [Word Magic Software](http://www.wordmagicsoft.com/dictionary/tools/index.php)
 - [El Diccionario Visual](https://infovisual.info/es)
-- [Translation and English learning by Britanni](http://www.nglish.com/spanish/)
+- [Traducción y aprendizaje del inglés by Britannica](http://www.nglish.com/spanish/)
 
 ## Português
 - [Chinês Português dicionário Online](http://www.chine-culture.com/pt/chin%C3%AAs/dicion%C3%A1rio-chin%C3%AAs.php)
@@ -510,7 +510,7 @@
 ## 阿拉伯语
 - [Glosbe Arabic Dictionary](https://glosbe.com/en/ar)
 - [Cambridge English-Arabic Dictionary](https://dictionary.cambridge.org/dictionary/english-arabic/)
-- http://arabic.britannicaenglish.com/
+- [Britannica English - Arabic](http://arabic.britannicaenglish.com/)
 
 ## 印地语
 - [Collins Hindi Dictionary](https://www.collinsdictionary.com/dictionary/english-hindi)
