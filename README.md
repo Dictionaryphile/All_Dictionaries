@@ -1,11 +1,11 @@
 ## 宇宙最全在线词典网站导航
 
 ## 说明：  
-- [作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
+- [作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)
 - 试试页面内 Ctrl + F 关键字。为节省篇幅，就不评介各个站点了，可以点击进去查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典
-- 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
+- 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
-- 感谢这些站点为我们提供查询服务，感谢大家的分享、补充。  
+- 感谢这些站点为我们提供查询服务，感谢大家的分享、补充
 
 ## 目录
 - [国内常用在线词典](#国内常用在线词典)
@@ -690,7 +690,7 @@
 ## 输入法
 - [RIME | 中州韻輸入法引擎](http://rime.im/)
 - [搜狗输入法](https://pinyin.sogou.com/)
-- [QQ输入法](http://qq.pinyin.cn/)
+- [QQ 输入法](http://qq.pinyin.cn/)
 - [百度输入法](https://shurufa.baidu.com/)
 - [手心输入法](http://www.xinshuru.com/)
 - [华宇拼音输入法](http://www.unispim.com/)
@@ -700,14 +700,14 @@
 - [蒙科立智能输入法](http://www.menksoft.com/site/alias__menkcms/2824/Default.aspx)
 
 ## GitHub
-- [Tatoeba](https://github.com/Tatoeba/tatoeba2)
-- [Online dictionary based on the console，基于控制台的在线词典](https://github.com/kuanghy/kictor)
-- [MYDICTIONARY Desktop Application of CLI](https://github.com/zzc-tongji/mydictionary-client-cli)
+- [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
+- [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
+- [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 
 ### Chrome 扩展
-- [Anki划词制卡助手](https://github.com/ninja33/anki-dict-helper)
-- [Saladict 沙拉查词](https://github.com/crimx/ext-saladict)
-- [FairyDict](https://github.com/revir/FairyDict)
-- [汉典划词查询的Chrome插件](https://github.com/Ovilia/handian-chrome-extension)
+- [Anki 划词制卡助手 on GitHub](https://github.com/ninja33/anki-dict-helper)
+- [Saladict 沙拉查词 on GitHub](https://github.com/crimx/ext-saladict)
+- [FairyDict on GitHub](https://github.com/revir/FairyDict)
+- [汉典划词查询的 Chrome 插件 on GitHub](https://github.com/Ovilia/handian-chrome-extension)
 
 -EOF-
