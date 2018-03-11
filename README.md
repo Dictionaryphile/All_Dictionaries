@@ -2,10 +2,10 @@
 
 ## 说明：  
 - [作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)。
-- 试试页面内 Ctrl + F 关键字。为节省篇幅，就不评介各个站点了，可以点击进去查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典，感谢大家的分享、补充。
+- 试试页面内 Ctrl + F 关键字。为节省篇幅，就不评介各个站点了，可以点击进去查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典
 - 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
-- 感谢这些站点为我们提供查询服务。  
+- 感谢这些站点为我们提供查询服务，感谢大家的分享、补充。  
 
 ## 目录
 - [国内常用在线词典](#国内常用在线词典)
@@ -49,7 +49,7 @@
     - [权威付费 app 多](http://cidian.dict.cn/center.html)
 - [剑桥高阶英汉双解词典::**唯一**由官方提供的在线版高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
 - [Dr.eye 译典通](https://www.dreye.com.cn/dict_new/dict.php?w=test)
-- [Yahoo香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
+- [Yahoo 香港字典](http://hk.dictionary.search.yahoo.com/search?p=Yahoo)
     - [牛津·外研社英汉汉英词典（Oxford Chinese Dictionary）的英汉部分](https://hk.dictionary.search.yahoo.com/search?p=welcome)
 - [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
 - [CNKI 翻译助手](http://dict.cnki.net/)
