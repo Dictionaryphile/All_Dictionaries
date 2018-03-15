@@ -325,6 +325,7 @@
     - http://www.cgan.net/book/books/print/cn-en_dict/indexcidian/vic_body/vic_a7.htm
 - [Encycolorpedia](http://encycolorpedia.cn/)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+- [Parts-of-speech.Info](http://parts-of-speech.info/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
@@ -386,6 +387,7 @@
 - [DA 日语词典](http://dict.asia/)
 - [词林日语词典](http://www.cilin.org/jp/)
 - [ChineseWriter](http://www.kodensha.jp/soft/cw/)
+- [漢字辞典](http://kanji.jitenon.jp/)
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
