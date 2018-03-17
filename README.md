@@ -172,6 +172,7 @@
 - [在线近义词查询](http://jyc.5156edu.com/)
 - [**付费**《中国分类主题词表》 Web 版](http://clc.nlc.cn/ztfzfbweb.jsp)
 - [**付费** CNKI中国工具书网络出版总库](http://gongjushu.cnki.net/refbook/book.aspx)
+- [搜霸近义词大全](http://www.soba8.com/jinyici/)
 
 ### 其他汉语类站点
 - [字海网，叶典网](http://yedict.com/)
@@ -190,6 +191,9 @@
 - [百度词典](https://dict.baidu.com/)
 - [開放詞典](http://kaifangcidian.com/)
 - [一把刀实用查询](https://18dao.cn/)
+- [辞洋](http://www.ciyang.com/)
+- [中教网  -  网络字典](http://zidian.teachercn.com/)
+- [中国汉语言文学网](http://www.hanwenxue.com/chengyu/)
 - [新派查询网汉语词典](http://cidian.xpcha.com/)
 - [汉文学网](https://www.hwxnet.com/)
 - [易笔字](http://www.yibizi.com/)
@@ -202,7 +206,6 @@
 - [给力汉语词典](http://www.dacidian.net/)
 - [中国汉语字典](http://zi.artx.cn/)
 - [IT 学习网在线成语词典](http://chengyu.t086.com/)
-- [梁平交通网:汉语词典](http://cidian.lpjt.gov.cn/)
 - [造句网](http://zaojv.com/)
 - [在线《佛学大辞典》查询](http://foxue.supfree.net/)
 - [象形字典](http://www.vividict.com/)
@@ -211,6 +214,7 @@
 - [在线汉语词典](http://xh.5156edu.com/)
 - [书法字典](http://www.shufazidian.com/)
 - [吴音小字典](http://wu-chinese.com/minidict/)
+- [中华古籍资源库 - 国家图书馆](http://mylib.nlc.cn/web/guest/shanbenjiaojuan)
 
 ## 其他英语类
 - [Historical Thesaurus of English](http://historicalthesaurus.arts.gla.ac.uk/)
@@ -326,6 +330,11 @@
 - [Encycolorpedia](http://encycolorpedia.cn/)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 - [Parts-of-speech.Info](http://parts-of-speech.info/)
+- [CineDico is a multi-lingual lexicon on the theme of cinematographic and audiovisual techniques.](https://www.lecinedico.com/)
+- [英文人名翻译词典](http://www.bimuyu.com/name-translator/)
+- [财经词典-财经英语-高顿网校](http://cidian.gaodun.com/)
+- [Acronym Finder](https://www.acronymfinder.com/)
+- [元照英美法詞典 (法律字典)](http://lawyer.get.com.tw/Dic/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
@@ -507,10 +516,12 @@
 ## 한국어
 - [韩国国立国语院：标准韓韓释义](http://www.korean.go.kr/)
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
+    - [네이버 중국어사전 (NAVER 韩中词典)](http://cndic.naver.com/)
 - [沪江小D- 韩语词典](https://dict.hjenglish.com/kr/)
 - [Longman English–Korean Dictionary](https://www.ldoceonline.com/dictionary/english-korean/welcome)
 - [热典](http://www.hotdic.com/)
 - [词林韩语词典](http://www.cilin.org/kr/)
+- http://alldic.daum.net/
 
 ## 阿拉伯语
 - [Glosbe Arabic Dictionary](https://glosbe.com/en/ar)
@@ -543,6 +554,7 @@
 - [Encyclo.nl](http://www.encyclo.nl/)
 - [Digital Dictionaries of South Asia - The Digital South Asia Library](http://dsal.uchicago.edu/dictionaries/)
 - [在线满汉词典](http://www.anakv.com/dict/)
+- [Uyghur-Chinese-Uyghur Dictionary 维汉词典](http://www.uyghurche.com/)
 
 ### 拉丁语
 - [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
@@ -706,6 +718,7 @@
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
+- [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
 
 ### Chrome 扩展
 - [Anki 划词制卡助手 on GitHub](https://github.com/ninja33/anki-dict-helper)
