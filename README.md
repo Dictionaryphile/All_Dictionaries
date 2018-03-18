@@ -77,9 +77,9 @@
 
 ## 常用英语词典
 **注**：英语词典分母语型词典和学习型词典，部分站点兼有两种词典，以下分类并不严格。
-[☞ [2017-01-30] 英语学习型词典 vs 母语型词典 ](https://dictionaryphile.github.io/blog/2017/01/30/)
-[☞ [2017-05-08] 我眼中的十二大英英母语型词典 ](https://dictionaryphile.github.io/blog/2017/05/08/)
-[☞ [2017-11-03] 英语学习型词典与武林门派的对应关系 ](https://dictionaryphile.github.io/blog/2017/11/03/)
+- [☞ [2017-01-30] 英语学习型词典 vs 母语型词典 ](https://dictionaryphile.github.io/blog/2017/01/30/)
+- [☞ [2017-05-08] 我眼中的十二大英英母语型词典 ](https://dictionaryphile.github.io/blog/2017/05/08/)
+- [☞ [2017-11-03] 英语学习型词典与武林门派的对应关系 ](https://dictionaryphile.github.io/blog/2017/11/03/)
 
 ### 母语型英语词典
 - [付费:OED:Oxford English Dictionary - the definitive record of the English language 牛津英语大词典](http://www.oed.com/)
