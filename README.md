@@ -215,6 +215,8 @@
 - [书法字典](http://www.shufazidian.com/)
 - [吴音小字典](http://wu-chinese.com/minidict/)
 - [中华古籍资源库 - 国家图书馆](http://mylib.nlc.cn/web/guest/shanbenjiaojuan)
+- [文言文在线词典](http://gw.eywedu.com/)
+- [网上字典大全](http://www.zd9999.com/)
 
 ## 其他英语类
 - [Historical Thesaurus of English](http://historicalthesaurus.arts.gla.ac.uk/)
@@ -335,6 +337,10 @@
 - [财经词典-财经英语-高顿网校](http://cidian.gaodun.com/)
 - [Acronym Finder](https://www.acronymfinder.com/)
 - [元照英美法詞典 (法律字典)](http://lawyer.get.com.tw/Dic/)
+- [化工词典-内容最全面的在线化工词典](http://www.chemyq.com/xz.htm)
+- [服装英语词典](http://www.fzengine.com/dict/dictionary.aspx)
+- [纺织英语辞典](http://www.texindex.com.cn/dictionary/)
+- [大耳朵词典](http://dict.bigear.cn/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
@@ -554,6 +560,7 @@
 - [Encyclo.nl](http://www.encyclo.nl/)
 - [Digital Dictionaries of South Asia - The Digital South Asia Library](http://dsal.uchicago.edu/dictionaries/)
 - [在线满汉词典](http://www.anakv.com/dict/)
+- [维搜维汉在线词典 - izda](http://cn.dict.izda.com/)
 - [Uyghur-Chinese-Uyghur Dictionary 维汉词典](http://www.uyghurche.com/)
 
 ### 拉丁语
