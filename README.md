@@ -332,6 +332,7 @@
 - [Encycolorpedia](http://encycolorpedia.cn/)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 - [Parts-of-speech.Info](http://parts-of-speech.info/)
+- [wordinfo.info](http://wordinfo.info/)
 - [CineDico is a multi-lingual lexicon on the theme of cinematographic and audiovisual techniques.](https://www.lecinedico.com/)
 - [英文人名翻译词典](http://www.bimuyu.com/name-translator/)
 - [财经词典-财经英语-高顿网校](http://cidian.gaodun.com/)
@@ -341,6 +342,7 @@
 - [服装英语词典](http://www.fzengine.com/dict/dictionary.aspx)
 - [纺织英语辞典](http://www.texindex.com.cn/dictionary/)
 - [大耳朵词典](http://dict.bigear.cn/)
+- [词根词缀记忆字典](http://www.dicts.cn/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
