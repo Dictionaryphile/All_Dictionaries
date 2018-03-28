@@ -217,6 +217,7 @@
 - [中华古籍资源库 - 国家图书馆](http://mylib.nlc.cn/web/guest/shanbenjiaojuan)
 - [文言文在线词典](http://gw.eywedu.com/)
 - [网上字典大全](http://www.zd9999.com/)
+- [中国作协会员辞典](http://www.chinawriter.com.cn/hycd/)
 
 ## 其他英语类
 - [Historical Thesaurus of English](http://historicalthesaurus.arts.gla.ac.uk/)
@@ -343,6 +344,10 @@
 - [纺织英语辞典](http://www.texindex.com.cn/dictionary/)
 - [大耳朵词典](http://dict.bigear.cn/)
 - [词根词缀记忆字典](http://www.dicts.cn/)
+- [《钟表插图专业辞典》（The Illustrated Professional Dictionary of Horology）](http://www.fhs.hk/zhs/dictionary.html)
+- [碳术语辞典](http://carbon.imr.ac.cn/carbonglossary/index.htm)
+- [英汉电子工程辞典](http://archive.eet-china.com/www.eet-china.com/EGLOSSARY/GLOSSARY_QUEST.HTM)
+- [Pin Pin Chinese-English Dictionary](http://dictionary.pinpinchinese.com/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
@@ -405,6 +410,7 @@
 - [词林日语词典](http://www.cilin.org/jp/)
 - [ChineseWriter](http://www.kodensha.jp/soft/cw/)
 - [漢字辞典](http://kanji.jitenon.jp/)
+- [ピクシブ百科事典](https://dic.pixiv.net/)
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
