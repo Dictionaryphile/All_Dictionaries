@@ -411,6 +411,8 @@
 - [ChineseWriter](http://www.kodensha.jp/soft/cw/)
 - [漢字辞典](http://kanji.jitenon.jp/)
 - [ピクシブ百科事典](https://dic.pixiv.net/)
+- [日本の伝統文化・芸能事典](http://iroha-japan.net/)
+- http://dic.nicovideo.jp/
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
