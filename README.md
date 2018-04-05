@@ -220,6 +220,7 @@
 - [中国作协会员辞典](http://www.chinawriter.com.cn/hycd/)
 
 ## 其他英语类
+- [BabelNet](http://babelnet.org/)
 - [Historical Thesaurus of English](http://historicalthesaurus.arts.gla.ac.uk/)
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
 - [Australian National Dictionary](http://australiannationaldictionary.com.au/)
@@ -623,7 +624,7 @@
 - [文渊阁四库全书电子版::产品介绍](http://www.sikuquanshu.com/project/main.aspx)
 - [付费::CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
 - [付费::方正阿帕比中国工具书资源全文数据库](http://www.apabi.cn/solution/source/4/)
-
+- [大学数字图书馆国际合作计划（China Academic Digital Associative Library，CADAL）](http://www.cadal.cn/)
 
 ## 一些站点
 - [Omniglot](https://www.omniglot.com/)
