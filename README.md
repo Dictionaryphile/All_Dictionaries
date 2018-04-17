@@ -33,6 +33,7 @@
     - [李华驹::21 世纪大英汉词典](http://dict.youdao.com/w/eng/welcome/)
     - [柯林斯英汉双解大词典::译文质量一般](http://cidian.youdao.com/5.0/help/deskdict5beta/features/16.html)
     - [汉语大词典出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
+    - [牛津高阶英汉双解词典（第 7 版）（仅客户端可用）](http://cidian.youdao.com/)
     - [朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用，瑕疵较多）](http://cidian.youdao.com/)
     - [新牛津英汉双解大词典（第 2 版）（VIP 特权）](https://itunes.apple.com/cn/app/id353115739)
     - [韦氏大学英语词典（VIP 特权，数据旧(2003?)）](https://weibo.com/1699451730/FBrj6ddjj)
@@ -573,6 +574,7 @@
 - [在线满汉词典](http://www.anakv.com/dict/)
 - [维搜维汉在线词典 - izda](http://cn.dict.izda.com/)
 - [Uyghur-Chinese-Uyghur Dictionary 维汉词典](http://www.uyghurche.com/)
+- [e马来文字典 eKamus](http://www.ekamus.info/)
 
 ### 拉丁语
 - [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
