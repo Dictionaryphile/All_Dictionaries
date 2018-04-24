@@ -350,6 +350,7 @@
 - [碳术语辞典](http://carbon.imr.ac.cn/carbonglossary/index.htm)
 - [英汉电子工程辞典](http://archive.eet-china.com/www.eet-china.com/EGLOSSARY/GLOSSARY_QUEST.HTM)
 - [Pin Pin Chinese-English Dictionary](http://dictionary.pinpinchinese.com/)
+- [sentencedict.com](http://sentencedict.com/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
