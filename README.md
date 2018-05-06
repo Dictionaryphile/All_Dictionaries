@@ -33,11 +33,12 @@
     - [李华驹::21 世纪大英汉词典](http://dict.youdao.com/w/eng/welcome/)
     - [柯林斯英汉双解大词典::译文质量一般](http://cidian.youdao.com/5.0/help/deskdict5beta/features/16.html)
     - [汉语大词典出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
-    - [牛津高阶英汉双解词典（第 7 版）（仅客户端可用）](http://cidian.youdao.com/)
+    - [牛津高阶英汉双解词典（第 7 版）（仅 app 端可用）](http://cidian.youdao.com/)
     - [朗文当代高级英语辞典（英英·英汉双解）（第 5 版）（仅客户端可用，瑕疵较多）](http://cidian.youdao.com/)
     - [新牛津英汉双解大词典（第 2 版）（VIP 特权）](https://itunes.apple.com/cn/app/id353115739)
     - [韦氏大学英语词典（VIP 特权，数据旧(2003?)）](https://weibo.com/1699451730/FBrj6ddjj)
     - [有道词典网页版 > 词典数据](http://www.youdao.com/help/dict/source/)
+    - [☞ [2018-04-30] 有道词典收录的牛津、韦氏词典来头如何？ ](https://mp.weixin.qq.com/s/XbyTBwZfG_60Y9jH6Df3FA)
 - [金山词霸](http://www.iciba.com/welcome)
     - [外研社::柯林斯 COBUILD 高阶英汉双解学习词典（**2011** 年版）](http://cp.iciba.com/collins/)
     - [牛津高阶英汉双解词典（第 **7** 版）（仅客户端可用，非最新第 8 版）](http://www.iciba.com/welcome)
@@ -685,7 +686,7 @@
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
 - [EBDic：EPWING、mdx、StarDict](http://t.cn/RY14MLP)：Android
 - [EB series：EPWING](http://ebstudio.info/) : iOS、Android、macOS、Windows [mdx] 适合日语学习者
-- [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2017-03-14] macOS / iOS 内置版权词典名录](http://mp.weixin.qq.com/s/CPpAtIf4C5woao_CiMErXQ)
+- [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2018-05-06] macOS / iOS 内置版权词典名录](https://dictionaryphile.github.io/blog/2017/03/14/)
 - [☞ [2017-03-15] Kindle（曾）内置版权词典名录](http://mp.weixin.qq.com/s/Ggve-W0ac1vDFKrRZKmCug)
 - [搜狗词典](http://fanyi.sogou.com/)
 - [海词词典](http://cidian.dict.cn/center.html)
