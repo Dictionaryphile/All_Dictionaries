@@ -66,8 +66,9 @@
 **注**：输入单个英语词汇，以下站点也可以当在线词典使用。
 - [Google Translate](https://translate.google.com/)
 - [百度翻译::金山词霸::柯林斯、牛津高阶](http://fanyi.baidu.com/#en/zh/welcome)
-- [搜狗翻译::新牛津英汉双解大词典（第 2 版）](http://fanyi.sogou.com/)
-    - 搜狗词典 app 另有《新世纪汉英大词典》（第二版），但缺漏多多
+- [搜狗翻译](http://fanyi.sogou.com/)
+    - [新牛津英汉双解大词典（第 2 版）](https://fanyi.sogou.com/#en/zh-CHS/welcome)
+    - [新世纪汉英大词典（第二版）](https://fanyi.sogou.com/?keyword=%E8%B0%A2%E8%B0%A2&transfrom=zh-CHS&transto=en)
 - [腾讯翻译君::牛津·外研社英汉汉英词典](http://fanyi.qq.com/)
 - [Bing Microsoft Translator](https://www.bing.com/translator)
 - [有道翻译](http://fanyi.youdao.com/)
