@@ -354,6 +354,7 @@
 - [英汉电子工程辞典](http://archive.eet-china.com/www.eet-china.com/EGLOSSARY/GLOSSARY_QUEST.HTM)
 - [Pin Pin Chinese-English Dictionary](http://dictionary.pinpinchinese.com/)
 - [sentencedict.com](http://sentencedict.com/)
+- [词汇大全](http://dict.youdao.com/map/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
@@ -703,6 +704,7 @@
 - [FireDict:A simple offline dictionary software for Firefox OS](http://tuxor1337.github.io/firedict/)
 - [微软小英](http://www.engkoo.com/)
 - [漢文博士](http://hanbox.cnblogs.com/)
+- [Online Dictionary Helper (with Anki app support)](https://github.com/ninja33/ODH)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
