@@ -221,6 +221,7 @@
 - [文言文在线词典](http://gw.eywedu.com/)
 - [网上字典大全](http://www.zd9999.com/)
 - [中国作协会员辞典](http://www.chinawriter.com.cn/hycd/)
+- [注音字典](https://bopomofo.com.tw/)
 
 ## 其他英语类
 - [BabelNet](http://babelnet.org/)
