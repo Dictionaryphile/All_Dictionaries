@@ -421,6 +421,7 @@
 - [日本の伝統文化・芸能事典](http://iroha-japan.net/)
 - http://dic.nicovideo.jp/
 - [辞書辞典無料検索JLogos](http://www.jlogos.com/)
+- [和独辞典](https://www.wadoku.de/)
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
