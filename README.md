@@ -728,6 +728,7 @@
 - [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
 - [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
+- [[在线词典] 在线词典网址看这里,优秀的都在了](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=28557)
 
 #### 字体
 - [花園明朝](http://fonts.jp/hanazono/)
