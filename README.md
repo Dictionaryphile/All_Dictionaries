@@ -47,6 +47,8 @@
 - [沪江小D](http://dict.hjenglish.com/)
     - [柯林斯·外研社新世纪英汉大词典::无义项提示词，排版糟糕](https://www.hjdict.com/w/welcome)
     - [外教社·柯林斯汉英大词典::纸版未出](https://www.hjdict.com/w/%E5%A5%BD)
+    - [外教社·现代日汉双解词典](https://dict.hjenglish.com/jp/jc/%E8%AA%BC)
+    - [当代日汉汉日大辞典::暂 app 可用汉日部分](#)
 - [海词词典](http://dict.cn/welcome)
     - [权威付费 app 多](http://cidian.dict.cn/center.html)
 - [剑桥高阶英汉双解词典::**唯一**由官方提供的在线版高阶英汉双解词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/welcome)
