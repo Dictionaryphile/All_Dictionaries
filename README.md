@@ -280,6 +280,7 @@
 - [TERMIUM Plus®](http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html)
 - [Wordcraft Dictionary](http://wordcraft.infopop.cc/)
 - http://www.mnemonicdictionary.com/
+- [Learn These Words First](http://learnthesewordsfirst.com/)
 - [Computer Desktop Encyclopedia: The Computer Language Company](http://www.computerlanguage.com/)
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [FORVO](https://forvo.com/)
