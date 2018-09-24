@@ -30,7 +30,7 @@
 
 ## 国内常用在线词典
 - [有道词典](http://youdao.com/w/eng/welcome/)
-    - [李华驹::21 世纪大英汉词典](http://dict.youdao.com/w/eng/welcome/)
+    - [李华驹::21 世纪大英汉词典](https://mp.weixin.qq.com/s/60kU_X3GWX4aQp6N09eoiQ)
     - [柯林斯英汉双解大词典::译文质量一般](http://cidian.youdao.com/5.0/help/deskdict5beta/features/16.html)
     - [汉语大词典出版社::现代汉语大词典](http://dict.youdao.com/w/爱屋及乌/)
     - [牛津高阶英汉双解词典（第 7 版）（仅 app 端可用）](http://cidian.youdao.com/)
@@ -374,6 +374,7 @@
 - [Open Yale Courses](https://oyc.yale.edu/)
 - [edX](https://www.edx.org/)
 - [The Great Courses](https://www.thegreatcourses.com/)
+- [ENGLISH NUMBERS](https://english-number.com/)
 
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
