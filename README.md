@@ -145,6 +145,7 @@
 
 ## 其他汉语类
 ### 官方或权威机构
+- [中国大百科全书数据库](http://h.bkzx.cn/)
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
 - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
 - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
