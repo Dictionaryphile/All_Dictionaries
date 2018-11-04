@@ -284,6 +284,7 @@
 - http://www.mnemonicdictionary.com/
 - [Learn These Words First](http://learnthesewordsfirst.com/)
 - [Computer Desktop Encyclopedia: The Computer Language Company](http://www.computerlanguage.com/)
+- [online converter of English text to IPA phonetic transcription](https://tophonetics.com/)
 - [林語堂《當代漢英詞典》電子版- Lin Yutang's Chinese-English Dictionary](http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/)
 - [FORVO](https://forvo.com/)
 - [雙語詞彙資料庫](http://terms.naer.edu.tw/)
