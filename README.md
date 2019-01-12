@@ -151,6 +151,7 @@
 - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
 - [付费::辞源（第三版）](http://ciyuan.cp.com.cn/)
 - [付费::大辞海](http://www.dacihai.com.cn/)
+- [北师大 - 汉字全息资源应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index)
 - [新词语研究资源库](http://ling.cuc.edu.cn/newword/)
 - [中华语文知识库](http://www.zhonghuayuwen.org/)
 - [中華語文知識庫](http://chinese-linguipedia.org/)
