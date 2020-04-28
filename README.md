@@ -158,6 +158,7 @@
 - [付费::大辞海](http://www.dacihai.com.cn/)
 - [付费::辞海](http://gongjushu.cishu.com.cn/)
 - [付费::历版《辞海》数据库](http://chlb.cishu.com.cn/)
+- [100年汉语新词新语大辞典](http://xcxy.cishu.com.cn/)
 - [北师大 - 汉字全息资源应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index)
 - [新词语研究资源库](http://ling.cuc.edu.cn/newword/)
 - [中华语文知识库](http://www.zhonghuayuwen.org/)
