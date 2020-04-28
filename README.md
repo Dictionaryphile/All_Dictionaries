@@ -149,6 +149,7 @@
 
 ## 其他汉语类
 ### 官方或权威机构
+- [中国大百科全书 第三版 · 网络版](https://poe.zgbk.com/)
 - [中国大百科全书数据库](http://h.bkzx.cn/)
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
 - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
@@ -188,11 +189,16 @@
 - [搜霸近义词大全](http://www.soba8.com/jinyici/)
 
 ### 其他汉语类站点
+- [說文解字 ShuoWen.ORG](http://www.shuowen.org/)
 - [字海网，叶典网](http://yedict.com/)
 - [国学网](http://www.guoxue.com/)
 - [搜韵网](https://sou-yun.com/)
 - [漢語大詞典](https://sou-yun.com/Query.aspx?type=word&id=12331)
 - [韻典網](http://ytenx.org/)
+- [說文解字綜合檢索 蔣門馬整理](http://www.homeinmists.com/shuowen/)
+- [臺灣閩南語常用詞辭典](http://twblg.dict.edu.tw/holodict_new/index.html)
+- [异体字字典](http://dict.variants.moe.edu.tw)
+- [漢字古今中外讀音查詢 | 语言维基](https://langwiki.org/tools/dict/)
 - [古今文字集成](http://ccamc.co/)
 - [古诗文网](http://www.gushiwen.org/)
 - [千千秀字](http://www.qqxiuzi.cn/)
@@ -263,6 +269,7 @@
 - [Financial Dictionary | Investopedia](https://www.investopedia.com/dictionary/)
 - [The OEDILF, our online limerictionary!](https://www.oedilf.com/db/Lim.php)
 - [1913 Webster's Online Dictionary](http://www.webster-dictionary.org/)
+- [The Century Dictionary](http://www.global-language.com/CENTURY/)
 - [Techopedia – IT Dictionary for Computer Terms and Tech Definitions](https://www.techopedia.com/dictionary)
 - [FOLDOC - Computing Dictionary](http://foldoc.org/)
 - [Hackterms: A crowd-sourced developer dictionary](https://www.hackterms.com/)
@@ -369,6 +376,7 @@
 - [Pin Pin Chinese-English Dictionary](http://dictionary.pinpinchinese.com/)
 - [sentencedict.com](http://sentencedict.com/)
 - [词汇大全](http://dict.youdao.com/map/)
+- [pyDict - 英漢、漢英兩用字典](http://mirror.sars.tw/FreeBSD_Chinese_HOWTO/pydict.html)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
@@ -389,10 +397,12 @@
 ## 日本語
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
 - [goo辞書](http://dictionary.goo.ne.jp/)
+    - [プログレッシブ英和中辞典 第5版](https://dictionary.goo.ne.jp/en/)
+    - [プログレッシブ和英中辞典 第4版](https://dictionary.goo.ne.jp/en/)
     - [『デジタル大辞泉』](https://dictionary.goo.ne.jp/jn/)
-    - [『小学館ランダムハウス英和大辞典』（第２版）無料！](https://dictionary.goo.ne.jp/ej/)
-    - [『デイリーコンサイス中日辞典（第2版）』](https://dictionary.goo.ne.jp/cj/)
-    - [『デイリーコンサイス日中辞典』](https://dictionary.goo.ne.jp/jc/)
+    - [『小学館ランダムハウス英和大辞典』（第２版）無料！❗已下线](https://dictionary.goo.ne.jp/ej/)
+    - [『デイリーコンサイス中日辞典（第2版）』❗已下线](https://dictionary.goo.ne.jp/cj/)
+    - [『デイリーコンサイス日中辞典』❗已下线](https://dictionary.goo.ne.jp/jc/)
 - [Yahoo!辞書](https://dic.yahoo.co.jp/)
 - https://kotobank.jp/langdictionary/
 - [三省堂 Web Dictionary](https://www.sanseido.biz/)
@@ -402,6 +412,7 @@
     - [研究社 新英和中辞典](https://ejje.weblio.jp/cat/dictionary/kenej)
     - [研究社 新和英中辞典](https://ejje.weblio.jp/cat/dictionary/kenje)
     - [Eゲイト英和辞典::外研社英汉多功能词典 2008 版 蓝本](https://ejje.weblio.jp/cat/dictionary/egtej)
+    - [類語辞典・シソーラス・対義語 - Weblio辞書](https://thesaurus.weblio.jp/)
 - [斎藤和英大辞典](https://ejje.weblio.jp/cat/dictionary/stwdj)
 - [infoseek](http://dictionary.infoseek.ne.jp/)
     - [大辞林 第三版](http://dictionary.infoseek.ne.jp/dictionary/daijirin/)
@@ -412,6 +423,7 @@
     - [日本大百科全書(ニッポニカ)](http://dictionary.infoseek.ne.jp/dictionary/nipponica/)
 - [JapanKnowledge::日本大百科全書](http://japanknowledge.com/)
     - [『角川古語大辞典』（全5巻）](http://japanknowledge.com/contents/kadokawakogo/index.html)
+- [広辞苑無料検索](https://sakura-paris.org/dict/)
 - [BitEx中国語学習](https://bitex-cn.com/)
 - [Jisho](https://jisho.org/)
 - [Longman English–Japanese Dictionary](https://www.ldoceonline.com/dictionary/english-japanese/welcome)
@@ -421,6 +433,7 @@
 - [研究社 - ルミナス[Luminous]英和・和英辞典](http://www.kenkyusha.co.jp/modules/08_luminous/index.php?content_id=1)
 - [漢字辞典](http://kanjitisiki.com/)
 - http://www.kanjipedia.jp/
+- [English-Japanese Dictionary - 英日/日英/英語辞典 - 天火字典](https://cdict.info/ejdict.php)
 - [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
 - [souka 日语在线词典](https://soukaapp.com/dict/)
 - [OJAD日语声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/)
@@ -432,11 +445,33 @@
 - [词林日语词典](http://www.cilin.org/jp/)
 - [ChineseWriter](http://www.kodensha.jp/soft/cw/)
 - [漢字辞典](http://kanji.jitenon.jp/)
+- [漢字と古典の総合サイト、字源 - jigen.net](http://jigen.net/)
 - [ピクシブ百科事典](https://dic.pixiv.net/)
 - [日本の伝統文化・芸能事典](http://iroha-japan.net/)
 - http://dic.nicovideo.jp/
 - [辞書辞典無料検索JLogos](http://www.jlogos.com/)
 - [和独辞典](https://www.wadoku.de/)
+- [Yakuru和露・露和オンライン辞書](https://yakuru.net/)
+- [日语词频](http://nlt.tsukuba.lagoinst.info/search/)
+- [WWWJDIC日语词典 WWWJDIC: Online Japanese Dictionary Service](http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic)
+- [略字Wiki](https://seesaawiki.jp/ryakuji/)
+- [MOJi辞書: 日语实用词典](https://briefo.tech/)
+- [かくなび](https://kaku-navi.com/)
+- [文字拡大](https://moji.tekkai.com/)
+- [読み方は？](https://yomikatawa.com/)
+- [OJAD 声调](http://www.gavo.t.u-tokyo.ac.jp/ojad/)
+- [平明四字熟語辞典](http://yojijyukugo.com/)
+- [複合動詞レキシコン](https://db4.ninjal.ac.jp/vvlexicon/)
+- [基本動詞ハンドブック　](http://verbhandbook.ninjal.ac.jp/)
+- [语源由来辞典](http://gogen-allguide.com/)
+- [日本語俗語辞書](http://zokugo-dict.com/)
+- [故事ことわざ辞典](http://kotowaza-allguide.com/)
+- [日本語表現インフォ](https://hyogen.info/)
+- [違いがわかる事典](https://chigai-allguide.com/)
+- [連想類語辞典](https://renso-ruigo.com/)
+- [当字語典](http://f-makuramoto.com/43-syakaika/yomikaki.html)
+- [通信用語の基礎知識](https://www.wdic.org/)
+- [漢字データベースプロジェクト](http://kanji-database.sourceforge.net/index.html)
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
@@ -580,6 +615,7 @@
 - [梵语辞书](http://www.huafan.org.cn/index.php?m=Page&a=index&id=51)
 
 ## 其他语种
+- [EUdict (European dictionary) ](https://eudict.com/)
 - [泰语 LONGDO DICT](http://dict.longdo.com/index.php)
 - [泰国皇家学术院出的 泰泰词典](http://rirs3.royin.go.th/dictionary.asp)
 - [thai-language.com](http://www.thai-language.com/)
@@ -597,12 +633,14 @@
 - [维搜维汉在线词典 - izda](http://cn.dict.izda.com/)
 - [Uyghur-Chinese-Uyghur Dictionary 维汉词典](http://www.uyghurche.com/)
 - [e马来文字典 eKamus](http://www.ekamus.info/)
+- [夏威夷语词典](http://wehewehe.org)
 
 ### 拉丁语
 - [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
 - [Glossa: a Latin dictionary](http://athirdway.com/glossa/)
 - [William Whitaker's Words](http://archives.nd.edu/words.html)
 - [Legal Latin phrases and maxims](http://www.inrebus.com/legalmaxims_a.php)
+- [Latin-English](http://humanum.arts.cuhk.edu.hk/Lexis/Latin/)
 
 ## 其他
 - [公共服务领域外文译写网站](http://www.wwyx.cn/)
