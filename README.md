@@ -149,7 +149,7 @@
 
 ## 其他汉语类
 ### 官方或权威机构
-- [中国大百科全书 第三版 · 网络版](https://poe.zgbk.com/)
+- [中国大百科全书 第三版 · 网络版](https://www.zgbk.com/)
 - [中国大百科全书数据库](http://h.bkzx.cn/)
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
 - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
@@ -307,7 +307,6 @@
 - [欧路词典在线版](https://dict.eudic.net/)
 - [Dr.eye 譯典通](https://yun.dreye.com/dict_new/dict.php)
 - [顏氏美語網路辭典](http://www.onlinedict.com/)
-- [斧子词典 - 合作伙伴:冰冰字幕组::21世纪大英汉词典、牛津高阶英汉双解词典](https://www.axdict.com/)
 - [遠流字典通／線上資料庫](http://wisdom.hchs.kh.edu.tw/YLDict/)
 - [欧华词典 - 西班牙语、意大利语、德语、法语、英语在线词典及翻译](http://www.ohdict.com/)
 - [Mandarin-English Dictionary & Thesaurus](https://www.yellowbridge.com/chinese/dictionary.php)
@@ -377,6 +376,7 @@
 - [sentencedict.com](http://sentencedict.com/)
 - [词汇大全](http://dict.youdao.com/map/)
 - [pyDict - 英漢、漢英兩用字典](http://mirror.sars.tw/FreeBSD_Chinese_HOWTO/pydict.html)
+- [万词王WantWords](https://wantwords.thunlp.org/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
