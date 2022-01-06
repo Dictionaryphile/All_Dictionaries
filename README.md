@@ -64,7 +64,6 @@
 - [优词词典](http://www.youdict.com/)
 - [人人词典 - 跟人人影视字幕组一起学英语](https://www.91dict.com/)
 - [汉典](http://www.zdic.net/)
-- [国学大师](http://www.guoxuedashi.com/)
 - [萌典](https://www.moedict.tw/)
 - [YouGlish::Use YouTube to improve your English pronunciation](https://youglish.com/)
 
@@ -79,10 +78,7 @@
 - [Bing Microsoft Translator](https://www.bing.com/translator)
 - [有道翻译](http://fanyi.youdao.com/)
 - [Yandex.Translate](https://translate.yandex.com/)
-- [AliTranslate](https://tools.alibaba.com/translate/)
-- [Translate by Babylon - Free Online Translation](http://translation.babylon-software.com/)
-- [爱词霸在线翻译](http://fy.iciba.com/)
-- [XYZ翻译网](http://www.xyzdict.com/)
+
 
 ## 常用英语词典
 **注**：英语词典分母语型词典和学习型词典，部分站点兼有两种词典，以下分类并不严格。
@@ -113,7 +109,6 @@
 - [AHD::The American Heritage Dictionary of the English Language](https://www.ahdictionary.com/)
 - [YourDictionary](http://www.yourdictionary.com/)
 - [AHD5::The American Heritage Dictionary of the English Language](http://americanheritage.yourdictionary.com/)
-- [WNWCD5::Webster’s New World College Dictionary 韦氏新世界大学词典](http://websters.yourdictionary.com/)
 - [Urban Dictionary](http://www.urbandictionary.com/)
 - [TFD::TheFreeDictionary](http://www.thefreedictionary.com/)
 - [Random House Kernerman Webster’s College Dictionary](https://www.thefreedictionary.com/welcome)
@@ -156,6 +151,7 @@
 - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
 - [付费::辞源（第三版）](http://ciyuan.cp.com.cn/)
 - [付费::大辞海](http://www.dacihai.com.cn/)
+- [付费::辞海官方网站](https://cihai.com.cn/)
 - [付费::辞海](http://gongjushu.cishu.com.cn/)
 - [付费::历版《辞海》数据库](http://chlb.cishu.com.cn/)
 - [100年汉语新词新语大辞典](http://xcxy.cishu.com.cn/)
@@ -477,7 +473,7 @@
 - [ことわざの参考書](http://tantaka.com/kotowaza/)
 - [日本語辞典・漢字字典・ことわざ辞典・四字熟語辞典](http://www.nihonjiten.com/)
 - [FreshEyePedia](http://wkp.fresheye.com/)
-- [Yahoo!辞書 2019-05-31❗已下线](https://dic.yahoo.co.jp/)
+
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
@@ -746,8 +742,9 @@
 
 ## 词典软件 、语言学习 app
 - [GoldenDict](https://github.com/goldendict/)
-- [MDict](http://mdict.cn/) ： Windows、Android、iOS
+- [MDict](http://mdict.cn/) ： Windows、Android、iOS、macOS
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
+- [Dict Tango：mdx](https://forum.freemdict.com/t/topic/2354)：Android
 - [EBDic：EPWING、mdx、StarDict](http://t.cn/RY14MLP)：Android
 - [EB series：EPWING](http://ebstudio.info/) : iOS、Android、macOS、Windows [mdx] 适合日语学习者
 - [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2018-05-06] macOS / iOS 内置版权词典名录](https://dictionaryphile.github.io/blog/2017/03/14/)
@@ -814,5 +811,19 @@
 - [Saladict 沙拉查词 on GitHub](https://github.com/crimx/ext-saladict)
 - [FairyDict on GitHub](https://github.com/revir/FairyDict)
 - [汉典划词查询的 Chrome 插件 on GitHub](https://github.com/Ovilia/handian-chrome-extension)
+
+## These sites can’t be reached.
+- [Yahoo!辞書 2019-05-31❗已下线](https://dic.yahoo.co.jp/)
+- [国学大师](http://www.guoxuedashi.com/)
+- [WNWCD5::Webster’s New World College Dictionary 韦氏新世界大学词典](http://websters.yourdictionary.com/)
+
+
+## These sites were delisted.
+- [XYZ翻译网](http://www.xyzdict.com/)
+- [爱词霸在线翻译](http://fy.iciba.com/)
+- [AliTranslate](https://tools.alibaba.com/translate/)
+- [Translate by Babylon - Free Online Translation](http://translation.babylon-software.com/)
+
+
 
 -EOF-
