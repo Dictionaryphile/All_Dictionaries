@@ -278,6 +278,7 @@
 - [Answers.com](http://www.answers.com/)
 - [Digital Dictionary of Buddhism 電子佛教辭典](http://www.buddhism-dict.net/ddb/)
 - [The CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
+- [Sentence Stack](https://sentencestack.com/)
 - [Ludwig·Find the perfect English sentence to express each one of your ideas and write like a pro](https://ludwig.guru/)
 - [Correct English](http://www.antimoon.com/ce/)
 - [howjsay.com:A Dictionary of English Pronunciation](http://howjsay.com/)
