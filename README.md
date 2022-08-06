@@ -399,7 +399,7 @@
     - [『小学館ランダムハウス英和大辞典』（第２版）無料！❗已下线](https://dictionary.goo.ne.jp/ej/)
     - [『デイリーコンサイス中日辞典（第2版）』❗已下线](https://dictionary.goo.ne.jp/cj/)
     - [『デイリーコンサイス日中辞典』❗已下线](https://dictionary.goo.ne.jp/jc/)
-- https://kotobank.jp/langdictionary/
+- [コトバンク](https://kotobank.jp/)
 - [三省堂 Web Dictionary](https://www.sanseido.biz/)
 - [研究社 Online Dictionary ](http://kod.kenkyusha.co.jp/service/faq/faq10.jsp)
 - [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
@@ -429,7 +429,7 @@
 - [「英辞郎 on the WEB 」](https://eow.alc.co.jp/)
 - [研究社 - ルミナス[Luminous]英和・和英辞典](http://www.kenkyusha.co.jp/modules/08_luminous/index.php?content_id=1)
 - [漢字辞典](http://kanjitisiki.com/)
-- http://www.kanjipedia.jp/
+- [漢字ペディア](http://www.kanjipedia.jp/)
 - [English-Japanese Dictionary - 英日/日英/英語辞典 - 天火字典](https://cdict.info/ejdict.php)
 - [沪江小D - 日语词典](https://dict.hjenglish.com/jp/)
 - [souka 日语在线词典](https://soukaapp.com/dict/)
@@ -445,7 +445,7 @@
 - [漢字と古典の総合サイト、字源 - jigen.net](http://jigen.net/)
 - [ピクシブ百科事典](https://dic.pixiv.net/)
 - [日本の伝統文化・芸能事典](http://iroha-japan.net/)
-- http://dic.nicovideo.jp/
+- [ニコニコ大百科](http://dic.nicovideo.jp/)
 - [辞書辞典無料検索JLogos](http://www.jlogos.com/)
 - [和独辞典](https://www.wadoku.de/)
 - [Yakuru和露・露和オンライン辞書](https://yakuru.net/)
