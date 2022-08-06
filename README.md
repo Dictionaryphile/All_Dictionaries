@@ -473,7 +473,11 @@
 - [ことわざの参考書](http://tantaka.com/kotowaza/)
 - [日本語辞典・漢字字典・ことわざ辞典・四字熟語辞典](http://www.nihonjiten.com/)
 - [FreshEyePedia](http://wkp.fresheye.com/)
-
+- [Japanese dictionary](https://www.japandict.com)
+- [漢字の正しい書き順](https://kakijun.jp/) 
+- [日语语法酷](https://grammar.izaodao.com/)
+- [ふりがな文庫](https://furigana.info/)
+- [日本姓氏語源辞典](https://name-power.net/)
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
