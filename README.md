@@ -478,6 +478,7 @@
 - [日语语法酷](https://grammar.izaodao.com/)
 - [ふりがな文庫](https://furigana.info/)
 - [日本姓氏語源辞典](https://name-power.net/)
+- [nekodict](https://nekodict.com/)
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
