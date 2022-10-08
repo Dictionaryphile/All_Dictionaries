@@ -6,6 +6,7 @@
 - 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 - 感谢这些站点为我们提供查询服务，感谢大家的分享、补充
+- [遠東英漢大辭典全文阅读及纯文本化项目](http://feecd.ducidian.com/)
 
 ## 目录
 - [国内常用在线词典](#国内常用在线词典)
@@ -61,7 +62,7 @@
 - [术语在线©全国科学技术名词审定委员会](http://www.termonline.cn/)
 - [知网词典](http://cidian.cnki.net/)
 - [CNKI 翻译助手](http://dict.cnki.net/)
-- [优词词典](http://www.youdict.com/)
+- [quword趣词（原优词词典）](https://www.quword.com/w/welcome)
 - [人人词典 - 跟人人影视字幕组一起学英语](https://www.91dict.com/)
 - [汉典](http://www.zdic.net/)
 - [萌典](https://www.moedict.tw/)
