@@ -145,6 +145,7 @@
 
 ## 其他汉语类
 ### 官方或权威机构
+- [付费::汉语大词典](https://www.hanyudacidian.cn/)
 - [中国大百科全书 第三版 · 网络版](https://www.zgbk.com/)
 - [中国大百科全书数据库](http://h.bkzx.cn/)
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
@@ -155,6 +156,8 @@
 - [付费::辞海官方网站](https://cihai.com.cn/)
 - [付费::辞海](http://gongjushu.cishu.com.cn/)
 - [付费::历版《辞海》数据库](http://chlb.cishu.com.cn/)
+- [付费::中华文史工具书数据库](http://refbook.ancientbooks.cn/)
+- [付费::历版《辞海》数据库](http://chlb.cishu.com.cn/]
 - [100年汉语新词新语大辞典](http://xcxy.cishu.com.cn/)
 - [北师大 - 汉字全息资源应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index)
 - [新词语研究资源库](http://ling.cuc.edu.cn/newword/)
