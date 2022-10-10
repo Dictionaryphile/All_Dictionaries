@@ -485,6 +485,7 @@
 - [日本姓氏語源辞典](https://name-power.net/)
 - [nekodict](https://nekodict.com/)
 - [数え方単位辞典](https://www.sanabo.com/kazoekata/)
+- [用例.jp](http://yourei.jp/)
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
