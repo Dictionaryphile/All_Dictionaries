@@ -798,6 +798,7 @@
 #### 字体
 - [花園明朝](http://fonts.jp/hanazono/)
 - [List of CJK fonts](https://en.wikipedia.org/wiki/List_of_CJK_fonts)
+- [秋水書体](https://github.com/NoHeartPen/QiushuiShotai)
 
 ## 输入法
 - [RIME | 中州韻輸入法引擎](http://rime.im/)
