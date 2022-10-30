@@ -416,6 +416,7 @@
     - [類語辞典・シソーラス・対義語](https://thesaurus.weblio.jp/)
     - [Weblio古語辞典](https://kobun.weblio.jp/)
 - [斎藤和英大辞典](https://ejje.weblio.jp/cat/dictionary/stwdj)
+- [愛知大学：中国語語彙データベース](http://hcs.aichi-u.ac.jp/php/search.php)
 - [infoseek](http://dictionary.infoseek.ne.jp/)
     - [大辞林 第三版](http://dictionary.infoseek.ne.jp/dictionary/daijirin/)
     - [デジタル大辞泉](http://dictionary.infoseek.ne.jp/dictionary/daijisen/)
