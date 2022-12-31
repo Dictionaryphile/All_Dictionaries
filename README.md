@@ -157,7 +157,6 @@
 - [付费::辞海](http://gongjushu.cishu.com.cn/)
 - [付费::历版《辞海》数据库](http://chlb.cishu.com.cn/)
 - [付费::中华文史工具书数据库](http://refbook.ancientbooks.cn/)
-- [付费::历版《辞海》数据库](http://chlb.cishu.com.cn/]
 - [100年汉语新词新语大辞典](http://xcxy.cishu.com.cn/)
 - [北师大 - 汉字全息资源应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index)
 - [新词语研究资源库](http://ling.cuc.edu.cn/newword/)
@@ -173,6 +172,8 @@
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
 - [东方语言学](http://www.eastling.org/)
+- [《汉语方言学大词典》数字化平台](http://www.fangyanxue.com:8090/)
+- [国家语言资源服务平台](http://fw.ywky.edu.cn/)
 
 ### 同义词
 - [哈工大社会计算与信息检索研究中心 同义词词林(扩展版)](https://www.ltp-cloud.com/download/)
