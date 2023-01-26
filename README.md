@@ -486,6 +486,8 @@
 - [ふりがな文庫](https://furigana.info/)
 - [日本姓氏語源辞典](https://name-power.net/)
 - [nekodict](https://nekodict.com/)
+- [数え方単位辞典](https://www.sanabo.com/kazoekata/)
+- [用例.jp](http://yourei.jp/)
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
@@ -798,6 +800,7 @@
 #### 字体
 - [花園明朝](http://fonts.jp/hanazono/)
 - [List of CJK fonts](https://en.wikipedia.org/wiki/List_of_CJK_fonts)
+- [秋水書体](https://github.com/NoHeartPen/QiushuiShotai)
 
 ## 输入法
 - [RIME | 中州韻輸入法引擎](http://rime.im/)
