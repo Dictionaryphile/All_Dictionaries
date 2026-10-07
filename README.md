@@ -823,6 +823,7 @@
 - [Saladict 沙拉查词 on GitHub](https://github.com/crimx/ext-saladict)
 - [FairyDict on GitHub](https://github.com/revir/FairyDict)
 - [汉典划词查询的 Chrome 插件 on GitHub](https://github.com/Ovilia/handian-chrome-extension)
+- [Rolko：中文网页划词工具](https://www.rolko.xyz/chinese-popup-dictionary-for-websites) — 适用于桌面 Chrome 的可选中文网页文字，提供拼音和英语释义；基础查词免费，保存新词需付费订阅，已保存的词在免费套餐下仍可复习；解释由 AI 辅助。
 
 ## These sites can’t be reached.
 - [Yahoo!辞書 2019-05-31❗已下线](https://dic.yahoo.co.jp/)
